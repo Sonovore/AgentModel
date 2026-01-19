@@ -8,7 +8,13 @@ Control theory provides mathematical frameworks for understanding how systems re
 
 ## Status
 
-**Current phase:** Identification - listing relevant models, not yet researching.
+**Current phase:** Active research - foundational concepts being explored in depth.
+
+## Completed Research
+
+| Document | Summary |
+|----------|---------|
+| [Feedback Loops](./feedback-loops.md) | Open/closed loop, gain, bandwidth, phase margin, oscillation conditions, positive/negative feedback, feedforward, cascade control |
 
 ## Mental Models to Explore
 
