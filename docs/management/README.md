@@ -1,6 +1,6 @@
-# Agent Mental Models
+# Management Frameworks
 
-Exploration of how established management/decision frameworks apply to AI agent supervision.
+Mental models from management theory, organizational behavior, and decision science applied to AI agent supervision.
 
 ## Purpose
 
