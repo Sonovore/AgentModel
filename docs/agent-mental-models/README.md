@@ -29,16 +29,15 @@ Each framework offers a different lens for thinking about agent management. Some
 | Mission Command | `mission-command.md` | Prerequisites (Einheit, Vertrauen), backbrief pattern |
 | Principal-Agent Theory | `principal-agent.md` | Hidden action/information, frozen incentives, monitoring |
 | Incident Command System | `incident-command-system.md` | Span of control (3-7), modular scaling, unified command |
-
-### Priority 2: Worth Exploring
-
-| Framework | Source | Why |
-|-----------|--------|-----|
-| Situational Leadership | Hersey/Blanchard | Adjusting autonomy based on task/capability |
-| Trust Development | Mayer et al. | Operationalizing trust (ability, integrity, benevolence) |
-| Recognition-Primed Decision | Gary Klein | How experts actually decide (pattern → simulate → act) |
-| Circuit Breaker Pattern | Michael Nygard | Failure handling, preventing cascade |
-| RACI Matrix | Project management | Role clarity in multi-agent systems |
+| **Stability** | | |
+| Circuit Breaker Pattern | `circuit-breaker.md` | Fail fast, prevent cascade, dynamic trust via state machine |
+| **Leadership & Trust** | | |
+| Situational Leadership | `situational-leadership.md` | Three-style model (Direct/Explore/Delegate) based on task characteristics |
+| Trust Development | `trust-development.md` | Multi-dimensional trust (Ability, Integrity, Benevolence), domain-specific |
+| **Decision Making** | | |
+| Recognition-Primed Decision | `recognition-primed-decision.md` | Pattern matching works, but agents can't learn from feedback |
+| **Responsibility** | | |
+| RACI Matrix | `raci-matrix.md` | Agents can be Responsible but never Accountable |
 
 ### Priority 3: Maybe Later
 
