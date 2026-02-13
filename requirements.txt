@@ -1,0 +1,8 @@
+# Python dependencies for AgentModel coordination system
+# Install with: pip install -r requirements.txt
+
+# YAML parsing for schemas and configurations
+PyYAML>=6.0.0
+
+# JSON Schema validation for message validation
+jsonschema>=4.26.0

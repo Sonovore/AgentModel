@@ -1,0 +1,1441 @@
+# Master Bibliography
+
+## Document Metadata
+
+**Created:** 2026-01-20
+**Model Used:** Claude Sonnet 4.5
+**Purpose:** Comprehensive bibliography for all mental model research
+**Coverage:** 1407 unique sources across 8 categories
+
+---
+
+## Books
+
+- "Improving the Battle Rhythm to Operate at the Speed of Relevance" - NDU Press
+- "Staff Processes in Large-Scale Combat Operations Part 1: The Rhythm of the Battle" - Army University Press
+- [A Grammar of Expressive Conducting Gestures | Springer](https://link.springer.com/chapter/10.1007/978-3-031-57892-2_5)
+- [About the Military Decision-Making Process (MDMP) - The Lightning Press](https://www.thelightningpress.com/about-the-military-decisionmaking-process-mdmp/)
+- [Army University Press: The Levels of War as Levels of Analysis](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/November-December-2021/Harvey-Levels-of-War/)
+- Arrow, K. J. (1951). *Social Choice and Individual Values*. Yale University Press.
+- [Backpressure routing | Wikipedia](https://en.wikipedia.org/wiki/Backpressure_routing)
+- Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
+- Bejtlich, R. (2013). *The Practice of Network Security Monitoring*. No Starch Press.
+- Ben-Tal, A., El Ghaoui, L., and Nemirovski, A. (2009). *Robust Optimization*. Princeton University Press.
+- Berliner, P. (1994). *Thinking in Jazz: The Infinite Art of Improvisation*. University of Chicago Press.
+- [Beyond Auftragstaktik: The Case Against Hyper-Decentralized Command - NDU Press](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2076032/beyond-auftragstaktik-the-case-against-hyper-decentralized-command/)
+- Clark, A. (1997). *Being There: Putting Brain, Body, and World Together Again*. MIT Press.
+- [Command and Control Vulnerabilities to Communications - NDU Press](https://ndupress.ndu.edu/Portals/68/Documents/jfq/jfq-69/JFQ-69_56-63_Wilgenbusch-Heisig.pdf)
+- [Commanders Intent and Concept of Operations - Army University Press](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20131231_art011.pdf)
+- Coram, Robert. "Boyd: The Fighter Pilot Who Changed the Art of War." Back Bay Books, 2002. ISBN 978-0316796880. Biography providing historical context for Boyd's development of OODA and its influence on military doctrine.
+- Craik, K. (1943). *The Nature of Explanation*. Cambridge University Press.
+- [Development and Expression of a High-Reliability Organization](https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0314)
+- Ford, L.R. and Fulkerson, D.R. (1962). *Flows in Networks*. Princeton University Press.
+- Gigerenzer, Gerd, and Peter M. Todd. *Simple Heuristics That Make Us Smart*. Oxford University Press, 1999.
+- Hammond, Grant T. "The Mind of War: John Boyd and American Security." Smithsonian Books, 2001. ISBN 978-1560989417. Intellectual biography focusing on the development of Boyd's ideas and their institutional adoption.
+- Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.
+- Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.
+- Kauffman, S. A. (1993). *The Origins of Order: Self-Organization and Selection in Evolution*. Oxford University Press.
+- Klein, G. A. (1998). Sources of Power: How People Make Decisions. MIT Press.
+- [Leveson, N. G. (2011). *Engineering a Safer World: Systems Thinking Applied to Safety.* MIT Press. [Available as free PDF](https://library.oapen.org/handle/20.500.12657/26043)](https://library.oapen.org/handle/20.500.12657/26043)
+- [Military Strategy Revisited: A Critique of the Lykke Formulation - Army University Press](https://www.armyupress.army.mil/journals/military-review/online-exclusive/2018-ole/may/military-strategy/)
+- Mitchell, M. (2009). *Complexity: A Guided Tour*. Oxford University Press.
+- Monson, I. (1996). *Saying Something: Jazz Improvisation and Interaction*. University of Chicago Press.
+- Newman, M.E.J. (2010). *Networks: An Introduction*. Oxford University Press.
+- Nisan, N., Roughgarden, T., Tardos, E., and Vazirani, V. (eds.) (2007). *Algorithmic Game Theory*. Cambridge University Press.
+- Osinga, Frans P.B. "Science, Strategy and War: The Strategic Theory of John Boyd." Routledge, 2007. ISBN 978-0415459525. The definitive academic analysis of Boyd's work, tracing intellectual influences and systematizing the theory.
+- Perrow, C. (1999). Normal Accidents: Living with High-Risk Technologies. Princeton University Press.
+- Pressing, J. (1984). Cognitive Processes in Improvisation. *Advances in Psychology*, 19, 345-363.
+- Reason, J. (1990). *Human Error*. Cambridge University Press.
+- Richards, Chet. "Certain to Win: The Strategy of John Boyd Applied to Business." Xlibris, 2004. ISBN 978-1413453775. Translates Boyd's military concepts to business strategy with worked examples.
+- Roughgarden, T. (2005). *Selfish Routing and the Price of Anarchy*. MIT Press.
+- Sawyer, R. K. (2003). *Group Creativity: Music, Theater, Collaboration*. Psychology Press.
+- Schelling, T. C. (1960). *The Strategy of Conflict*. Harvard University Press.
+- Sheridan, T. B. (1992). *Telerobotics, Automation, and Human Supervisory Control*. MIT Press.
+- Shoham, Y. and Leyton-Brown, K. (2009). *Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations*. Cambridge University Press.
+- Shoham, Y., & Leyton-Brown, K. (2009). Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations. Cambridge University Press.
+- Simon, Herbert A. *Models of Bounded Rationality*. MIT Press, 1982.
+- Suchman, L. A. (1987). *Plans and Situated Actions*. Cambridge University Press.
+- Sudnow, D. (1978). *Ways of the Hand: The Organization of Improvised Conduct*. Harvard University Press.
+- Tetlock, P. E. (2005). *Expert Political Judgment*. Princeton University Press.
+- [The orchestra conductor - OpenEdition Journals](https://journals.openedition.org/transposition/1296?lang=en)
+- [Troop Leading Procedures (TLP) - The Lightning Press](https://www.thelightningpress.com/troop-leading-procedures-tlp/)
+- [Understanding Rubato: How to Play with Flexibility and Expressiveness](https://www.adultpianobeginners.com/blog/Understanding%20Rubato)
+- Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+- Vygotsky, L. S. (1986). *Thought and Language*. MIT Press.
+- Weiss, G. (Ed.). (1999). *Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence*. MIT Press.
+- [Which Part of the Conductor's Body Conveys Most Expressive Information? A Spatial Occlusion Approach](https://www.researchgate.net/publication/233451570_Which_Part_of_the_Conductor%27s_Body_Conveys_Most_Expressive_Information_A_Spatial_Occlusion_Approach)
+- Woods, D. D., & Hollnagel, E. (2006). *Joint Cognitive Systems: Patterns in Cognitive Systems Engineering*. CRC Press.
+
+## Academic Papers
+
+- "The Role of Information Technology in Supply Chain Collaboration" - International Journal of Logistics Management
+- "Visibility in Global Supply Chains: Research and Practice" - Journal of Business Logistics
+- [A Distributed Deadlock Detection and Resolution Algorithm](https://www.researchgate.net/publication/221613623_A_Distributed_Deadlock_Detection_and_Resolution_Algorithm_Based_on_A_Hybrid_Wait-for_Graph_and_Probe_Generation_Scheme)
+- [A Theory of Adaptive Scaffolding for LLM-Based Pedagogical Agents](https://arxiv.org/html/2508.01503v1)
+- [Adaptation and synchronization – basic mechanisms in music performance](https://arxiv.org/html/2504.03958v1)
+- [Architectures for Building Agentic AI](https://arxiv.org/pdf/2512.09458)
+- Buck, D. A., Trainor, J. E., & Aguirre, B. E. (2006). A Critical Evaluation of the Incident Command System and NIMS. Journal of Homeland Security and Emergency Management.
+- [Chamber Music Coaching Strategies and Rehearsal Techniques That Enable Collaboration](https://www.researchgate.net/publication/305729746_Chamber_Music_Coaching_Strategies_and_Rehearsal_Techniques_That_Enable_Collaboration)
+- Cilliers, F. & Greyvenstein, H. (2012). "The impact of silo mentality on team identity: An organisational case study." *SA Journal of Industrial Psychology.*
+- [Collision avoidance for UAVs using reachable sets](https://www.researchgate.net/publication/282950715_Collision_avoidance_for_UAVs_using_reachable_sets)
+- [Commander's Intent: A Dataset and Modeling Approach for Human-AI Task Specification](https://arxiv.org/abs/2208.08374v1)
+- [Communication failures in the operating room](https://www.researchgate.net/publication/8249586_Communication_failures_in_the_operating_room_An_observational_classification_of_recurrent_types_and_effects)
+- [Conflict Resolution Maneuvers in Air Traffic Control: Investigation of Operational Data](https://www.researchgate.net/publication/254304360_Conflict_Resolution_Maneuvers_in_Air_Traffic_Control_Investigation_of_Operational_Data)
+- [Consequences of Power Distance Orientation in Organisations](https://www.researchgate.net/publication/258199805_Consequences_of_Power_Distance_Orientation_in_Organisations)
+- [Control of airborne delays by adjusting ground delays | ResearchGate](https://www.researchgate.net/publication/361005587_Control_of_airborne_delays_by_adjusting_ground_delays_an_option_to_reduce_CO2_emissions)
+- [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)
+- [Delay Mitigation in Air Traffic Flow Management | arXiv](https://www.arxiv.org/pdf/2002.03806)
+- [Distributed Situation Awareness in Dynamic Systems](https://www.researchgate.net/publication/315669912_Distributed_Situation_Awareness_in_Dynamic_Systems_Theoretical_Development_and_Application_of_an_Ergonomics_Methodology)
+- Dwork, C., Lynch, N., & Stockmeyer, L. (1988). Consensus in the Presence of Partial Synchrony. Journal of the ACM.
+- [Dynamic Assessment in Vygotsky's Sociocultural Theory: Origins and Main Concepts](https://www.researchgate.net/publication/324873091_Dynamic_Assessment_in_Vygotsky's_Sociocultural_Theory_Origins_and_Main_Concepts)
+- [Emergence of Hierarchies in Multi-Agent Self-Organization](https://arxiv.org/pdf/2508.09541)
+- [Evolving Landscape of Enterprise Integration in the Cloud Era](https://www.researchgate.net/publication/391568793_The_Evolving_Landscape_of_Enterprise_Integration_in_the_Cloud_Era)
+- [Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks](https://arxiv.org/html/2508.13143v1)
+- Fischer, M.J., Lynch, N.A., & Paterson, M.S. (1985). "Impossibility of Distributed Consensus with One Faulty Process." *Journal of the ACM.*
+- [Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](https://arxiv.org/html/2509.04731)
+- [Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty](https://arxiv.org/html/2402.06529v2)
+- [Jazzing Up the Theory of Organizational Improvisation](https://www.researchgate.net/profile/Mary-Hatch-5/publication/339598244_Jazzing_Up_the_Theory_of_Organizational_Improvisation/links/5e5affe592851cefa1d1f31c/Jazzing-Up-the-Theory-of-Organizational-Improvisation.pdf)
+- Jensen, M. C., & Meckling, W. H. (1976). "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure." *Journal of Financial Economics*, 3(4), 305-360.
+- Klimoski, R., & Mohammed, S. (1994). Team mental model: Construct or metaphor? *Journal of Management*, 20(2), 403-437.
+- [LLM-based Agents Suffer from Hallucinations: A Survey](https://arxiv.org/html/2509.18970v1)
+- Marks, M. A., Zaccaro, S. J., & Mathieu, J. E. (2000). Performance implications of leader briefings and team-interaction training for team adaptation to novel environments. *Journal of Applied Psychology*, 85(6), 971-986.
+- Melo, M.T., Nickel, S., and Saldanha-da-Gama, F. (2009). "Facility location and supply chain management: A review." *European Journal of Operational Research*, 196(2), 401-412.
+- [Methodology for Estimation of Closest Point of Approach between Aircraft in ATM](https://www.researchgate.net/publication/333807436_Methodology_for_Estimation_of_Closest_Point_of_Approach_between_Aircraft_in_ATM)
+- [Modes of communication during jazz improvisation](https://www.researchgate.net/publication/231861128_Modes_of_communication_during_jazz_improvisation)
+- Moynihan, D. P. (2009). The Network Governance of Crisis Response: Case Studies of Incident Command Systems. Journal of Public Administration Research and Theory.
+- [Mutual Theory of Mind for Human-AI Communication](https://arxiv.org/html/2210.03842v2)
+- [Orchestra rehearsal strategies: Conductor and performer views](https://www.researchgate.net/publication/258173330_Orchestra_rehearsal_strategies_Conductor_and_performer_views)
+- [Reich Model in Collision Risk Study | Semantic Scholar](https://www.semanticscholar.org/paper/REICH-Model-in-Collision-Risk-Study-of-Airspace-Ai/4943a9127a7bfb1d8be171b5560f7da1e4cd56c3)
+- [Roadmap on Incentive Compatibility for AI Alignment - ArXiv](https://arxiv.org/abs/2402.12907)
+- [Scandinavian Journal of Military Studies: The Strategic Corporal, the Tactical General](https://sjms.nu/articles/10.31374/sjms.190)
+- [Service Failures in Restaurants—Which Stage of Service Failure Is the Most Critical? - ResearchGate](https://www.researchgate.net/publication/247785054_Service_Failures_in_RestaurantsWhich_Stage_of_Service_Failure_Is_the_Most_Critical)
+- Simon, Herbert A. "A Behavioral Model of Rational Choice." *Quarterly Journal of Economics* 69, no. 1 (1955): 99-118.
+- Skitka, L. J., Mosier, K. L., & Burdick, M. (1999). Does Automation Bias Decision-Making? International Journal of Human-Computer Studies.
+- [Social and Musical CoOrdination between Members of a String Quartet: An Exploratory Study](https://www.researchgate.net/publication/247733348_Social_and_Musical_CoOrdination_between_Members_of_a_String_Quartet_An_Exploratory_Study)
+- [STAMP/STPA informed characterization of Factors Leading to Loss of Control in AI Systems](https://arxiv.org/html/2512.17600)
+- [Systematic Hazard Analysis for Frontier AI using STPA](https://arxiv.org/html/2506.01782)
+- [Target Level of Safety Measures in Air Transportation | ResearchGate](https://www.researchgate.net/publication/265251293_Target_Level_of_Safety_Measures_in_Air_Transportation_-_Review_Validation_and_Recommendations)
+- [The spur of the moment: what jazz improvisation tells cognitive science](https://www.researchgate.net/publication/324059031_The_spur_of_the_moment_what_jazz_improvisation_tells_cognitive_science)
+- [U.S. Naval Institute Proceedings](https://www.usni.org)
+- [Understanding the Planning of LLM Agents](https://arxiv.org/abs/2402.02716)
+- Vickrey, W. (1961). Counterspeculation, Auctions, and Competitive Sealed Tenders. Journal of Finance.
+- [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657)
+- [Why Multi-Agent LLM Systems Fail](https://arxiv.org/pdf/2503.13657)
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89-100.
+
+## Military Doctrine & Government Documents
+
+- "FY 23 Mission Command Training in Large-Scale Combat Operation, Key Observations" - U.S. Army
+- "Running Estimates: Crawling When We Need to Run" - Army.mil
+- "Staff Processes in Large-Scale Combat Operations" - Center for Army Lessons Learned
+- "The Dying Art of Battle Rhythm" - Center for Army Lessons Learned
+- `docs/military-command/ccir.md` - Commander's Critical Information Requirements (information filtering to prevent overload)
+- `docs/military-communication/pace-plan.md` - Redundant communication planning (Primary, Alternate, Contingency, Emergency)
+- `docs/military-coordination/common-operating-picture.md` - Shared state and situational awareness
+- [A rubric for human-like agents and NeuroAI](https://pmc.ncbi.nlm.nih.gov/articles/PMC9745874/)
+- [ADP 6-0 Mission Command - Army Pubs](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN34403-ADP_6-0-000-WEB-3.pdf)
+- ADP 6-0 Mission Command, U.S. Army
+- [AFDP 3-52: Airspace Control](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-52/3-52-AFDP-AIRSPACE-CONTROL.pdf)
+- [AI is about to radically alter military command structures - The Conversation](https://theconversation.com/ai-is-about-to-radically-alter-military-command-structures-that-havent-changed-much-since-napoleons-army-262200)
+- [Air Force Doctrine Publication 1-1: Mission Command (2023)](https://www.doctrine.af.mil/Portals/61/documents/AFDP_1-1/AFDP%201-1%20Mission%20Command.pdf)
+- Air Force Doctrine Publication 3-0.1, Command and Control (January 2025)
+- Air Force Doctrine Publication 5-0: Planning
+- [Air Force Doctrine: Five-Paragraph Order Training Tool Guide](https://www.doctrine.af.mil/Portals/61/documents/NonDoctrine/Five-Paragraph%20Order%20Training%20Tool%20Guide.pdf)
+- [Airport Runway Capacity and Delay | BITRE](https://www.bitre.gov.au/sites/default/files/op_050.pdf)
+- [An Approach for Semantic Integration of Heterogeneous Data Sources](https://pmc.ncbi.nlm.nih.gov/articles/PMC7924686/)
+- [Appendix: Example of the SBAR and CUS Tools](https://www.ahrq.gov/patient-safety/settings/long-term-care/resource/facilities/ltc/mod2ap.html)
+- [Are We in Time? How Predictive Coding and Dynamical Systems Explain Musical Synchrony](https://pmc.ncbi.nlm.nih.gov/articles/PMC8988459/)
+- [Army OPORD Format](https://irp.fas.org/doddir/army/mioac/opord.htm)
+- [ATP 2-01.3 Intelligence Preparation of the Battlefield](https://home.army.mil/wood/application/files/8915/5751/8365/ATP_2-01.3_Intelligence_Preparation_of_the_Battlefield.pdf)
+- [Auditory dominance in temporal processing: new evidence from synchronization with simultaneous visual and auditory sequences](https://pubmed.ncbi.nlm.nih.gov/12421057/)
+- [Auftragstaktik (Mission Command)](https://researchcentre.army.gov.au/library/australian-army-journal-aaj/auftragstaktik-mission-command)
+- [Auftragstaktik: Decentralization in Military Command - RealClearDefense](https://www.realcleardefense.com/articles/2017/04/28/auftragstaktik_decentralization_in_military_command_111267.html)
+- [Auftragstaktik: The Basis for Modern Military Command?](https://www.academia.edu/38289566/Auftragstaktik_The_Basis_for_Modern_Military_Command)
+- [Australian Army Research Centre: Politics, Strategy and Tactics - Rethinking the Levels of War](https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-16-number-1/politics-strategy-and-tactics-rethinking-levels-war)
+- [Blocked and Bloodied: Lessons from the 2023 Ukrainian Counter-Offensive - U.S. Army](https://www.army.mil/article/286857/blocked_and_bloodied_lessons_from_the_combined_arms_breach_during_the_2023_ukranian_counter_offensive)
+- [Brain-to-brain communication during musical improvisation: a performance case study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10558998/)
+- [Building shared situational awareness in surgery through distributed dialog](https://pmc.ncbi.nlm.nih.gov/articles/PMC3610524/)
+- [C4ISRNet - Military must train to fight when communications break down](https://www.c4isrnet.com/battlefield-tech/2023/04/26/experts-military-must-train-to-fight-through-communications-breakdown/)
+- Campaign Planning Handbook (Army War College)
+- [CDM – Collaborative Decision Making | FAA](https://cdm.fly.faa.gov/)
+- [Center of Gravity: What Clausewitz Really Meant](https://theforge.defence.gov.au/sites/default/files/adfwtc06_strange_and_iron_-_clausewitz.pdf)
+- [Centralized Control and Decentralized Execution - Defense.gov](https://media.defense.gov/2017/Jun/19/2001764937/-1/-1/0/AP_0006_HINOTE_CENTRALIZED_CONTROL_DECENTRALIZED_EXECUTION.PDF)
+- [Changing minds, saving lives: how training psychological safety transforms healthcare](https://pmc.ncbi.nlm.nih.gov/articles/PMC12049904/)
+- [CISA - Leveraging the PACE Plan into the Emergency Communications Ecosystem](https://www.cisa.gov/resources-tools/resources/leveraging-pace-plan-emergency-communications-ecosystem)
+- Citino, Robert. "The German Way of War" (2005) - Prussian military culture
+- [Clausewitz's Center of Gravity: Changing Our Warfighting Doctrine](https://www.clausewitz.com/readings/Echevarria/gravity.pdf)
+- [Cognitive Load Theory: Research That Teachers Really Need to Understand](https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf)
+- [Combined Arms Operations - Fort Moore](https://www.moore.army.mil/mssp/Combined%20Arms%20Operations/)
+- [Common Barriers to Reporting Medical Errors](https://pmc.ncbi.nlm.nih.gov/articles/PMC8211515/)
+- [Common knowledge, coordination, and strategic mentalizing](https://pubmed.ncbi.nlm.nih.gov/31253709/)
+- [Common sense or cognitive bias and groupthink](https://pmc.ncbi.nlm.nih.gov/articles/PMC4275986/)
+- [Communication for coordination: gesture kinematics and conventionality affect synchronization success in piano duos](https://pmc.ncbi.nlm.nih.gov/articles/PMC6132635/)
+- [Coordination and Consonance Between Interacting, Improvising Musicians](https://pmc.ncbi.nlm.nih.gov/articles/PMC8412203/)
+- [Corporate Opportunity Doctrine - Aaron Hall](https://aaronhall.com/corporate-opportunity-doctrine-closely-held-corporations/)
+- [COVID-19 Impact on Global Supply Chains](https://pmc.ncbi.nlm.nih.gov/articles/PMC8768947/)
+- [Creating a shared musical interpretation: Changes in coordination dynamics while learning unfamiliar music together](https://pmc.ncbi.nlm.nih.gov/articles/PMC9796755/)
+- [Crew resource management in the ICU: the need for culture change](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488012/)
+- [Critical Factors for JIT Implementation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7571479/)
+- [Decision-Support Planning and Tools](https://www.benning.army.mil/Armor/eARMOR/content/issues/2016/APR_JUN/2Klein-Hastings16.pdf)
+- [Delayed feedback embedded in perception-action coordination cycles results in anticipation behavior during synchronized rhythmic action](https://pmc.ncbi.nlm.nih.gov/articles/PMC6822724/)
+- Department of the Army. *ADP 3-0: Operations*. Current U.S. Army doctrine on mass and economy of force.
+- [Developing team cognition: A role for simulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC5510246/)
+- [Development of a Dynamic Path Planning System for Autonomous Mobile Robots Using a Multi-Agent System Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12430893/)
+- [DOD Directive 3000.09: Autonomy in Weapon Systems](https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf)
+- [Eliminating Micromanagement and Embracing Mission Command](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/September-October-2022/DeLeon-Tripodi/)
+- [Error Reporting and Disclosure - Patient Safety and Quality](https://www.ncbi.nlm.nih.gov/books/NBK2652/)
+- [Evolving TOC Doctrine and Lessons Learned](https://maverick.net/ultimate-view-lessons-learned-evolving-toc-doctrine/)
+- [Extreme precision in rhythmic interaction is enabled by role-optimized sensorimotor coupling: analysis and modelling of West African drum ensemble music](https://pmc.ncbi.nlm.nih.gov/articles/PMC8380984/)
+- F-86 vs. MiG-15 performance data from official USAF historical studies and Boyd's own Energy-Maneuverability analysis, developed at Eglin Air Force Base 1962-1964.
+- [FAA Efforts to Track and Mitigate Air Traffic Losses of Separation | DOT OIG](https://www.oig.dot.gov/sites/default/files/LoSS%20Final%202-27-13_final_signed_rev.pdf)
+- [FAA Vectoring Procedures](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap5_section_6.html)
+- [Factors Influencing Team Behaviors in Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC6021556/)
+- [Fading Distributed Scaffolds](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519686/)
+- Federal Emergency Management Agency. (2017). National Incident Management System (3rd ed.). FEMA.
+- [Field Artillery Journal: Control vs Coordination](https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-2/Control-vs-Coordination/)
+- FM 100-5 Operations (US Army, 1982)
+- FM 5-0 (Army Planning and Orders Production)
+- [FM 5-0 Army Planning and Orders Production - Elon University ROTC](https://www.elon.edu/assets/docs/rotc/FM%205-0%20Army%20Planning%20and%20Orders%20Production%20.pdf)
+- [From Sound to Movement: Mapping the Neural Mechanisms of Auditory–Motor Entrainment and Synchronization](https://pmc.ncbi.nlm.nih.gov/articles/PMC11592450/)
+- [FY23 Mission Command Training Key Observations](https://www.army.mil/article/274300/fy_23_mission_command_training_in_large_scale_combat_operation_key_observations)
+- [Ground Delay Program (GDP) | FAA](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap18_section_10.html)
+- [High Reliability Organization (HRO) Principles and Patient Safety](https://psnet.ahrq.gov/perspective/high-reliability-organization-hro-principles-and-patient-safety)
+- [History, Mission Command, and the Auftragstaktik Infatuation](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/JA-22/Herrera/Herrera-UA2.pdf)
+- [How to Master Wargaming: Commander and Staff Guide - US Army](https://api.army.mil/e2/c/downloads/2023/01/31/bf65892d/20-06-how-to-master-wargaming-public.pdf)
+- [Human Control of AI Systems: From Supervision to Teaming](https://pmc.ncbi.nlm.nih.gov/articles/PMC12058881/)
+- [Human error: models and management - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1117770/)
+- [Human-Autonomy Teaming: A Review and Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284085/)
+- [Human-Autonomy Teaming: Definitions, Debates, and Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC8195568/)
+- [Implied Tasks - The Hidden Implications](https://apps.dtic.mil/sti/pdfs/AD1158248.pdf)
+- [Intent (military) - Wikipedia](https://en.wikipedia.org/wiki/Intent_(military)
+- [Introduction to TCAS II Version 7.1 | FAA](https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf)
+- [Investigating the "Flow" Experience: Key Conceptual and Operational Issues](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033418/)
+- [Investigation of Aircraft Conflict Resolution Trajectories under Uncertainties](https://pmc.ncbi.nlm.nih.gov/articles/PMC11435565/)
+- [JCS Mission Command Best Practices](https://www.jcs.mil/Portals/36/Documents/Doctrine/fp/missioncommand_fp_2nd_ed.pdf)
+- Joint Publication 1, Doctrine for the Armed Forces of the United States
+- [Keeping an eye on the conductor: neural correlates of visuo-motor synchronization - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4382975/)
+- Knowledge Management in Military Operations
+- [Learning to Speak Up for Patient Safety: Interprofessional Scenarios](https://pmc.ncbi.nlm.nih.gov/articles/PMC7325460/)
+- Lykke, A.F. Jr. (1989). "Defining Military Strategy." *Military Review*.
+- [MDMP Handbook - Army University](https://armyuniversity.edu/cgsc/cgss/files/15-06_0.pdf)
+- [MDMP Lessons and Best Practices Handbook](https://apps.dtic.mil/sti/pdfs/AD1018227.pdf)
+- [Measuring social interaction in music ensembles](https://pmc.ncbi.nlm.nih.gov/articles/PMC4843615/)
+- Military Decision Making Process (MDMP) documentation
+- [Military Decision Making Process - Wikipedia](https://en.wikipedia.org/wiki/Military_Decision_Making_Process)
+- [Military Decision-Making Process](https://api.army.mil/e2/c/downloads/2023/11/17/f7177a3c/23-07-594-military-decision-making-process-nov-23-public.pdf)
+- [Military Decision-Making Process: Organizing and Conducting Planning - US Army](https://www.army.mil/article/271773/military_decision_making_process_organizing_and_conducting_planning)
+- [Military Strategy Magazine: The Post Operational Level Age](https://www.militarystrategymagazine.com/article/the-post-operational-level-age-how-to-properly-maintain-the-interface-between-policy-strategy-and-tactics-in-current-military-challenges/)
+- [Mission Command on Semi-Automatic - U.S. Army](https://www.army.mil/article/184031/mission_command_on_semi_automatic)
+- [Mission command requires sharp commander's intent - U.S. Army](https://www.army.mil/article/215297/mission_command_requires_sharp_commanders_intent)
+- [Music Ensemble as a Resilient System. Managing the Unexpected through Group Interaction](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054041/)
+- [Musical coordination in a large group without plans nor leaders - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7683723/)
+- [Named Areas of Interest Development Needs Refined Process](https://www.benning.army.mil/armor/eARMOR/content/issues/2019/Spring-Summer/2-3Watts-Lee19.pdf)
+- [Neural correlates of auditory temporal predictions during sensorimotor synchronization](https://pmc.ncbi.nlm.nih.gov/articles/PMC3748321/)
+- [Neural Substrates of Spontaneous Musical Performance: An fMRI Study of Jazz Improvisation](https://pmc.ncbi.nlm.nih.gov/articles/PMC2244806/)
+- [NextGen SESAR State of Harmonisation | FAA](https://www.faa.gov/nextgen/nextgen-sesar-state-harmonisation)
+- [NIST SP 800-150: Guide to Cyber Threat Information Sharing](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-150.pdf)
+- [Non-technical Skills in Healthcare](https://www.ncbi.nlm.nih.gov/books/NBK585613/)
+- [Nuisance Alerts in Operational ATC Environments](https://hf.tc.faa.gov/publications/2008-nuisance-alerts-in-operational-atc-environments/full_text.pdf)
+- Osinga, Frans. "Science, Strategy and War" (2007) - Academic analysis connecting Boyd to German doctrine
+- [Planning: Preventing Preventable Problems](https://www.army.mil/article/284810/planning_preventing_preventable_problems_in_military_decision_making_process)
+- [Political Declaration on Responsible Military Use of AI - State Department](https://www.state.gov/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy-2/)
+- [RDSP in Large Scale Combat Operations - US Army MCTP](https://api.army.mil/e2/c/downloads/2023/01/31/647e10d7/22-678-mctp-nftf-rdsp-in-lsco-public.pdf)
+- [Rhythm in joint action: psychological and neurophysiological mechanisms for real-time interpersonal coordination](https://pmc.ncbi.nlm.nih.gov/articles/PMC4240961/)
+- [Risk Management in Theatre Strategic and Operational Planning - Australian Army Research Centre](https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-7-number-3-summer/risk-management-theatre-strategic-and-operational-planning)
+- [SBAR Tool](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html)
+- [Sensorimotor synchronization with visual, auditory, and tactile modalities](https://pmc.ncbi.nlm.nih.gov/articles/PMC10567517/)
+- [Shared worlds and shared minds](https://pubmed.ncbi.nlm.nih.gov/32309965/)
+- [Staff Processes in LSCO: Running Estimates - US Army](https://www.army.mil/article/279458/staff_processes_in_lsco_pt_2_running_estimates_crawling_when_we_need_to_run)
+- [Strategic and Tactical Functions in an Autonomous Air Traffic Management System | NASA](https://aviationsystems.arc.nasa.gov/publications/2021/20210016859_Windhorst_Aviation2021.pdf)
+- [Strategy and the Intervening Concept of Operational Art - Military Strategy Magazine](https://www.militarystrategymagazine.com/article/strategy-and-the-intervening-concept-of-operational-art/)
+- [Synchronizing Operations in Time, Space, Purpose - U.S. Army](https://www.army.mil/article/284542/synchronizing_operations_in_time_space_purpose_the_combined_arms_rehearsal_and_commanders_visualization)
+- [Systematic - Optimizing PACE Military Communications for Mission Success](https://systematic.com/int/industries/defence/products/deep-dives/pace-communications/)
+- [Systemic delay propagation in the US airport network | PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3557445/)
+- [Tactical Generals: Perils of Battlefield Micromanagement](https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-6-number-3-adaptive-army/tactical-generals-leaders-technology-and-perils-battlefield-micromanagement)
+- [Teamwork skills, shared mental models, and performance in simulated trauma teams](https://pmc.ncbi.nlm.nih.gov/articles/PMC2939527/)
+- [Temporal Coordination in Piano Duet Networked Music Performance (NMP): Interactions Between Acoustic Transmission Latency and Musical Role Asymmetries](https://pmc.ncbi.nlm.nih.gov/articles/PMC8500175/)
+- [The Abbreviated Evolution of Combined Arms - The Cove](https://cove.army.gov.au/article/abbreviated-evolution-combined-arms)
+- [The complexity construct in Air Traffic Control | FAA](https://hf.tc.faa.gov/publications/1995-the-complexity-construct-in-air-traffic-control/full_text.pdf)
+- [The Conductor As Visual Guide: Gesture and Perception of Musical Content - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4937028/)
+- [The Delaware Way - Delaware Corporate Law](https://corplaw.delaware.gov/delaware-way-business-judgment/)
+- [The Development of Schwerpunkt](https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20070228_art014.pdf)
+- [The Evolution of Crew Resource Management Training in Commercial Aviation](https://www.faa.gov/sites/faa.gov/files/2022-11/crmhistory.pdf)
+- [The Evolution of Decision Point Tactics in US Army Doctrine](https://apps.dtic.mil/sti/pdfs/AD1085106.pdf)
+- [The Five Types of Army Orders](https://www.part-time-commander.com/types-of-army-orders/)
+- [The impact of a daily pre-operative surgical huddle](https://pmc.ncbi.nlm.nih.gov/articles/PMC4336479/)
+- [The Importance of Military Communications in DDIL Environments - Glasswall](https://www.glasswall.com/us/blog/the-importance-of-establishing-robust-military-communications-in-ddil-environments)
+- [The Long and Winding Road: The US Army Managerial Approach to Command](https://www.tandfonline.com/doi/abs/10.1080/01402390.2010.498244)
+- [The Question of Lag: An Exploration of the Relationship Between Conductor Gesture and Sonic Response - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7758255/)
+- [The Role of High Reliability Organization Foundational Practices](https://pmc.ncbi.nlm.nih.gov/articles/PMC11473027/)
+- [The Tight-interlocked Rhythm Section: Production and Perception of Synchronisation in Jazz Trio Performance](https://pmc.ncbi.nlm.nih.gov/articles/PMC5706983/)
+- [The time course of phase correction: A kinematic investigation of motor adjustment to timing perturbations during sensorimotor synchronization](https://ncbi.nlm.nih.gov/pmc/articles/PMC4244310/)
+- [The U.S. Army, Artificial Intelligence, and Mission Command](https://warontherocks.com/2025/03/the-u-s-army-artificial-intelligence-and-mission-command/)
+- [Toward Combined Arms Warfare: A Survey of 20th Century Tactics, Doctrine, and Organization](https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/house.pdf)
+- TRADOC Pamphlet 525-3-1, Army Operating Concept
+- [Traffic Management Initiatives | FAA](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap18_section_7.html)
+- [Trajectory Based Operations | FAA](https://www.faa.gov/air_traffic/technology/tbo)
+- [Transformational Leadership and Followers' Innovative Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC10135561/)
+- U.S. Air Force Doctrine Publication 1-1, *Mission Command*
+- U.S. Army ADP 6-0, Mission Command
+- U.S. Army Doctrine Publication 6-0: Mission Command (2019)
+- U.S. Army Field Manual 5-0, *The Operations Process*
+- U.S. Army Field Manual 5-0, The Operations Process
+- [U.S. Army Mission Command Articles](https://www.army.mil)
+- [Understanding mission command - U.S. Army](https://www.army.mil/article/106872/understanding_mission_command)
+- [Understanding the Swiss Cheese Model and Its Application to Patient Safety - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8514562/)
+- US Army ADP 5-0: The Operations Process
+- US Army FM 5-0: Army Planning and Orders Production
+- [US Army Infantry Magazine - A Short Note on PACE Plans](https://www.benning.army.mil/infantry/magazine/issues/2013/Jul-Sep/pdfs/Ryan.pdf)
+- [USMC Five Paragraph Order Training Materials](https://www.trngcmd.marines.mil/Portals/207/Docs/FMTBE/Student%20Materials/FMST/209.pdf)
+- [Vygotsky's Zone of Proximal Development: Instructional Implications and Teachers' Professional Development](https://files.eric.ed.gov/fulltext/EJ1081990.pdf)
+- [Wake Turbulence | FAA AIM](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_4.html)
+- Yarger, H.R. (2006). "Strategic Theory for the 21st Century: The Little Book on Big Strategy." U.S. Army War College.
+
+## Reports & White Papers
+
+- 9/11 Commission. (2004). The 9/11 Commission Report. National Commission on Terrorist Attacks Upon the United States.
+- [A dual mobile eye tracking study on natural eye contact during live interactions | Scientific Reports](https://www.nature.com/articles/s41598-023-38346-9)
+- [A Window into Patient Safety: Underreporting of Near-Miss Events](https://hqinstitute.org/a-window-into-patient-safety-underreporting-of-near-miss-events-in-chpsodata/)
+- Cummings, M. L. (2017). "Artificial Intelligence and the Future of Warfare." *Chatham House Report*.
+- [Factors Affecting Patient Safety Near Miss Reporting: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1111/jan.70033)
+- Federal Communications Commission. (2016). Report on Next Generation 911.
+- House of Representatives. (2006). A Failure of Initiative: Final Report of the Select Bipartisan Committee to Investigate the Preparation for and Response to Hurricane Katrina.
+- Principal-agent theory: Information asymmetry is amplified when hierarchy prevents upward reporting
+- Shapiro, M., et al. (2011). A Comprehensive Study of Convergent and Commutative Replicated Data Types. INRIA Technical Report.
+- [The Complete Stage Manager - The Performance Report](https://sites.google.com/site/thecompletestagemanager/performance-and-maintaining-your-show/the-performance-report)
+- [Theatrecrafts - Stage Management - The Show Report](https://theatrecrafts.com/pages/home/topics/stage-management/the-show-report/)
+- [What we can learn from theatre's performance reports | by Bethany Crystal | Medium](https://bethanymarz.medium.com/what-we-can-learn-from-theatres-performance-reports-6fc452130964)
+
+## Academic Websites & Institutions
+
+- [A framework for developing and using shared mental models in human-agent teams](https://hrilab.tufts.edu/publications/scheutzetal17smm.pdf)
+- [A Queuing Model of the Airport Departure Process | MIT](https://www.mit.edu/~hamsa/pubs/SimaiakisBalakrishnan_TS2014.pdf)
+- [A Review of Conflict Detection and Resolution Modeling Methods](http://web.mit.edu/jkkuchar/www/ATC-102.pdf)
+- [A Survey of Distributed Optimization Methods for Multi-Robot Systems | Stanford](https://msl.stanford.edu/papers/halsted_survey_2021.pdf)
+- [A Taxonomy of Organizational Dependencies](http://ccs.mit.edu/papers/ccswp174.html)
+- [API Design: Evolution & Versioning](https://api-university.com/api-lifecycle/api-design/api-design-api-evolution-api-versioning/)
+- [Automatic Curriculum Generation and Emergent Complexity](https://bcommons.berkeley.edu/automatic-curriculum-generation-and-emergent-complexity-inter-agent-competition)
+- [Berklee - Stage Manager Career](https://www.berklee.edu/careers/roles/stage-manager)
+- [Beyond Ends, Ways, and Means - Modern War Institute](https://mwi.westpoint.edu/beyond-ends-ways-and-means-we-need-a-better-strategic-framework-to-win-in-an-era-of-great-power-competition/)
+- [Beyond Normal Accidents and High Reliability Organizations - MIT](http://sunnyday.mit.edu/papers/hro.pdf)
+- [Bounded Rationality - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/bounded-rationality/)
+- [Building machines that better understand human goals](https://news.mit.edu/2020/building-machines-better-understand-human-goals-1214)
+- [Business Judgment Rule - Cornell Law](https://www.law.cornell.edu/wex/business_judgment_rule)
+- [Charismatic Leadership: Weighing the Pros and Cons](https://www.pon.harvard.edu/daily/leadership-skills-daily/charismatic-leadership-weighing-the-pros-and-cons/)
+- [CMR Berkeley - Principal-Agent Perspective](https://cmr.berkeley.edu/2025/07/rethinking-ai-agents-a-principal-agent-perspective/)
+- [Cognition in Jazz Improvisation](https://cml.music.utexas.edu/research/cognition-in-jazz-improvisation)
+- [Collaborative Learning](https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning)
+- [Combat Orders: WARNO, OPORD, FRAGO](https://studylib.net/doc/5416197/introduction-to-combat-orders---rutgers-university-army-rotc)
+- [Commander's Intent for Machines - Modern War Institute](https://mwi.westpoint.edu/commanders-intent-for-machines-reimagining-unmanned-systems-control-in-communications-degraded-environments/)
+- [Conducting change: the effect of a music director's leadership](https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=2546&context=etd)
+- [Conflict Alerts and False Alerts in En-Route Air Traffic Control](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1032&context=isap_2009)
+- [Consensus and Cooperation in Networked Multi-Agent Systems](https://labs.engineering.asu.edu/acs/wp-content/uploads/sites/33/2016/09/Consensus-and-Cooperation-in-Networked-Multi-Agent-Systems-2007.pdf)
+- [Coordination Theory: A Ten-Year Retrospective](http://crowston.syr.edu/sites/crowston.syr.edu/files/CT%20Review%20to%20distribute.pdf)
+- [Corporate Opportunity - Cornell Law](https://www.law.cornell.edu/wex/corporate_opportunity)
+- [Cross-Functional Alignment in Supply Chain Planning - HBS](https://www.hbs.edu/ris/Publication%20Files/07-001.pdf)
+- [Deadlock Detection in Distributed Systems](https://www.cs.uic.edu/~ajayk/Chapter10.pdf)
+- [Fiduciary Duties and Exculpatory Clauses - Michigan Law Review](https://repository.law.umich.edu/mjlr/vol45/iss4/4/)
+- [Fiduciary Duty - Cornell Law](https://www.law.cornell.edu/wex/fiduciary_duty)
+- [How new leaders build — or lose — trust over time](https://source.washu.edu/2021/09/how-new-leaders-build-or-lose-trust-over-time/)
+- [How to Communicate Effectively in the Kitchen - Escoffier](https://www.escoffier.edu/blog/culinary-arts/a-look-at-effective-communication-in-the-kitchen/)
+- [How to Delegate Effectively: 9 Tips for Managers](https://online.hbs.edu/blog/post/how-to-delegate-effectively)
+- [Indiana Law Journal - Vicarious Liability for AI](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=11519&context=ilj)
+- [Interaction, improvisation, and interplay in jazz](https://www.academia.edu/73671764/Interaction_improvisation_and_interplay_in_jazz)
+- [Interpersonal Entrainment in Music Performance](https://online.ucpress.edu/mp/article/38/2/136/114278/Interpersonal-Entrainment-in-Music)
+- [Jazz Glossary: trading eights](https://ccnmtl.columbia.edu/projects/jazzglossary/t/trading_eights.html)
+- [Jazz Improvisation and Organizing](https://www.academia.edu/84028449/Jazz_Improvisation_and_Organizing)
+- [Jazz Improvisation and Organizing - Once More from the Top](http://web.cba.neu.edu/~mzack/articles/jazzorg/jazzorg.htm)
+- [Kitchen Hierarchy Explained: Different Jobs in the Brigade de Cuisine - Escoffier](https://www.escoffier.edu/blog/culinary-pastry-careers/different-types-of-chef-jobs-in-the-brigade-de-cuisine/)
+- [Kitchen Slang: A Guide to Jargon Used in Professional Kitchens - Escoffier](https://www.escoffier.edu/blog/culinary-arts/more-useful-examples-of-chef-jargon/)
+- [Learning Jazz Language by Aural Imitation: A Usage-Based Communicative Jazz Theory](https://muse.jhu.edu/article/836510)
+- [Legal Information Institute - Apparent Authority](https://www.law.cornell.edu/wex/apparent_authority)
+- [Legal Information Institute - Frolic and Detour](https://www.law.cornell.edu/wex/frolic_and_detour)
+- [Legal Information Institute - Respondeat Superior](https://www.law.cornell.edu/wex/respondeat_superior)
+- [Light Plot, Lists and Schedules](http://www3.northern.edu/wild/LiteDes/ld11.htm)
+- [Listening in Improvisation](https://ethnomusicologyreview.ucla.edu/content/listening-improvisation)
+- [Macroscopic workload model for estimating en route sector capacity | MIT Lincoln Lab](https://www.ll.mit.edu/r-d/publications/macroscopic-workload-model-estimating-en-route-sector-capacity)
+- [Mass and Economy of Force](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=2082&context=parameters)
+- [Modern War Institute - Fog and Friction Analysis](https://mwi.westpoint.edu)
+- [Modern War Institute: Krulak Revisited - The Three-Block War and Strategic Corporals](https://mwi.westpoint.edu/krulak-revisited-three-block-war-strategic-corporals-future-battlefield/)
+- [Modern War Institute: Operational Art: How Clausewitz and Isserson Turn American Strategy into Tactical Action](https://mwi.westpoint.edu/operational-art-clausewitz-isserson-turn-american-strategy-tactical-action/)
+- [Normal Accidents by Charles Perrow - Ohio University](https://people.ohio.edu/piccard/entropy/perrow.html)
+- [On Disgorgement in Trust Law - Iowa Law Review](https://ilr.law.uiowa.edu/print/volume-107-issue-5/on-disgorgement-and-punitive-damages-in-trust-law)
+- [Optimal Large-Scale Air Traffic Flow Management | MIT](https://www.mit.edu/~hamsa/pubs/BalakrishnanChandran_ATFM.pdf)
+- [Prepare for the Bullwhip's Sting](https://sloanreview.mit.edu/article/prepare-for-the-bullwhips-sting/)
+- [Revisiting John Boyd and the OODA Loop](https://www.dau.edu/library/damag/september-october2021/revisiting-john-boyd)
+- [Stage Management Handbook Department of Theatre Arts](https://cdn.web.uta.edu/-/media/project/website/cola/theatre/students/documents---current-students/uta-stage-management-handbook-27jo8yv.ashx)
+- [Surveillance Accuracy Requirements | MIT Lincoln Lab](https://www.ll.mit.edu/sites/default/files/publication/doc/surveillance-accuracy-requirements-support-separation-thompson-ja-10644.pdf)
+- [Terminal Area Operations Tradeoffs | MIT](https://web.mit.edu/hamsa/www/pubs/LeeBalakrishnanProcIEEE08.pdf)
+- [The Air Traffic Flow Management Problem with Enroute Capacities | MIT](https://www.mit.edu/~dbertsim/papers/AirTransportation/The%20air%20traffic%20flow%20management%20problem%20with%20enroute%20capacities.pdf)
+- [The Bullwhip Effect in Supply Chains - MIT Sloan](https://sloanreview.mit.edu/article/the-bullwhip-effect-in-supply-chains/)
+- [The dark side of transformational leader behaviors for leaders](https://www.terry.uga.edu/wp-content/uploads/Lin-Scott-Matta-2019-AMJ.pdf)
+- [The Four Essential Components of Transformational Leadership](https://crummer.rollins.edu/news/the-four-essential-components-of-transformational-leadership/)
+- [The Future of Learning: AI Agents and Human-Centered Education](https://digitaleducation.stanford.edu/book-series/2025/future-of-learning)
+- [The Merits of Trust in Transformational Leadership](https://scholarworks.waldenu.edu/dissertations/2448/)
+- [The Micromanagement Myth and Mission Command](https://inss.ndu.edu/Media/News/Article/2311398/the-micromanagement-myth-and-mission-command-making-the-case-for-oversight-of-m/)
+- [The Missing Element in Crafting National Strategy: A Theory of Success - INSS](https://inss.ndu.edu/Media/News/Article/2142863/the-missing-element-in-crafting-national-strategy-a-theory-of-success/)
+- [The Power of Psychological Safety in Health Care Teams](https://medicine.yale.edu/news-article/psychological-safety-in-health-care-teams/)
+- [The Trouble with Mission Command - JFQ 86](https://ndupress.ndu.edu/Portals/68/Documents/jfq/jfq-86/jfq-86_94-100_Hill-Niemi.pdf)
+- [Transactional vs Transformational Leadership](https://online.fit.edu/degrees/undergraduate/applied-psychology/organizational-psych/the-difference-between-transactional-and-transformational-leadership/)
+- [Transactional vs.Transformative Leadership](https://meridianuniversity.edu/content/transactional-vs-transformative-leadership-which-is-better)
+- [Transformational vs. Transactional Leadership](https://nl.edu/blog/archives/2025/transformational-vs-transactional-leadership/)
+- [Understanding Scaffolding and the ZPD in Educational Research](https://www.aare.edu.au/data/publications/2003/ver03682.pdf)
+- [University of Chicago Law Review - The Law of AI is the Law of Risky Agents Without Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)
+- [What Is Mise en Place? The Key to Culinary Organization](https://online.jwu.edu/blog/what-is-mise-en-place-the-key-to-culinary-organization/)
+- [Why Centralized Control/Decentralized Execution Works - Air University](https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Volume-28_Issue-2/F-Docauer.pdf)
+
+## Wikipedia
+
+- [2002 Uberlingen Mid-Air Collision | Wikipedia](https://en.wikipedia.org/wiki/2002_%C3%9Cberlingen_mid-air_collision)
+- [A Behavioral Theory of the Firm - Wikipedia](https://en.wikipedia.org/wiki/A_Behavioral_Theory_of_the_Firm)
+- [AirLand Battle - Wikipedia](https://en.wikipedia.org/wiki/AirLand_Battle)
+- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl's_law)
+- [Arrow's Impossibility Theorem - Wikipedia](https://en.wikipedia.org/wiki/Arrow's_impossibility_theorem)
+- [Autonomation - Wikipedia](https://en.wikipedia.org/wiki/Autonomation)
+- [Bebop](https://en.wikipedia.org/wiki/Bebop)
+- [Brooks's Law and Intercommunication](https://en.wikipedia.org/wiki/Brooks's_law)
+- [Business Judgment Rule - Wikipedia](https://en.wikipedia.org/wiki/Business_judgment_rule)
+- [Carl von Clausewitz - Wikipedia](https://en.wikipedia.org/wiki/Carl_von_Clausewitz)
+- [Cascading Failure - Wikipedia](https://en.wikipedia.org/wiki/Cascading_failure)
+- [Chef de partie - Wikipedia](https://en.wikipedia.org/wiki/Chef_de_partie)
+- [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load)
+- [Combined Arms - Wikipedia](https://en.wikipedia.org/wiki/Combined_arms)
+- [Command by Negation - Wikipedia](https://en.wikipedia.org/wiki/Command_by_negation)
+- [Common operational picture - Wikipedia](https://en.wikipedia.org/wiki/Common_operational_picture)
+- [Comping (jazz) - Wikipedia](https://en.wikipedia.org/wiki/Comping_(jazz)
+- [Concertmaster - Wikipedia](https://en.wikipedia.org/wiki/Concertmaster)
+- [Conducting - Wikipedia](https://en.wikipedia.org/wiki/Conducting)
+- [Conway's Law - Wikipedia](https://en.wikipedia.org/wiki/Conway's_law)
+- [Crew Resource Management - Wikipedia](https://en.wikipedia.org/wiki/Crew_resource_management)
+- [Cue (theatrical) - Wikipedia](https://en.wikipedia.org/wiki/Cue_(theatrical)
+- [Dynamic Assessment](https://en.wikipedia.org/wiki/Dynamic_assessment)
+- [Economy of Force](https://en.wikipedia.org/wiki/Economy_of_force)
+- [Enterprise Service Bus - Wikipedia](https://en.wikipedia.org/wiki/Enterprise_service_bus)
+- [Fiduciary - Wikipedia](https://en.wikipedia.org/wiki/Fiduciary)
+- [Film budgeting - Wikipedia](https://en.wikipedia.org/wiki/Film_budgeting)
+- [Five Paragraph Order - Wikipedia](https://en.wikipedia.org/wiki/Five_paragraph_order)
+- [Fog of War - Wikipedia](https://en.wikipedia.org/wiki/Fog_of_war)
+- [Foundation for Intelligent Physical Agents - Wikipedia](https://en.wikipedia.org/wiki/Foundation_for_Intelligent_Physical_Agents)
+- [Gale-Shapley Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm)
+- [Gerd Gigerenzer - Wikipedia](https://en.wikipedia.org/wiki/Gerd_Gigerenzer)
+- [Gibbard-Satterthwaite Theorem - Wikipedia](https://en.wikipedia.org/wiki/Gibbard–Satterthwaite_theorem)
+- [Gossip Protocol - Wikipedia](https://en.wikipedia.org/wiki/Gossip_protocol)
+- [Gradual Release of Responsibility](https://en.wikipedia.org/wiki/Gradual_release_of_responsibility)
+- [Helmuth von Moltke the Elder - Wikipedia](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)
+- [High Reliability Organization - Wikipedia](https://en.wikipedia.org/wiki/High_reliability_organization)
+- [Ironies of Automation](https://en.wikipedia.org/wiki/Ironies_of_Automation)
+- [Kanban](https://en.wikipedia.org/wiki/Kanban)
+- [Kitchen brigade - Wikipedia](https://en.wikipedia.org/wiki/Kitchen_brigade)
+- [Korean Air Flight 801 - Wikipedia](https://en.wikipedia.org/wiki/Korean_Air_Flight_801)
+- [Lead sheet](https://en.wikipedia.org/wiki/Lead_sheet)
+- [List of Marvel Cinematic Universe films - Wikipedia](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films)
+- [Little's Law](https://en.wikipedia.org/wiki/Little's_law)
+- [Marvel Studios - Wikipedia](https://en.wikipedia.org/wiki/Marvel_Studios)
+- [Mechanism Design - Wikipedia](https://en.wikipedia.org/wiki/Mechanism_design)
+- [Mission Command - Wikipedia](https://en.wikipedia.org/wiki/Mission_command)
+- [Mission-type tactics - Wikipedia](https://en.wikipedia.org/wiki/Mission-type_tactics)
+- [Modal jazz](https://en.wikipedia.org/wiki/Modal_jazz)
+- [Myerson-Satterthwaite Theorem - Wikipedia](https://en.wikipedia.org/wiki/Myerson–Satterthwaite_theorem)
+- [Network congestion / Congestive collapse | Wikipedia](https://en.wikipedia.org/wiki/Congestive_collapse)
+- [Normal Accidents - Wikipedia](https://en.wikipedia.org/wiki/Normal_Accidents)
+- [Ontology-Based Data Integration - Wikipedia](https://en.wikipedia.org/wiki/Ontology-based_data_integration)
+- [OODA Loop - Wikipedia](https://en.wikipedia.org/wiki/OODA_loop)
+- [Operations Order - Wikipedia](https://en.wikipedia.org/wiki/Operations_order)
+- [PACE (communication methodology) - Wikipedia](https://en.wikipedia.org/wiki/PACE_(communication_methodology)
+- [Power Distance - Wikipedia](https://en.wikipedia.org/wiki/Power_distance)
+- [Production Leveling](https://en.wikipedia.org/wiki/Production_leveling)
+- [Real Book](https://en.wikipedia.org/wiki/Real_Book)
+- [Satisficing - Wikipedia](https://en.wikipedia.org/wiki/Satisficing)
+- [Second unit - Wikipedia](https://en.wikipedia.org/wiki/Second_unit)
+- [Semantic Integration - Wikipedia](https://en.wikipedia.org/wiki/Semantic_integration)
+- [Separation (aeronautics) | Wikipedia](https://en.wikipedia.org/wiki/Separation_(aeronautics)
+- [Show control - Wikipedia](https://en.wikipedia.org/wiki/Show_control)
+- [Swiss Cheese Model - Wikipedia](https://en.wikipedia.org/wiki/Swiss_cheese_model)
+- [System Accident - Wikipedia](https://en.wikipedia.org/wiki/System_accident)
+- [Systems Theory - Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
+- [TCP congestion control | Wikipedia](https://en.wikipedia.org/wiki/TCP_congestion_control)
+- [Tempo rubato - Wikipedia](https://en.wikipedia.org/wiki/Tempo_rubato)
+- [The Toyota Way](https://en.wikipedia.org/wiki/The_Toyota_Way)
+- [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
+- [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
+- [Traffic Collision Avoidance System | Wikipedia](https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system)
+- [Transactive Memory Systems - Wikipedia](https://en.wikipedia.org/wiki/Transactive_memory)
+- [Troop Leading Procedures - Wikipedia](https://en.wikipedia.org/wiki/Troop_Leading_Procedures)
+- [Twelve-bar blues - Wikipedia](https://en.wikipedia.org/wiki/Twelve-bar_blues)
+- [Unit production manager - Wikipedia](https://en.wikipedia.org/wiki/Unit_production_manager)
+- [Vickrey-Clarke-Groves Mechanism - Wikipedia](https://en.wikipedia.org/wiki/Vickrey–Clarke–Groves_mechanism)
+- [Wikipedia - Stage management](https://en.wikipedia.org/wiki/Stage_management)
+- [Wikipedia: Deep Operation](https://en.wikipedia.org/wiki/Deep_operation)
+- [Wikipedia: Operational Level of War](https://en.wikipedia.org/wiki/Operational_level_of_war)
+- [Zone of Proximal Development](https://en.wikipedia.org/wiki/Zone_of_proximal_development)
+
+## Websites & Online Resources
+
+- ["YES CHEF" – WHAT THE LINE COOK REALLY MEANS](https://harvestamericacues.com/2015/10/17/yes-chef-what-the-line-cook-really-means/)
+- ['Ceremonies' and 'Rituals' Won't Make You Agile](https://www.projectmanagement.com/articles/457974/Ceremonies-and-Rituals-Wont-Make-You-Agile)
+- [1.12: Cueing Scripts - Humanities LibreTexts](https://human.libretexts.org/Bookshelves/Theater_Film_and_Storytelling/Technical_Theatre_Practicum_(Boltz)
+- [1.2 Preparatory gesture – ConductIT](https://conductit.eu/study-room/technique/technique-1/preparatory-gesture/)
+- [10 most common issues of stand-up meetings and how to solve them](https://isd-soft.com/tech_blog/10-common-issues-stand-meetings-solve/)
+- [10 Reasons to Prioritize Flow Efficiency](https://itx.com/blog/10-reasons-to-prioritize-flow-efficiency-over-resource-efficiency/)
+- [21 Sprint Retrospective Anti-Patterns | Scrum.org](https://www.scrum.org/resources/blog/21-sprint-retrospective-anti-patterns)
+- [21st Century Combined Arms - Marine Corps Association](https://mca-marines.org/blog/gazette/21st-century-combined-arms/)
+- [4 Effective Tips For Being a Great Jazz Accompanist](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-advice/4-tips-great-jazz-accompanist/)
+- [4 Elements of Commander's Intent](https://dbmteam.com/insights/4-elements-of-commanders-intent/)
+- [48% Error Rate: AI Hallucinations Rise in 2025 Reasoning Systems](https://www.techopedia.com/ai-hallucinations-rise)
+- [5 Common Restaurant Inefficiencies and How Workflow Optimization Solves Them - OrderingStack](https://orderingstack.com/blog/5-inefficiencies-in-the-restaurant-ordering-process-and-how-to-deal-with-them)
+- [5 Proven Sprint Planning Best Practices](https://www.quely.io/blog/5-proven-sprint-planning-best-practices-that-align-your-team-and-move-work-forward)
+- [50 Must-Know Jazz Standards](https://www.learnjazzstandards.com/blog/50-jazz-standards-you-need-to-know/)
+- [7 Organizational Design Principles](https://less.works/less/adoption/more-with-less-organizational-design-principles)
+- [7 Wastes of Lean](https://businessmap.io/lean-management/value-waste/7-wastes-of-lean)
+- [8 Problems of Delegation that Hold You Back: How to Overcome Them? - Risely](https://www.risely.me/how-to-resolve-the-problems-of-delegation/)
+- [A Brief Review of Systems, Cybernetics, and Complexity](https://onlinelibrary.wiley.com/doi/10.1155/2023/8205320)
+- [A Cascading Failure Model of the Air Traffic Control Network | MDPI](https://www.mdpi.com/2076-3417/13/10/6256)
+- [A chef describes "Call-Backs"](https://saltandlove.blog/2020/04/13/a-chef-describes-call-backs/)
+- [A Cognitive Load Theory Approach to Understanding Expert Scaffolding](https://link.springer.com/article/10.1007/s10648-024-09848-3)
+- [A Complete Guide to Designing a Commercial Kitchen - MenuTiger](https://www.menutiger.com/blog/commercial-kitchen)
+- [A Complete Guide to Just-in-Time Production](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754271)
+- [A guide to agile ceremonies and scrum meetings | Atlassian](https://www.atlassian.com/agile/scrum/ceremonies)
+- [A Guide to the Kitchen Brigade System for Employers](https://www.indeed.com/hire/c/info/kitchen-brigade-system)
+- [A large-scale multi-objective flights conflict avoidance approach supporting 4D trajectory operation](https://link.springer.com/article/10.1007/s11432-016-9024-y)
+- [A Queueing Model for Airport Capacity and Delay Analysis](https://www.m-hikari.com/ams/ams-2014/ams-69-72-2014/thiagarajAMS69-72-2014.pdf)
+- [A review on air traffic flow management optimization: trends, challenges, and future directions | Springer](https://link.springer.com/article/10.1007/s43621-024-00781-7)
+- [A stochastic reachability analysis approach to aircraft conflict detection and resolution](https://ieeexplore.ieee.org/document/6981611)
+- [A Study on Peer Collaboration and Its Effects in Teaching](https://ijsshr.in/v7i7/Doc/75.pdf)
+- [Acceptable Level of Safety | SKYbrary](https://skybrary.aero/articles/acceptable-level-safety)
+- [ADS-B Surveillance Separation Error Sensitivity Analysis | MITRE](https://www.mitre.org/sites/default/files/pdf/09_4134.pdf)
+- [Advanced demand capacity balancing | SESAR JU](https://www.sesarju.eu/projects/dcb)
+- [Agent Communication in Multi-Agent Systems: Enhancing Coordination and Efficiency](https://smythos.com/developers/agent-development/agent-communication-in-multi-agent-systems/)
+- [Agent Communication Protocols Explained](https://www.digitalocean.com/community/tutorials/agent-communication-protocols-explained)
+- [Agent Coordination in Multi-Agent Systems](https://milvus.io/ai-quick-reference/what-is-agent-coordination-in-multiagent-systems)
+- [Agile at Scale: Comparing SAFe, LeSS, and Nexus Frameworks](https://certifyera.com/blog/agile-at-scale-comparing-safe-less-and-nexus-frameworks)
+- [Agile Ceremonies – Rhythm, Not Ritual](https://www.pm-prolearn.com/post/agile-ceremonies)
+- [Agile Ceremonies: Definitions, Benefits, and Best Practices](https://teamhood.com/agile/agile-ceremonies/)
+- [Agile Ceremonies: Mastering The 4 Core Meetings In 2025](https://monday.com/blog/rnd/agile-ceremonies/)
+- [Agile Release Train](https://framework.scaledagile.com/agile-release-train)
+- [Agile Scaling Frameworks: SAFe, LeSS, and Nexus Framework](https://www.jile.io/agile-basics/agile-scaling-frameworks)
+- [Agile Sprint Planning for Distributed Teams](https://fullscale.io/blog/agile-sprint-planning-for-distributed-teams/)
+- [AI Agent Observability: A Practical Framework](https://www.n-ix.com/ai-agent-observability/)
+- [AI Agent Orchestration Patterns](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)
+- [AI-Powered Educational Agents: Opportunities, Innovations, and Ethical Challenges](https://www.mdpi.com/2078-2489/16/6/469)
+- [Airborne Separation Assurance Systems | SKYbrary](https://www.skybrary.aero/index.php/Airborne_Separation_Assurance_Systems_(ASAS)
+- [Airport Collaborative Decision Making | Airservices Australia](https://www.airservicesaustralia.com/noc/cdm/docs/CDM_Concept_of_Operations_Airport_v1.5.pdf)
+- [All About Expos: What Is an Expeditor at a Restaurant?](https://www.7shifts.com/blog/expeditor/)
+- [All-access agile: Sprint retrospectives | Lucid](https://lucid.co/all-access-agile/sprint-retrospectives)
+- [Analysis of Long-Range Air Traffic Systems: Separation Standards | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-navigation/article/abs/analysis-of-longrange-air-traffic-systems-separation-standardsi/0606B110A965FCF43E349ED6FF14DE38)
+- [Analyzing the 3 Daily Standup Questions: Common Pitfalls](https://geekbot.com/blog/daily-standup-questions/)
+- [Anthropic - Building Agents with Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
+- [Apache Kafka vs. ESB - Confluent](https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/)
+- [API Backwards Compatibility Best Practices](https://zuplo.com/learning-center/api-versioning-backward-compatibility-best-practices)
+- [Applications of Stochastic Reachability](https://link.springer.com/chapter/10.1007/978-1-4471-2795-6_11)
+- [Are Agile Ceremonies Dead? How Enterprise Teams Are Streamlining Workflows in 2025](https://www.divim.io/are-agile-ceremonies-dead-how-enterprise-teams-are-streamlining-workflows-in-2025/)
+- [Are You Getting the Most Out of Your Agile Ceremonies?](https://www.agilesherpas.com/blog/agile-ceremonies)
+- [Art Department in Film & TV | Production Design Roles & Hierarchy](https://artdepartmental.com/blog/film-art-department-production-design/)
+- [Assessing the similarity of mental models of operating room team members](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-016-0752-8)
+- [ATC Conflict Resolution](https://www.eurocontrol.int/sites/default/files/library/018_ATC_Conflict_Resolution.pdf)
+- [Automating the OODA loop in the age of intelligent machines - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/14702436.2022.2102486)
+- [Automation Surprises in Safety-Critical Systems](https://hal.science/hal-04490556v1/file/article-main-en.pdf)
+- [Automation vs. Human Error in Manufacturing](https://www.orcalean.com/article/automation-vs.-human-error:-the-silent-war-on-your-factory-floor)
+- [Autonomous Weapon Systems: Myths Dispelled](https://warontherocks.com/2025/05/autonomous-weapon-systems-no-human-in-the-loop-required-and-other-myths-dispelled/)
+- [Avoid These Sprint Retrospective Mistakes](https://www.techrepublic.com/article/sprint-retrospective-formats/)
+- [AWS Architecture Blog - Build resilient generative AI agents](https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/)
+- [Background of Decision-Point Tactics - CTC Quarterly Bulletin](https://www.globalsecurity.org/military/library/report/call/call_97-4_chap1.htm)
+- [Backstage - Places, Please: The Stage Manager's Job](https://www.backstage.com/magazine/article/places-please-stage-managers-job-theatre-42959/)
+- [Badlands Fieldcraft: The Five Paragraph Order](https://badlandsfieldcraft.wordpress.com/2021/03/10/proper-planning-part-3-the-five-paragraph-order-or-operations-order/)
+- [Balancing Decentralization & Centralized Control](https://systematic.com/int/industries/defence/news-knowledge/blog/synchronisation-and-mission-command/)
+- [Becoming a Chef de Partie: Leading a Section Well in the Kitchen](https://becomingachef.co.uk/what-is-a-chef-de-partie/)
+- [Beginning Rehearsal Techniques](https://pressbooks.pub/musicinmotion/chapter/chapter-11-beginning-rehearsal-techniques/)
+- [Blitzkrieg: The Lightning War Tactic - World History Encyclopedia](https://www.worldhistory.org/Blitzkrieg/)
+- [Boundary Spanning Roles and Organization Structure | Academy of Management Review](https://journals.aom.org/doi/10.5465/amr.1977.4409044)
+- [Boyd's OODA Loop](https://ooda.de/media/chet_richards_-_boyds_ooda_loop.pdf)
+- [Business Judgment Rule and Exculpatory Clauses - NY Business Divorce](https://www.nybusinessdivorce.com/2022/05/articles/family-owned-businesses/principles-of-fiduciary-deference-the-business-judgment-rule-and-exculpatory-clauses/)
+- [Call and Response in Music](https://blog.discmakers.com/2023/12/call-and-response-in-music/)
+- [Call and Response – Jazz History Tree](https://www.jazzhistorytree.com/call-and-response/)
+- [Call and Response: How to Make a Musical Conversation](https://blog.landr.com/call-and-response/)
+- [Call and response: Musical and bodily interactions in jazz improvisation duos](https://journals.sagepub.com/doi/abs/10.1177/1029864918772004)
+- [Call and Response: Teaching Jazz Improvisation](https://nafme.org/call-response-teaching-jazz-improvisation/)
+- [Calling cues? (warning vs standby) - SMNetwork.org](https://smnetwork.org/forum/students-and-novice-stage-managers/calling-cues-(warning-vs-standby)
+- [Central Authority–Controlled Air Traffic Flow Management: An Optimization Approach | INFORMS](https://pubsonline.informs.org/doi/10.1287/trsc.2021.1087)
+- [Centralized Planning / Decentralized Execution](../military-command/centralized-decentralized.md)
+- [Challenging authority and speaking up in the operating room environment](https://www.sciencedirect.com/science/article/pii/S0007091218312819)
+- [Challenging hierarchy in healthcare teams - ways to flatten gradients](https://www.sciencedirect.com/science/article/abs/pii/S026643561730061X)
+- [Chapter 6 – Standardized Recipes – Introduction to Food Production and Service - PSU](https://psu.pb.unizin.org/hmd329/chapter/chapter-6-standardized-recipes/)
+- [Chord-Scale Theory](https://viva.pressbooks.pub/openmusictheory/chapter/chord-scale-theory/)
+- [Circuit Breaker Pattern in Microservices](https://microservices.io/patterns/reliability/circuit-breaker.html)
+- [Claude Code Multi-Agent Orchestration](https://www.theunwindai.com/p/claude-code-s-hidden-multi-agent-orchestration-now-open-source)
+- [claude-flow Framework](https://github.com/ruvnet/claude-flow)
+- [ClaudeLog - Agent Engineering](https://claudelog.com/mechanics/agent-engineering/)
+- [Clear Boundaries Create Freedom: Delegation Authority Framework](https://morganhr.com/blog/why-clear-boundaries-create-true-freedom-the-delegation-of-authority-framework-that-transforms-decision-making/)
+- [Clear-Com - Glossary for Party Line Intercom](https://clear-com.atlassian.net/wiki/spaces/SF/pages/322404618/Glossary+for+Party+Line+Intercom)
+- [Clifford Chance - Who's Responsible for Agentic AI?](https://www.cliffordchance.com/insights/thought_leadership/ai-and-tech/who-is-responsible-for-agentic-ai.html)
+- [Clore Leadership-AHRC Online Research Library Paper](https://www.cloreleadership.org/wp-content/uploads/2008/01/WebbSimon2008LeadershipOrchestralMusiciansAHRCResearchPaper.pdf)
+- [Closest Point of Approach (CPA)](https://www.skybrary.aero/index.php/Closest_Point_of_Approach_(CPA)
+- [Cloud Security Alliance - Cognitive Degradation Resilience for Agentic AI](https://cloudsecurityalliance.org/blog/2025/11/10/introducing-cognitive-degradation-resilience-cdr-a-framework-for-safeguarding-agentic-ai-systems-from-systemic-collapse)
+- [Collaborative air traffic flow management | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0969699717302879)
+- [Collaborative Filmmaking: Building a Strong Film Team](https://c-istudios.com/collaborative-filmmaking-building-a-strong-team-for-feature-film-production/)
+- [Collection Management and Synchronization Planning](https://www.globalsecurity.org/intell/library/policy/army/fm/34-2/ch2.htm)
+- [Collision Risk Model for High-Density Airspaces | IntechOpen](https://www.intechopen.com/chapters/69641)
+- [Collision Risk Modeling and Analysis for Lateral Separation | Wiley](https://onlinelibrary.wiley.com/doi/10.1111/risa.13809)
+- [Collision Risk-Capacity Tradeoff Analysis | ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1000936113002239)
+- [Colorado Firecamp - HFACS Organizational Influences](http://coloradofirecamp.com/swiss-cheese/organizational-influences.htm)
+- [Combined Arms Warfare](../military-coordination/combined-arms.md)
+- [Combined Arms Warfare as Key to Success on the Contemporary Battlefield - Defence Horizon Journal](https://tdhj.org/blog/post/combined-arms-warfare-success-battlefield/)
+- [Commander's Decisions - The Company Leader](https://companyleader.themilitaryleader.com/2020/07/31/commanders-decisions/)
+- [Commander's Intent](../military-command/commanders-intent.md)
+- [Commander's Intent Defined - Marine Corps Association](https://www.mca-marines.org/gazette/commanders-intent-defined/)
+- [Commander's Intent: Less is Better](https://www.globalsecurity.org/military/library/report/call/call_98-24_ch1.htm)
+- [Commercial Cleaning Standard: Stop Kitchen Cross-Contamination — Kosmos Cleaning](https://www.kosmoscleaning.com/blog/stop-cross-contamination-the-commercial-cleaning-standard-for-shared-kitchens)
+- [Commis chef / Skills England](https://www.instituteforapprenticeships.org/apprenticeship-standards/commis-chef-v1-3)
+- [Commis Chef: Pros, Cons, and Career Path - Oysterlink](https://oysterlink.com/spotlight/pros-and-cons-of-being-a-commis-chef/)
+- [Common Challenges](https://less.works/less/scrum/common-challenges)
+- [Common Jazz Forms | AABA - ABAC - AB - ABCD Song Structures](https://www.pianogroove.com/jazz-piano-lessons/common-jazz-forms/)
+- [Common Operating Picture](../military-coordination/common-operating-picture.md)
+- [Communication and relationship dynamics in surgical teams](https://link.springer.com/article/10.1186/s12913-019-4362-0)
+- [Comparison of Scaling Agile Frameworks](https://www.visual-paradigm.com/scrum/scaling-agile-frameworks-comparison/)
+- [Complexity of conductor-musician communication | Classical Music Forum](https://www.talkclassical.com/threads/complexity-of-conductor-musician-communication.88317/)
+- [Concentrix - 12 Failure Patterns of Agentic AI Systems](https://www.concentrix.com/insights/blog/12-failure-patterns-of-agentic-ai-systems/)
+- [Conducting 101 | The La Porte County Symphony Orchestra](https://lcso.net/understanding-the-art-of-gesture/)
+- [Conducting Basics: Techniques & Dynamics | Vaia](https://www.vaia.com/en-us/explanations/music/musical-performance/conducting-basics/)
+- [Conducting Technique III: using Saito principles | Roland Yeung MUSIC](https://rolandyeung.net/?page_id=370)
+- [Conductor as dictator](https://choralnet.org/archives/299508)
+- [Conductors Clinic, The Misunderstood Left Hand - The Instrumentalist](https://theinstrumentalist.com/april-may-2022/conductors-clinicthe-misunderstood-left-hand/)
+- [Conflict Resolution & Trajectory Planning](https://www.emergentmind.com/topics/conflict-resolution-and-trajectory-planning-crtp)
+- [Conflict resolution in multi-agent systems based on negotiation and arbitrage](https://ieeexplore.ieee.org/document/5478068/)
+- [Conflict-free trajectory planning based on the model predictive control theory](https://www.archivesoftransport.com/index.php/aot/article/view/137)
+- [ControlBooth - Calling Cues Discussion](https://www.controlbooth.com/threads/calling-cues-traditionally-the-stage-manager-but-if-a-show-is-complex-can-someone-else-do-it.46761/)
+- [Conway's Law](https://www.martinfowler.com/bliki/ConwaysLaw.html)
+- [Conway's Law - Martin Fowler](https://martinfowler.com/bliki/ConwaysLaw.html)
+- [Conway's Law and Team Boundaries](https://datascienceleadership.com/docs/technical-leadership/conway-law-team-boundaries)
+- [Conway's Law: Critical for Efficient Team Design](https://itrevolution.com/articles/conways-law-critical-for-efficient-team-design-in-tech/)
+- [Corporate Opportunity Waivers - Columbia Law Review](https://columbialawreview.org/content/contracting-out-of-the-fiduciary-duty-of-loyalty-an-empirical-analysis-of-corporate-opportunity-waivers/)
+- [Course-of-Action Development and Analysis - Global Security](https://www.globalsecurity.org/military/library/report/call/call_93-3_ch4.htm)
+- [COVID-19 and JIT Supply Chains](https://www.techtarget.com/searcherp/feature/How-COVID-19-has-affected-just-in-time-supply-chains)
+- [COVID-19 Supply Chain Changes](https://www.weforum.org/stories/2022/01/5-ways-the-covid-19-pandemic-has-changed-the-supply-chain/)
+- [Creativity and Improvisation in Jazz and Organizations](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.9.5.605)
+- [Crew Resource Management and Psychological Safety](https://psychsafety.com/crew-resource-management-and-psychological-safety/)
+- [Critical Look at Drum-Buffer-Rope](https://www.allaboutlean.com/drum-buffer-rope/)
+- [Cross-Team Refinement in Nexus](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2016-08/Cross-Team%20Refinement%20in%20Nexus%20whitepaper_0.pdf)
+- [CUE LIGHT - American Association of Community Theatre](https://aact.org/cue-light)
+- [Cue Sequences - QLab 5 Documentation](https://qlab.app/docs/v5/fundamentals/cue-sequences/)
+- [Curriculum Learning - DeepSpeed](https://www.deepspeed.ai/tutorials/curriculum-learning/)
+- [Daily Stand-Up: How To Run And Best Practices](https://benzne.com/blogs/agile/daily-stand-up-meeting/)
+- [Daily Standup for Agile Marketing Teams](https://medium.com/@andreafryrear/daily-standup-for-agile-marketing-teams-formats-problems-and-solutions-4bfb3fbc2766)
+- [Daily Standup Meetings (everything you should know)](https://friday.app/p/daily-standup-meetings)
+- [Daily Standup Meetings: Standup Agenda, Purpose, and Common Pitfalls](https://geekbot.com/blog/daily-standup-meeting/)
+- [Daily Standup: A Comprehensive Guide](https://www.myshyft.com/glossary/daily-standup/)
+- [Data-driven Conflict Detection Enhancement in 3D Airspace with Machine Learning](https://ieeexplore.ieee.org/document/9049180/)
+- [Deadlock Prevention Policies | GeeksforGeeks](https://www.geeksforgeeks.org/deadlock-prevention-policies-in-distributed-system/)
+- [Deadlocks in Distributed Systems | bool.dev](https://bool.dev/blog/detail/deadlocks-in-distributed-systems)
+- [Decentralized multi-agent path finding framework and strategies based on automated negotiation](https://link.springer.com/article/10.1007/s10458-024-09639-8)
+- [Decision Point Tactics and Decisive Action](https://fromthegreennotebook.com/2017/03/15/daweek-decision-point-tactics-and-decisive-action/)
+- [Decision Support Template/Wargaming (Defense)](https://irp.fas.org/doddir/army/iobc/dstwgmlp.htm)
+- [Decoding Professional Kitchens: The Saucier Station – Chef Sac](https://www.chefsac.com/blogs/news/decoding-professional-kitchens-the-saucier-station)
+- [Decoding the Kitchen Brigade: Clear Roles, Seamless Operations](https://www.getknowapp.com/blog/kitchen-brigade/)
+- [Defense Scoop - Interoperability Analysis](https://defensescoop.com)
+- [Deloitte: The Transparency Paradox](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2024/transparency-in-the-workplace.html)
+- [Departure Metering | EUROCONTROL](https://www.eurocontrol.int/archive_download/all/node/9726)
+- [Dependency Mapping: A Guide for Agile Teams](https://iamagile.io/blog/dependency-mapping-guide-agile-teams)
+- [Deputy Stage Manager - Roles and Responsibilities](https://deputystagemanager.com/)
+- [Design of an ATC Tool for Conflict Detection Based on Machine Learning Techniques](https://www.mdpi.com/2226-4310/9/2/67)
+- [Designating Main Effort](https://www.globalsecurity.org/military/library/report/call/call_95-8_ch2-2.htm)
+- [Designing Multi-Agent Intelligence](https://developer.microsoft.com/blog/designing-multi-agent-intelligence)
+- [Development of a Conflict Detection System for Air Traffic Control](https://datascience.aero/conflict-detection-system/)
+- [Disciplined Initiative and The Commander's Intent - Small Wars Journal](https://archive.smallwarsjournal.com/jrnl/art/disciplined-initiative-and-the-commander%E2%80%99s-intent)
+- [Disgorgement as Remedy - MLF Litigation](https://www.mlflitigation.com/media/disgorgement-as-a-remedy-for-breach-of-fiduciary-duty/)
+- [Distinguishing Voice and Silence at Work](https://journals.aom.org/doi/10.5465/amj.2018.1428)
+- [Distributed model predictive control for unmanned aerial vehicles and vehicle platoon systems](https://www.oaepublish.com/articles/ir.2024.19)
+- [Divergent Mental Models as a Trigger of Team Adaptation](https://econtent.hogrefe.com/doi/10.1026/0932-4089/a000421)
+- [Do we really need SAFe, LeSS, Spotify, or Nexus to be agile?](https://agilemania.com/safe-vs-less-vs-spotify-or-nexus-to-be-agile)
+- [Domestic Preparedness - PACEing a Communications Resilience Plan](https://domesticpreparedness.com/communication-interoperability/paceing-a-communications-resilience-plan/)
+- [Dramatics Magazine - How Stage Managers Shepherd Tech Rehearsals](https://dramatics.org/shepherding-tech/)
+- [Dramatics Magazine - Stage Managers in Performances](https://dramatics.org/anything-but-routine/)
+- [Drum-Buffer-Rope](https://fortelabs.com/blog/theory-of-constraints-105-drum-buffer-rope/)
+- [Dry tech - (Theater Production) - Vocab, Definition, Explanations | Fiveable](https://fiveable.me/key-terms/theater-production/dry-tech)
+- [Dynamic airspace sectorisation for flight-centric operations | ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0968090X18310520)
+- [Dynamic Assessment: What We Need to Know](https://bilinguistics.com/dynamic-assessment/)
+- [Dynamic Control of Runway Configurations | INFORMS](https://pubsonline.informs.org/doi/10.1287/trsc.2015.0644)
+- [Dynamic Density and Complexity Metrics | MITRE](https://www.mitre.org/sites/default/files/pdf/masalonis_tfm.pdf)
+- [Dynamic Separation Standards for Multi-Category UAV Operations | MDPI](https://www.mdpi.com/2226-4310/12/12/1064)
+- [Dynamics and control technologies in air traffic management | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1367578816300876)
+- [Effect of time delay on performance and timing control in dyadic rhythm coordination using finger tapping](https://www.nature.com/articles/s41598-024-68326-6)
+- [Effectiveness of Conflict Resolution Methods in Air Traffic Management](https://www.mdpi.com/2226-4310/9/2/112)
+- [Efficiency Unleashed: Setting Up Your Ideal Food Prep Station — The Restaurant Warehouse](https://therestaurantwarehouse.com/blogs/restaurant-equipment/efficiency-unleashed-setting-up-your-ideal-food-prep-station)
+- [Efficient Commercial Kitchen Layout Design (w/ Examples) - WebstaurantStore](https://www.webstaurantstore.com/article/11/restaurant-kitchen-layouts.html)
+- [Embracing collaboration: Breaking down power distance in decision-making](https://safety4sea.com/cm-embracing-collaboration-breaking-down-power-distance-in-decision-making/)
+- [Emergent Behavior in Multi-Agent Systems](https://www.foresightnavigator.com/p/emergent-behavior-in-multi-agent)
+- [Employee Voice and Silence: Taking Stock a Decade Later](https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-120920-054654)
+- [Ends+Ways+Means=(Bad) Strategy - Strategy Central](https://www.strategycentral.io/post/ends-ways-means-bad-strategy)
+- [Enhanced short-term conflict alert (STCA) for terminal manoeuvring area (TMA) specific operations](https://www.sesarju.eu/sesar-solutions/enhanced-short-term-conflict-alert-stca-terminal-manoeuvring-area-tma-specific)
+- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+- [Enterprise Integration Patterns for Data-Intensive Systems](https://www.in-com.com/blog/enterprise-integration-patterns-for-data-intensive-systems/)
+- [Enterprise Service Bus v Event-Driven Architecture](https://345.technology/enterprise-service-bus-v-event-driven-architecture/)
+- [Escoffier's Kitchen Brigade System: Does It Really Work?](https://www.hrcacademy.com/en/blog/escoffiers-kitchen-brigade-system/)
+- [Essential Guide: Film Crew Positions | Wrapbook](https://www.wrapbook.com/blog/film-crew-positions)
+- [Essential Stage Management Paperwork to Know for Stage Management](https://fiveable.me/lists/essential-stage-management-paperwork)
+- [EUROCONTROL Guidelines for Short Term Conflict Alert](https://www.eurocontrol.int/sites/default/files/2019-09/eurocontrol-guidelines-159-part-i-1.0.pdf)
+- [Evolution Patterns - Microservice API Patterns](https://microservice-api-patterns.org/patterns/evolution/)
+- [ExecutiveBiz - DDIL: How DOD Seeks to Operate in Low Bandwidth Environments](https://www.executivebiz.com/articles/ddil-dod-cyber-cloud-cjadc2-low-bandwidth)
+- [Explainable Goal-driven Agents and Robots](https://dl.acm.org/doi/full/10.1145/3564240)
+- [Explicit vs. Implicit Coordination Mechanisms](https://kraut.hciresearch.info/wp-content/uploads/Espinosa03-ExplicitVsImplicitCoordination.pdf)
+- [Exploring barriers and facilitators of psychological safety in primary care teams](https://link.springer.com/article/10.1186/s12913-021-06232-7)
+- [Eye contact between musicians: how important is it? | Classical Music](https://www.classical-music.com/articles/eye-contact-musicians)
+- [Face to face: The eyes as an anchor in multimodal communication - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0010027724003330)
+- [Fairness and Collaboration in Network Air Traffic Flow Management | INFORMS](https://ideas.repec.org/a/inm/ortrsc/v50y2016i1p57-76.html)
+- [False Alerts in Air Traffic Control Conflict Alerting System: Is There a "Cry Wolf" Effect?](https://journals.sagepub.com/doi/10.1177/0018720809344720)
+- [Fault Tolerance in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/fault-tolerance-in-distributed-system/)
+- [Feature Teams](https://less.works/less/structure/feature-teams)
+- [Festival and Event Production - Stage Manager Guide](http://festivalandeventproduction.com/special-guides/stage-manager-guide/)
+- [Film 101: What Is a Production Manager? | MasterClass](https://www.masterclass.com/articles/film-101-what-is-a-production-manager-duties-and-responsibilities-of-a-production-manager)
+- [Film Crew: Every Job on a Movie Set, Explained | Backstage](https://www.backstage.com/magazine/article/film-crew-hierarchy-guide-75132/)
+- [Film Production Roles: Film Crew Team Positions and Duties | BLARE Media](https://blaremedia.net/film-production-roles/)
+- [Filmmaking Departments: 12 You Can't Ignore | The Collective Pitch](https://thecollectivepitch.com/blog/top-filmmaking-departments/)
+- [Filmmaking Roles: Your Ultimate Guide to Crew Positions | The Collective Pitch](https://thecollectivepitch.com/blog/filmmaking-roles-guide-to-crew-positions/)
+- [FIPA Agent Communication Language - SmythOS](https://smythos.com/developers/agent-development/fipa-agent-communication-language/)
+- [Fiveable - Running shows and calling cues](https://library.fiveable.me/theater-production/unit-10/running-shows-calling-cues/study-guide/XE4SOI6OL4BrydvF)
+- [Flight and passenger efficiency-fairness trade-off | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0969699719303011)
+- [Flow Theory: Optimal Learning Skills-Challenge Balance](https://mlpp.pressbooks.pub/mavlearn/chapter/flow-theory/)
+- [FM 101-5-1 Operational Terms and Graphics](https://www.globalsecurity.org/military/library/policy/army/fm/101-5-1/f545-d.htm)
+- [FM 101-5-1: Operational Terms and Graphics](https://www.globalsecurity.org/military/library/policy/army/fm/101-5-1/f545-c3a.htm)
+- [FM 3-52: Airspace Control Measures](https://www.globalsecurity.org/military/library/policy/army/fm/3-52/ch4.htm)
+- [FM 3-90 Chapter 16: Passage of Lines](https://www.globalsecurity.org/military/library/policy/army/fm/3-90/ch16.htm)
+- [FM 3-90 Chapter 2: Common Tactical Concepts and Graphic Control Measures](https://www.globalsecurity.org/military/library/policy/army/fm/3-90/ch2.htm)
+- [FM 3-90 Chapter 3: The Basics of the Offense](https://www.globalsecurity.org/military/library/policy/army/fm/3-90/ch3.htm)
+- [FM 6-20-10: Targeting Methodology](https://www.globalsecurity.org/intell/library/policy/army/fm/6-20-10/ch2.htm)
+- [FM 6-20-30 Appendix F: Fire Support Coordinating Measures](https://www.globalsecurity.org/military/library/policy/army/fm/6-20-30/Appf.htm)
+- [FM 71-123 Chapter 6: Other Tactical Operations](https://www.globalsecurity.org/military/library/policy/army/fm/71-123/Ch6.htm)
+- [For Conductors: How to Move the Time when Conducting](https://taniamiller.com/for-conductors-how-to-move-the-time-when-conducting/)
+- [Form in songs and jazz standards, verse refrain and 32-bars chorus](https://www.italianpiano.com/music-lessons/understanding-music-to-improvise-better-form-in-jazz-standards/)
+- [Four Design Patterns for Event-Driven, Multi-Agent Systems](https://www.confluent.io/blog/event-driven-multi-agent-systems/)
+- [Four I's of Transformational Leadership](https://www.businessballs.com/leadership-styles/four-is-transformational-leadership/)
+- [Friction and Fog of War](../military-doctrine/friction-fog-of-war.md)
+- [From Easy to Hard: Understanding Curriculum Learning in AI](https://medium.com/@mohamed-aymen.bouyahia/from-easy-to-hard-understanding-curriculum-learning-in-ai-005c6a275edd)
+- [From JIT to JIC: Building Resilient Supply Chains](https://www.supplychainbrain.com/blogs/1-think-tank/post/41104-from-just-in-time-to-just-in-case-building-resilient-inventory-management)
+- [From Mechanical Ceremonies to Agile Conversations | Scrum.org](https://www.scrum.org/resources/blog/mechanical-ceremonies-agile-conversations)
+- [Full Compass - Intercoms for Stage and Production Buyers Guide](https://www.fullcompass.com/gearcast/intercoms-for-stage-and-production-buyers-guide)
+- [Fundamentals of Conducting for Beginners](https://bridgetomusic.com/fundamentals-of-conducting-for-beginners-techniques-and-tips-for-success/)
+- [Galileo - A Guide to AI Agent Reliability for Mission Critical Systems](https://galileo.ai/blog/ai-agent-reliability-strategies)
+- [German Lightning War Strategy - Imperial War Museums](https://www.iwm.org.uk/history/the-german-lightning-war-strategy-of-the-second-world-war)
+- [Gesture Height and Centre of Gravity | Helping You Harmonise](https://www.helpingyouharmonise.com/gesturecentregravity)
+- [Get into Theatre - What does an Assistant Stage Manager do?](https://getintotheatre.org/blog/what-does-an-assistant-stage-manager-do/)
+- [Getting Your Rhythm Section to Swing](https://www.dansr.com/resources/getting-your-rhythm-section-to-swing)
+- [GoCodeo - Error Recovery and Fallback Strategies in AI Agent Development](https://www.gocodeo.com/post/error-recovery-and-fallback-strategies-in-ai-agent-development)
+- [Google's Eight Essential Multi-Agent Design Patterns](https://www.infoq.com/news/2026/01/multi-agent-design-patterns/)
+- [Ground Delay Program | NBAA](https://nbaa.org/aircraft-operations/airspace/tfm/tools-used-for-traffic-flow-management/ground-delay-program-gdp/)
+- [Handling Failures in Distributed Systems: Patterns and Anti-patterns](https://www.statsig.com/perspectives/handling-failures-in-distributed-systems-patterns-and-anti-patterns)
+- [Harmonic and Rhythmic Oppositions in Jazz: The Special Case of John Coltrane and His Classic Quartet](https://www.tandfonline.com/doi/abs/10.1080/17494060.2020.1734052)
+- [Healthcare Professionals Experience of Psychological Safety, Voice, and Silence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626689/full)
+- [Heijunka and Lean Manufacturing](https://www.6sigma.us/manufacturing/heijunka-lean-manufacturing-lean-six-sigma/)
+- [Heijunka Toyota Production System](https://mag.toyota.co.uk/heijunka-toyota-production-system/)
+- [Helmuth von Moltke and Prussian-German Development of Decentralised Command - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/14702430500097242)
+- [Herbert A. Simon - Nobel Prize Lecture](https://www.nobelprize.org/prizes/economic-sciences/1978/simon/lecture/)
+- [HFACS Framework - HFACS, Inc](https://www.hfacs.com/hfacs-framework.html)
+- [History of the Andon Cord](https://www.ioshmagazine.com/2023/09/01/history-andon-cord)
+- [How Combined Arms Tactics Changed WWI - History Skills](https://www.historyskills.com/classroom/year-9/combined-arms-warfare/)
+- [How do orchestra conductors communicate with musicians during performances? - The BOCA SYMPHONIA](https://bocasymphonia.org/how-do-orchestra-conductors-communicate-with-musicians-during-performances/)
+- [How does a Scrum Master manage multiple Scrum teams | Scrum.org](https://www.scrum.org/forum/scrum-forum/46680/how-does-scrum-master-manage-multiple-scrum-teams-terms-timings-ceremonies)
+- [How Intellectual Stimulation Boosts Transformational Leadership](https://www.linkedin.com/advice/0/what-benefits-challenges-intellectual)
+- [How Long Does It Take to Film a Movie? A Full Breakdown](https://avalanche-studios.com/blog/how-long-does-it-take-to-film-a-movie/)
+- [How power, expertise, and hierarchy influence voice on patient safety](https://www.tandfonline.com/doi/full/10.1080/09585192.2024.2342294)
+- [How the Germans Defined Auftragstaktik - Small Wars Journal](https://archive.smallwarsjournal.com/index.php/jrnl/art/how-germans-defined-auftragstaktik-what-mission-command-and-not)
+- [How to Avoid Getting Lost While Playing a Jazz Standard](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-advice/avoid-getting-lost-playing-jazz-standard/)
+- [How to Build a Proper Commercial Kitchen Workstation - McDonald Paper](https://mcdonaldpaper.com/blog/build-restaurant-workstation)
+- [How To Call Cues (Part 1): Basics of Calling a Show - Everything Backstage](https://everythingbackstage.com/calling-cues/)
+- [How to Communicate Effectively as a Restaurant Team](https://pos.toasttab.com/blog/on-the-line/how-to-communicate-effectively-as-a-restaurant-team)
+- [How to coordinate multiple teams effectively and scale linearly](https://medium.com/@eiki1212/scrum-of-scrums-how-to-coordinate-multiple-teams-effectively-and-scale-linearly-d4f0a2e4b8a5)
+- [How to Coordinate with Crew and Department Heads for Film Scheduling](https://www.linkedin.com/advice/0/how-do-you-coordinate-crew-department-heads-during)
+- [How To Create a Lighting Cue Sheet | Illuminated Integration](https://illuminated-integration.com/blog/lighting-cues/)
+- [How to Design a Facility Layout for Optimal Food Safety - Protocol Foods](https://protocolfoods.com/blog/how-to-design-a-facility-layout-for-optimal-food-safety)
+- [How to identify and eliminate bottlenecks in project management 2024](https://monday.com/blog/project-management/bottleneck/)
+- [How to Improve Kitchen Communication Between Staff: FOH & BOH](https://www.foodics.com/how-to-improve-kitchen-communication-between-staff-foh-boh/)
+- [How to Manage Agile Ceremonies Effectively | ClickUp](https://clickup.com/blog/agile-ceremonies/)
+- [How to Master Film Collaboration: A Guide for Creatives](https://filmlocal.com/filmmaking/how-to-master-film-collaboration/)
+- [How to Prepare a Stage Manager's Prompt Book](https://www.theatrefolk.com/blog/how-to-prepare-a-stage-managers-prompt-book/)
+- [How to Train Kitchen Staff to Prevent Cross-Contamination - Toast](https://pos.toasttab.com/blog/on-the-line/cross-contamination)
+- [How to Use a Lead Sheet (Fake Book)](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-progressions/use-lead-sheet-fake-book/)
+- [How Toyota Gave AI Tools to Factory Workers](https://chiefaiofficer.com/blog/how-toyota-gave-ai-tools-to-factory-workers-and-saved-10000-hours/)
+- [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system)
+- [Human Factors Analysis and Classification System (HFACS) - SKYbrary](https://skybrary.aero/articles/human-factors-analysis-and-classification-system-hfacs)
+- [Human Factors in Air Traffic Control: Fatigue, Mental Health & Safety](https://atc.lu/air-traffic-control-human-factors/)
+- [Human-AI Teaming: State-of-the-Art and Research Needs](https://nap.nationalacademies.org/read/26355/chapter/4)
+- [Human-AI Teaming: State-of-the-Art and Research Needs | National Academies](https://nap.nationalacademies.org/read/26355/chapter/6)
+- [Humanities LibreTexts - Stage Management](https://human.libretexts.org/Bookshelves/Theater_and_Film/An_Introduction_to_Technical_Theatre_(Sanders)
+- [Humanities LibreTexts - Stage Management](https://human.libretexts.org/Courses/Santa_Barbara_City_College/Mastering_the_Art_of_Stagecraft_(Crop)
+- [Implicit Coordination Strategies for Effective Team Communication](https://journals.sagepub.com/doi/abs/10.1177/0018720816639712)
+- [Implicit vs Explicit Coordination in Air Combat](https://journals.sagepub.com/doi/10.1177/15553434231179566)
+- [Improving Flexibility, Command, and Control with the Decision Support Matrix](https://www.globalsecurity.org/military/library/report/call/call_00-4_ch2.htm)
+- [Improvisation and the self-organization of multiple musical bodies](https://frontiersin.org/articles/10.3389/fpsyg.2015.00313/full)
+- [Improvisation in Early Jazz Piano](https://www.mtosmt.org/issues/mto.25.31.3/mto.25.31.3.martin.html)
+- [Improvisational Freedom Through Constraints](https://www.musical-u.com/learn/improvisational-freedom-through-constraints/)
+- [Incident Response README](./README.md)
+- [Individualized Consideration and Idealized influence of transformational Leadership](https://www.tandfonline.com/doi/full/10.1080/13603124.2022.2076286)
+- [Information Distortion in a Supply Chain: The Bullwhip Effect](https://pubsonline.informs.org/doi/10.1287/mnsc.43.4.546)
+- [Inside Line Producing: Budgets, Schedules & Creative Problem-Solving](https://www.leagueoffilmmakers.com/what-a-line-producer-actually-does-budgeting-scheduling-and-creative-problem-solving/)
+- [Integration Solution Trends and Statistics for 2026](https://www.oneio.cloud/blog/state-of-integration-solutions)
+- [Intelligence Preparation of the Battlefield - Canada](https://www.canada.ca/en/army/services/line-sight/articles/2021/10/intelligence-preparation-of-the-battlefield.html)
+- [Interactive Team Cognition](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12009)
+- [Ira S. Bushey & Sons, Inc. v. United States, 398 F.2d 167 (2d Cir. 1968)](https://law.justia.com/cases/federal/appellate-courts/F2/398/167/29802/)
+- [Ironies of Automation (Original Paper)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+- [James Reason HF Model | SKYbrary](https://skybrary.aero/articles/james-reason-hf-model)
+- [James Reason's Just Culture: Balancing Systems and Accountability](https://taproot.com/james-reasons-just-culture-balancing-systems-and-accountability/)
+- [Jazz Chord Progressions — The Ultimate Guide](https://jazz-library.com/articles/chord-progressions/)
+- [Jazz Comping - A Complete Beginners Guide](https://jazz-library.com/articles/comping/)
+- [Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation)
+- [Jazz musicians reveal role of expectancy in human creativity](https://www.sciencedirect.com/science/article/abs/pii/S0278262617300994)
+- [Jazz Piano Comping - How to Comp](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-voicings/how-to-comp/)
+- [Jidoka: Automation with a Human Touch](https://kaizen.com/insights/jidoka-automation-human-touch/)
+- [JIT Implementation Guide](https://kaizen.com/insights/jit-efficiency-supply-chain/)
+- [JIT in Lean Manufacturing](https://www.6sigma.us/manufacturing/just-in-time-production-system-jit/)
+- [JIT Inventory Management](https://www.netsuite.com/portal/resource/articles/inventory-management/just-in-time-inventory.shtml)
+- [JIT vs JIC Manufacturing](https://www.ecisolutions.com/blog/from-just-in-time-to-just-in-case-how-manufacturers-are-preparing-for-whats-next/)
+- [Just Culture](https://psychsafety.com/just-culture/)
+- [Just Culture | SKYbrary](https://skybrary.aero/articles/just-culture)
+- [Just-in-Time Production](https://mag.toyota.co.uk/just-in-time/)
+- [Kanban in Toyota's Production System](https://www.ineak.com/mastering-efficiency-the-role-of-kanban-in-toyotas-production-system/)
+- [Kanban Toyota Production System Guide](https://mag.toyota.co.uk/kanban-toyota-production-system/)
+- [Kitchen Brigade System: Organizing Culinary Operations Effectively](https://www.eposnow.com/us/resources/kitchen-brigade-system/)
+- [Kitchen Brigade System: Roles, Hierarchy, and Benefits](https://www.lightspeedhq.com/blog/kitchen-brigade/)
+- [Kitchen Brigade System: The Foundation of Kitchen Operations in 2025](https://pos.toasttab.com/blog/on-the-line/kitchen-brigade)
+- [Kitchen Expeditor aka The Wheelman - Chefs Resources](https://www.chefs-resources.com/kitchen-management-tools/kitchen-management-alley/kitchen-expeditor-aka-the-wheelman/)
+- [Kitchen Expeditor: 5 Steps To Becoming a Food Expeditor - 2026 - MasterClass](https://www.masterclass.com/articles/expeditor-explained)
+- [Kitchen Hierarchy Explained | The Brigade de Cuisine](https://www.highspeedtraining.co.uk/hub/kitchen-hierarchy-brigade-de-cuisine/)
+- [Kitchen Workflow Management: From Receiving to Service - Hospitality.Institute](https://hospitality.institute/bha507/kitchen-workflow-management-receiving-to-service-guide/)
+- [Knowledge Graphs and Ontologies in Semantic Web Applications](https://www.nature.com/research-intelligence/nri-topic-summaries/knowledge-graphs-and-ontologies-in-semantic-web-applications-micro-92)
+- [Korean Air Flight 801: The Crash That Changed Aviation](https://www.aviationfile.com/korean-air-flight-801-the-crash-that-changed-aviation/)
+- [Larder, Garde Manger, Cold kitchen | Hospitality Management Study Resources](https://hospitalitystudy.wordpress.com/2016/04/14/larder-garde-manger-cold-kitchen/)
+- [Leaders' individualized consideration, team commitment and patient loyalty](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12511)
+- [Lean Product Development: Flow Efficiency](https://planisware.com/resources/product-roadmapping/lean-product-development-resource-management-vs-flow-efficiency)
+- [Learn About Restaurant Stations and the Layout of a Commercial Kitchen - LiveAbout](https://www.liveabout.com/restaurant-kitchen-stations-2888868)
+- [Learning Real Trajectory Data to Enhance Conflict Detection Accuracy in Closest Point of Approach](https://hal.science/hal-02138131)
+- [LeSS Official](https://less.works/)
+- [Lessons from the Bromiley Case](https://litfl.com/lessons-from-the-bromiley-case/)
+- [Life is a Special Operation - What is a PACE Plan?](https://lifeisaspecialoperation.com/pace/)
+- [Lines Of Communication and Team Size: Applying Brooks' Law](https://www.liminalarc.co/2018/02/lines-of-communication-team-size-applying-brooks-law/)
+- [Linked auditory and motor patterns in the improvisation vocabulary](https://www.sciencedirect.com/science/article/abs/pii/S0010027722002967)
+- [Listening Behaviors and Musical Coordination in Collective Free Improvisation](https://journals.sagepub.com/doi/10.1177/20592043241257023)
+- [Little Law: Mastering Queue Management](https://leanscape.io/little-law-mastering-queue-management-for-optimal-efficiency/)
+- [Little's Law and Kanban](https://kanbanzone.com/resources/lean/littles-law/)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Local Optimizations Don't Lead to Global Optimums | ferd.ca](https://ferd.ca/local-optimizations-don-t-lead-to-global-optimums.html)
+- [Lois Backstage - Calling the Show: 3 C's to Conquer!](https://loisbackstage.wordpress.com/2010/10/20/calling-the-show-3-cs-to-conquer/)
+- [Loose vs. Tight Coupling in Microservices](https://medium.com/@bhumikadasari0/loose-vs-tight-coupling-the-key-to-scalable-software-in-a-microservices-world-b7844257d8df)
+- [Loss of Separation | SKYbrary](https://skybrary.aero/articles/loss-separation)
+- [Making Mistakes](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-improvisation/making-mistakes/)
+- [Manager Tools - One-on-Ones Guide](https://www.manager-tools.com/one-on-one-meetings-guide)
+- [Manager Tools - The Trinity](https://www.manager-tools.com/faq/what-are-trinity-one-ones-feedback-coaching-delegation)
+- [Managing Critical State: Distributed Consensus for Reliability | Google SRE](https://sre.google/sre-book/managing-critical-state/)
+- [Managing the Hidden Costs of Coordination](https://queue.acm.org/detail.cfm?id=3380779)
+- [Manual to Autonomous Transition](manual-to-autonomous-transition.md)
+- [Marine Corps Association: The Operational Level of War Does Not Exist](https://www.mca-marines.org/gazette/the-operational-level-of-war-does-not-exist/)
+- [Master Cue Sheet - SMNetwork.org](https://smnetwork.org/forum/students-and-novice-stage-managers/master-cue-sheet/)
+- [Mastering Conducting Gestures](https://www.numberanalytics.com/blog/mastering-conducting-gestures)
+- [Mastering Consistency in Food: The Operational Blueprint for Restaurant Success - KNOW](https://www.getknowapp.com/blog/consistency-in-food/)
+- [Mastering Cues in Stage Management - Number Analytics](https://www.numberanalytics.com/blog/ultimate-guide-to-cue-in-stage-management)
+- [Mastering Enterprise Agile Scaling with SAFe LeSS and Nexus](https://www.growingscrummasters.com/keywords/agile-scaling-frameworks-safe-less-nexus/)
+- [Mathematical Combination, Brooks's Law, and Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed)
+- [Maximizing airborne delay at no extra fuel cost | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0968090X17301419)
+- [MCDP 6: Command and Control](https://irp.fas.org/doddir/usmc/mcdp6/ch2.htm)
+- [MCWP 3-16: Fire Support Coordinating Measures](https://www.globalsecurity.org/military/library/policy/usmc/mcwp/3-16/fdraft_appb.pdf)
+- [MDMP Comprehensive Guide](https://ohiomilitaryreserve.wordpress.com/2024/07/18/the-military-decision-making-process-mdmp-a-comprehensive-guide/)
+- [Medium Term Conflict Detection (MTCD)](https://skybrary.aero/articles/medium-term-conflict-detection-mtcd)
+- [Meta's DreamGym Framework](https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut)
+- [METT-TC Introduction - T.REX Arms](https://www.trex-arms.com/what-is-mett-tc-part-1-introduction/)
+- [Microservice Architecture Essentials: Loose Coupling](https://microservices.io/post/architecture/2023/03/28/microservice-architecture-essentials-loose-coupling.html)
+- [Microservices Resilience Patterns](https://www.geeksforgeeks.org/system-design/microservices-resilience-patterns/)
+- [Midair Collision | SKYbrary](https://skybrary.aero/articles/midair-collision)
+- [Minimal Structures: From Jazz Improvisation to Product Innovation](https://journals.sagepub.com/doi/10.1177/0170840601225001)
+- [Minimizing Correlated Failures in Distributed Systems - AWS](https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/)
+- [Mise en Place — The Culinary Pro](https://www.theculinarypro.com/mise-en-place-savory)
+- [Missed Cue - Theatre Development Fund](https://www.tdf.org/on-stage/theatre-dictionary/search-by-letter/missed-cue/)
+- [Mission Analysis - FAS](https://irp.fas.org/doddir/army/miobc/msnanllp.htm)
+- [Mitigation of Wake Turbulence Hazard | SKYbrary](https://skybrary.aero/articles/mitigation-wake-turbulence-hazard)
+- [Mode Error and Awareness in Supervisory Control](https://journals.sagepub.com/doi/10.1518/001872095779049516)
+- [Model Predictive Control in Aerospace Systems: Current State and Opportunities](https://arc.aiaa.org/doi/10.2514/1.G002507)
+- [Modulation of individual auditory-motor coordination dynamics through interpersonal visual coupling](https://www.nature.com/articles/s41598-017-16151-5)
+- [More with LeSS Principle](https://less.works/less/principles/more-with-less)
+- [Moving Together in Music and Dance: Features of Entrainment and Sensorimotor Synchronization](https://academic.oup.com/book/56186/chapter/443056689)
+- [Multi-Agent AI Gone Wrong: How Coordination Failure Creates Hallucinations](https://galileo.ai/blog/multi-agent-coordination-failure-mitigation)
+- [Multi-Agent Communication Protocols: How AI Agents Talk, Coordinate, and Collaborate](https://www.hdwebsoft.com/blog/multi-agent-communication-protocols.html)
+- [Multi-Agent Coordination](https://www.adopt.ai/glossary/multi-agent-coordination)
+- [Multi-Agent System Reliability - Maxim AI](https://www.getmaxim.ai/articles/multi-agent-system-reliability-failure-patterns-root-causes-and-production-validation-strategies/)
+- [Multi-agent Systems and Coordination: Techniques for Effective Agent Collaboration](https://smythos.com/developers/agent-development/multi-agent-systems-and-coordination/)
+- [Multi-Domain Battle: Joint Combined Arms Concept for the 21st Century - AUSA](https://www.ausa.org/articles/multi-domain-battle-joint-combined-arms)
+- [Multiscale synchronisation dynamics reveals the impact of an improvisatory approach to performance on music experience](https://www.nature.com/articles/s41598-025-90271-1)
+- [Music Director as Transformational Leader](https://www.umcdiscipleship.org/resources/music-director-as-transformational-leader)
+- [Musical coordination in a large group without plans nor leaders](https://www.nature.com/articles/s41598-020-77263-z)
+- [Musical Ensemble Performance (Chapter 14) - Shared Representations](https://www.cambridge.org/core/books/abs/shared-representations/musical-ensemble-performance/978E9564B036564C63F07C9033AD4155)
+- [Myerson Nobel Prize Lecture (2007)](https://www.nobelprize.org/uploads/2018/06/myerson_lecture.pdf)
+- [Named Areas of Interest - CTC Quarterly Bulletin](https://www.globalsecurity.org/military/library/report/call/call_97-15_ctc3qba3.htm)
+- [National Academies - Situation Awareness Research](https://nap.nationalacademies.org)
+- [Nested Concepts](https://www.globalsecurity.org/military/library/report/call/call_00-9_shields.htm)
+- [Neural Substrates of Interactive Musical Improvisation: Trading Fours in Jazz](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088665)
+- [Nexus Framework for Scaling Scrum](https://www.scrum.org/resources/nexus-framework-scaling-scrum)
+- [Nexus Framework: Master Scaling Scrum with Minimal Overhead](https://codelucky.com/nexus-framework-scaling-scrum-minimal-overhead/)
+- [Nexus vs LeSS: Which Scaled Agile Framework is Best for You?](https://www.valuex2.com/nexus-vs-less-comparison-of-scaling-agile-frameworks/)
+- [No World Model, No General AI](https://richardcsuwandi.github.io/blog/2025/agents-world-models/)
+- [Occupational stress and stress prevention in air traffic control](https://skybrary.aero/sites/default/files/bookshelf/1643.pdf)
+- [On mistakes and improvisation](https://philosophyofjazz.net/wiki/Ontimpr4._On_mistakes_and_improvisation)
+- [Online Nexus Guide](https://www.scrum.org/resources/online-nexus-guide)
+- [OnStage Blog - Stage Manager 101](https://www.onstageblog.com/editorials/2019/12/23/stage-manager-101)
+- [Open kitchens can build trust & entertainment value](https://pos.toasttab.com/blog/on-the-line/open-kitchens)
+- [Optimal feedback correction in string quartet synchronization](https://royalsocietypublishing.org/doi/10.1098/rsif.2013.1125)
+- [Orchestra Conductor: Mastering the Art of Musical Leadership](https://evaollikainen.com/orchestra-conductor-mastering-the-art-of-musical-leadership/)
+- [Orchestrating Complex AI Workflows: Advanced Integration Patterns](https://www.getknit.dev/blog/orchestrating-complex-ai-workflows-advanced-integration-patterns)
+- [Organizational agility with Scrum@Scale | Atlassian](https://www.atlassian.com/agile/agile-at-scale/scrum-at-scale)
+- [Organizational Silos: A Scoping Review Informed by a Behavioral Perspective on Systems and Networks](https://www.mdpi.com/2075-4698/10/3/56)
+- [Overcoming Agile Transformation Challenges](https://agility-at-scale.com/implementing/transformation-leadership/)
+- [Pass Station - Larksuite](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/pass-station)
+- [Pedagogical applications of cognitive research on musical improvisation](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00614/full)
+- [Peer Teaching: Overview, Benefits & Models](https://www.togetherplatform.com/blog/peer-teaching-overview-benefits-models)
+- [Perrow's Quadrants - DoD CCRP](http://www.dodccrp.org/html4/bibliography/copch7.htm)
+- [Perrow/Complex Organizations - High Reliability](https://www.high-reliability.org/PerrowComplex)
+- [Phase and period error correction — Being-Here](https://www.being-here.net/page/4921/phase-and-period-error-correction)
+- [Phase Correction in Simulated-Ensemble Timing](https://arme-project.co.uk/publication/2023_rppw_susan/)
+- [PI Planning](https://framework.scaledagile.com/pi-planning)
+- [Pilot TCAS RA Compliance Tool | SKYbrary](https://skybrary.aero/articles/pilot-tcas-ra-compliance-tool)
+- [Playbill - What Does It Take to Be a Broadway Stage Manager](https://playbill.com/article/theatre-jobs-what-does-it-take-to-be-a-broadway-stage-manager)
+- [Power Distance - ScienceDirect Topics](https://www.sciencedirect.com/topics/social-sciences/power-distance)
+- [Preps, Cues, and Releases – Music in Motion](https://pressbooks.pub/musicinmotion/chapter/chapter-3-preps-cues-and-releases/)
+- [Proactive and Reactive Coordination of Agent Teams](https://www.ijcai.org/proceedings/2017/5)
+- [Probabilistic multi-aircraft conflict detection approach for trajectory-based operation](https://www.sciencedirect.com/science/article/abs/pii/S0968090X18302560)
+- [Probabilistic Trajectory Prediction and Conflict Detection for Air Traffic Control](https://arc.aiaa.org/doi/10.2514/1.53645)
+- [Producer vs Director: The Roles & Responsibilities Explained](https://www.studiobinder.com/blog/producer-vs-director/)
+- [PROMPT BOOK: Creating a Calling Script (meta-thread) - SMNetwork.org](https://smnetwork.org/forum/stage-management-plays-musicals/prompt-book-creating-a-calling-script-(meta-thread)
+- [Proper Way To Call Cues | ControlBooth](https://www.controlbooth.com/threads/proper-way-to-call-cues.14742/)
+- [Psychological Safety in Healthcare Teams](https://www.surgicalsafety.com/blog/psychological-safety-in-healthcare-teams)
+- [Psychological Safety: The Andon Cord](https://psychsafety.com/psychological-safety-79-the-andon-cord/)
+- [Push System vs Pull System](https://www.mrpeasy.com/blog/push-system-vs-pull-system/)
+- [Push vs Pull in Software Development](https://mattlaw.dev/blog/push-vs-pull-in-software-development)
+- [QinetiQ - Building a PACE plan that holds](https://www.qinetiq.com/en/blogs/how-to-build-a-pace-plan-that-works)
+- [QinetiQ - Why PACE Implementations Fail to Deliver Assured Battlefield Communications](https://www.qinetiq.com/en/blogs/why-pace-implementations-fail-to-deliver-assured-battlefield-communications)
+- [Quantifying Air Traffic Controller Mental Workload](https://www.sesarju.eu/sites/default/files/SID_2014-03.pdf)
+- [Queueing Theory](https://less.works/less/principles/queueing_theory)
+- [Quote Origin: No Plan Survives First Contact](https://quoteinvestigator.com/2021/05/04/no-plan/)
+- [Raleigh Little Theatre - Headset Protocol](https://raleighlittletheatre.org/get-involved/volunteers/volunteer-handbooks/headset-protocol/)
+- [Rapid Decision-Making and Synchronization Process](https://www.thelightningpress.com/rapid-decision-making-synchronization-process-rdsp/)
+- [Reactive vs Proactive AI Agents](https://www.gocodeo.com/post/reactive-vs-proactive-ai-agents-what-developers-need-to-know)
+- [Rearranging A Cue List - the dot2 Forum - MA Lighting Forum](https://forum.malighting.com/forum/thread/896-rearranging-a-cue-list/)
+- [Recent progress in air traffic flow management: A review | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0969699724000383)
+- [Recipe Standardization Guide - National CACFP Sponsors Association](https://www.cacfp.org/2024/07/02/recipe-standardization-guide/)
+- [Recovery Strategies for Service Failures: The Case of Restaurants - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/19368620903170273)
+- [REDCOM - Communications Challenges in DIL Environments](https://www.redcom.com/dil-environments/)
+- [Reduced Vertical Separation Minima (RVSM) | SKYbrary](https://skybrary.aero/articles/reduced-vertical-separation-minima-rvsm)
+- [Reflections on Russia's 2022 Invasion: Combined Arms Warfare and the BTG - AUSA](https://www.ausa.org/publications/reflections-russias-2022-invasion-ukraine-combined-arms-warfare-battalion-tactical)
+- [Reimagining Command and Control with Human-Machine Teams - SCSP](https://www.scsp.ai/wp-content/uploads/2024/12/DPS-Reimagining-Command-and-Control.pdf)
+- [Resilient Supply Chains: JIC not JIT](https://action.deloitte.com/insight/2781/resilient-supply-chains-mean-just-in-case-not-just-in-time)
+- [Resource Efficiency vs Flow Efficiency](https://businessmap.io/blog/how-to-balance-between-resource-efficiency-flow-efficiency)
+- [Restaurant Open Kitchen Design: Transparent Operation](https://www.shinelongkitchen.com/a-restaurant-open-kitchen-design-transparent-operation-and-customer-experience-improvement.html)
+- [Rethinking Interaction in Jazz Improvisation](https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.givan.php)
+- [Rethinking Interaction in Jazz Improvisation](https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.givan.html)
+- [Rethinking Strategy: A History of the Ends, Ways Means Model - NSI](https://nsiteam.com/social/rethinking-strategy-a-history-of-the-ends-ways-means-model/)
+- [Rhythm Bootcamp: Rhythmic Accuracy](https://www.musical-u.com/learn/rhythm-bootcamp-rhythmic-accuracy/)
+- [Rhythmic qualities of jazz improvisation predict performer identity and style](https://royalsocietypublishing.org/doi/10.1098/rsos.240920)
+- [Role of Scrum of Scrums Meeting in Scaling Scrum](https://www.scrumstudy.com/article/role-of-scrum-of-scrums-meeting-in-scaling-scrum)
+- [Role of Transactive Memory, Safety, Conflict in Hospital Teams](https://www.tandfonline.com/doi/full/10.1080/00140139.2021.2006771)
+- [Roth Nobel Prize Lecture on Market Design (2012)](https://www.nobelprize.org/uploads/2018/06/roth-lecture.pdf)
+- [RTS Intercom Systems - Theater & Stage Intercoms](https://rtsintercoms.com/solutions/live-performance-and-events/)
+- [Running 10+ Claude Instances in Parallel](https://dev.to/bredmond1019/multi-agent-orchestration-running-10-claude-instances-in-parallel-part-3-29da)
+- [Running shows and calling cues - Fiveable](https://fiveable.me/theater-production/unit-10/running-shows-calling-cues/study-guide/XE4SOI6OL4BrydvF)
+- [SAFe Core Values and Principles](https://framework.scaledagile.com/lean-agile-mindset-safe-core-values-safe-principles)
+- [SAFe Criticism](https://premieragile.com/problems-with-scaled-agile-framework/)
+- [SAFe, LeSS, and Nexus: Comparing Agile Scaling Frameworks](https://www.linkedin.com/advice/1/what-differences-between-safe-less-nexus-skills-agile-methodologies-zjqrf)
+- [SAFe: The Good, the Bad, and the Ugly](https://www.pmi.org/disciplined-agile/da-flex-toc/the-good-the-bad-and-the-ugly-of-safe)
+- [Safety-Capacity Trade-Off Analysis | IEEE](https://ieeexplore.ieee.org/document/6095966/)
+- [Sample Stage Management Paperwork](http://rm.usitt.org/sm.html)
+- [SANS 2024 SOC Survey: Facing Top Challenges in Security Operations](https://www.sans.org/white-papers/sans-2024-soc-survey-facing-top-challenges-security-operations)
+- [Scalable Scrum for Large Projects](https://www.scrumstudy.com/article/scalable-scrum-for-large-projects)
+- [Scale Standup Efficiency Without Sacrificing Team Cohesion](https://dev.to/standupify/scale-standup-efficiency-without-sacrificing-team-cohesion-4d5)
+- [Scaled Agile Framework Official](https://framework.scaledagile.com/)
+- [Scaled Agile Frameworks, what are the alternatives to SAFe?](https://www.agilityarabia.com/blog/scaled-agile-frameworks-what-are-the-alternatives-to-safe-read-about-nexus-the-alternative-enterprise-scaling-framework-from-scrum-org)
+- [Scaling Agile @ Spotify](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
+- [Scaling Agile Teams: Best Practices for Cross-Team Collaboration](https://www.agile42.com/en/blog/scaling-agile)
+- [Scaling Agility or Bureaucracy](https://gosei.eu/eka/blog/scaling-agility-or-bureaucracy/)
+- [Scaling Scrum: LeSS, SAFe, Nexus, or Scrum@Scale?](https://prepforscrum.com/scaling-scrum-frameworks-less-safe-nexus-scrum-at-scale/)
+- [Scaling, the Nexus, and Scrumbling](https://kenschwaber.wordpress.com/2015/09/28/scaling-the-nexus-and-scrumbling/)
+- [Scrum At Scale: How To Implement Agile Into Enterprises In 2026](https://monday.com/blog/rnd/scrum-at-scale/)
+- [Scrum Masters, avoid these 5 Scrum anti patterns](https://www.retrium.com/blog/scrum-masters-beware-5-retrospective-anti-patterns-you-need-to-avoid)
+- [Scrum of Scrums Meeting](https://www.scrumstudy.com/article/scrum-of-scrums-meeting)
+- [Scrum of Scrums | Agile Alliance](https://agilealliance.org/glossary/scrum-of-scrums/)
+- [Scrum of Scrums | Atlassian](https://www.atlassian.com/agile/scrum/scrum-of-scrums)
+- [Scrum of Scrums: The Ultimate Guide to Scaling Agile](https://www.6sigma.us/scrum/scrum-of-scrums/)
+- [Scrumban framework: the ultimate guide for agile transformation in 2026](https://monday.com/blog/rnd/scrumban/)
+- [Self-Dealing in Business - Litico Law](https://www.litico.law/blog/what-is-self-dealing-in-business/)
+- [Self-Evaluation in AI Agents](https://galileo.ai/blog/self-evaluation-ai-agents-performance-reasoning-reflection)
+- [Self-Organization and Semiosis in Jazz Improvisation](https://www.igi-global.com/gateway/article/127092)
+- [Self-Organization in Multi-Agent Systems Based on Examples of Modeling Economic Relationships](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2016.00041/full)
+- [Semantic Networks in Artificial Intelligence](https://www.geeksforgeeks.org/artificial-intelligence/semantic-networks-in-artificial-intelligence/)
+- [Sensorimotor synchronization and perception of timing: Effects of music training and task experience](https://www.sciencedirect.com/science/article/abs/pii/S0167945709000943)
+- [Sensorimotor Synchronization With Auditory and Visual Modalities: Behavioral and Neural Differences](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2018.00053/full)
+- [Sensorimotor synchronization with tempo-changing auditory sequences: Modeling temporal adaptation and anticipation](https://www.sciencedirect.com/science/article/abs/pii/S0006899315000876)
+- [Sensorimotor synchronization: A review of recent research (2006–2012)](https://link.springer.com/article/10.3758/s13423-012-0371-2)
+- [Sensorimotor synchronization: A review of the tapping literature](https://link.springer.com/article/10.3758/BF03206433)
+- [Separation Standards | SKYbrary](https://skybrary.aero/articles/separation-standards)
+- [SESAR Dynamic Airspace Configuration | SESAR JU](https://www.sesarju.eu/sesar-solutions/dynamic-airspace-configurations-dac)
+- [Shared Mental Models and Groupthink Bias](https://growthemind.ai/blogs/better-thinking/shared-mental-models-and-groupthink-bias)
+- [Short Term Conflict Alert (STCA)](https://skybrary.aero/articles/short-term-conflict-alert-stca)
+- [Short Term Conflict Alert (STCA) optimization for TMAs](https://skybrary.aero/articles/short-term-conflict-alert-stca-optimization-tmas)
+- [SKYbrary - Loss of Communication](https://skybrary.aero/articles/loss-communication)
+- [Small Wars Journal: What Is Strategy in War?](https://smallwarsjournal.com/2025/05/09/what-is-strategy-in-war/)
+- [So You're A Community Deputy Stage Manager - Hachette UK](https://www.clairenorth.com/claire-north-posts/2015/11/16/so-youre-a-community-deputy-stage-manager/)
+- [Solving Common Scheduling Conflicts in Film Production - Filmustage](https://filmustage.com/blog/solving-common-scheduling-conflicts-in-film-production/)
+- [Spotify Model Explained](https://echometerapp.com/en/agile-spotify-model-squads-tribes-chapters-and-guilds-explained/)
+- [Sprint Planning Challenges and Best Practices for 2026](https://www.easyagile.com/blog/2026-sprint-planning-team-alignment-challenges-best-practices)
+- [Sprint Planning One - Large Scale Scrum (LeSS)](https://less.works/less/framework/sprint-planning-one)
+- [Sprint Retrospective Dysfunctions and How to Overcome Them](https://www.scrum.org/resources/blog/sprint-retrospective-dysfunctions-and-how-overcome-them)
+- [Stage Cue in Theater: Examples, Definition, and Advice - Backstage](https://www.backstage.com/magazine/article/stage-cue-guide-77004/)
+- [StageSpot - Theater and Stage Communications](https://www.stagespot.com/comm.html)
+- [Standards and Interoperability - IEEE PES MAS](https://site.ieee.org/pes-mas/agent-technology/standards-and-interoperability/)
+- [Stefon Harris: There are no mistakes on the bandstand](https://www.ted.com/talks/stefon_harris_there_are_no_mistakes_on_the_bandstand)
+- [Stochastic Conflict Detection for ATM](https://www.eurocontrol.int/sites/default/files/library/006_Stochastic_Conflict_Detection_for_ATM.pdf)
+- [Stochastic reachability of a target tube: Theory and computation](https://www.sciencedirect.com/science/article/abs/pii/S0005109820306567)
+- [Streamlining the Kitchen: Workflow Strategies - WISK](https://www.wisk.ai/blog/streamlining-the-kitchen-workflow-strategies-for-an-efficient-and-profitable-kitchen)
+- [Summary of Directors' Creative Rights Under the DGA Basic Agreement of 2020](https://www.dga.org/Contracts/Directors-Economic-Rights/Summary---Features)
+- [Supply Chain Integration: Perspectives and Research Directions](https://www.sciencedirect.com/science/article/abs/pii/S0925527308001904)
+- [Supporting Ethical Decision-Making for Lethal Autonomous Weapons](https://www.tandfonline.com/doi/full/10.1080/15027570.2024.2366094)
+- [Synchronization and leadership in string quartet performance: a case study of auditory and visual cues](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00645/full)
+- [SYNCO - Guide to backstage communication headsets](https://www.syncoaudio.com/blogs/news/backstage-communication-headsets-guide)
+- [SYNCO - What are stage communication systems and how to choose](https://www.syncoaudio.com/blogs/news/what-are-stage-communication-systems-and-how-to-choose)
+- [SYNCO - What is mesh communication?](https://www.syncoaudio.com/blogs/news/what-is-mesh-communication)
+- [Systems Theory/Cybernetics - Wikibooks](https://en.wikibooks.org/wiki/Systems_Theory/Cybernetics)
+- [T154/B752 Uberlingen Accident | SKYbrary](https://skybrary.aero/accidents-and-incidents/t154-b752-en-route-uberlingen-germany-2002)
+- [Tactics 101: Main and Supporting Effort](http://armchairgeneral.com/tactics-101-main-and-supporting-effort.htm)
+- [Tactics 101: The Passage of Lines](http://armchairgeneral.com/tactics-101-045-the-passage-of-lines.htm)
+- [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+- [TCP Congestion Control | Systems Approach](https://book.systemsapproach.org/congestion/tcpcc.html)
+- [Team Implicit Coordination Processes](https://journals.aom.org/doi/10.5465/amr.2008.27751276)
+- [Team learning: building shared mental models](https://link.springer.com/article/10.1007/s11251-010-9128-3)
+- [Team sizes and communication pathways - Agile Coaching](https://www.beliminal.com/team-sizes-communication-pathways/)
+- [Teamwork matters: team situation awareness to build high-performing healthcare teams](https://www.bjanaesthesia.org/article/S0007-0912(24)
+- [Technical rehearsals and cue-to-cue - Fiveable](https://fiveable.me/theater-production/unit-10/technical-rehearsals-cue-to-cue/study-guide/PLprh0mN5OHrqAPW)
+- [Ten Reasons Delegation Fails](https://www.linkedin.com/pulse/ten-reasons-delegation-fails-christopher-r-jones-)
+- [The 32-bar AABA song form](https://www.ethanhein.com/wp/2024/the-32-bar-aaba-song-form/)
+- [The 8 Wastes of Lean](https://theleanway.net/The-8-Wastes-of-Lean)
+- [The Call Sheet: A Production Lifeline - Filmustage](https://filmustage.com/blog/the-call-sheet-a-production-lifeline/)
+- [The challenges of AI command and control - European Leadership Network](https://europeanleadershipnetwork.org/commentary/the-challenges-of-ai-command-and-control/)
+- [The Changing Character of Combined Arms - War on the Rocks](https://warontherocks.com/2022/05/the-changing-character-of-combined-arms/)
+- [The Cold Heart of the Kitchen - Foodservice Equipment & Supplies](https://fesmag.com/topics/trends/19381-the-cold-heart-of-the-kitchen)
+- [The Commander's Intent in Mission Command - The Field Grade Leader](https://fieldgradeleader.themilitaryleader.com/cdr-intent/)
+- [The Complete Role and Responsibilities of a VFX Supervisor](https://cinemaengineer.com/blog/vfx-supervisor)
+- [The Complete Stage Manager - 5.2 The Prompt Book](https://sites.google.com/site/thecompletestagemanager/rehearsal/the-prompt-book)
+- [The Complete Stage Manager - The Calling Script](https://sites.google.com/site/thecompletestagemanager/tech/the-calling-script)
+- [The complexity of N-body simulation](https://link.springer.com/chapter/10.1007/3-540-56939-1_70)
+- [The Connected Warrior: Common Operating Picture - Breaking Defense](https://breakingdefense.com/2024/10/the-connected-warrior-will-have-a-common-operating-picture-even-when-contested/)
+- [The Daily Standup is Broken, What Should You Do Now?](https://www.mindtheproduct.com/the-daily-standup-is-broken-what-should-you-do-now/)
+- [The Daily Standup is Broken: Why Modern Dev Teams Need a Reset](https://deadlocked.life/blog/standups-broken)
+- [The Definitive Film Crew Hierarchy Chart - Assemble](https://www.onassemble.com/blog/the-definitive-film-crew-hierarchy-chart)
+- [The Different Types of Jazz Explained](https://jazzfuel.com/types-of-jazz-music-styles/)
+- [The Effect of Workload on Conflict Decision Making Strategies in Air Traffic Control](https://journals.sagepub.com/doi/10.1177/154193120805200110)
+- [The Enduring Link Between Conway's Law and Microservices](https://www.techtarget.com/searchapparchitecture/tip/The-enduring-link-between-Conways-Law-and-microservices)
+- [The Essential Guide to Director Agreements | Wrapbook](https://www.wrapbook.com/blog/director-agreement)
+- [The ethical model of orchestra conducting](https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2417980)
+- [The Evolution and Taxonomy of Deep Learning Models for Aircraft Trajectory Prediction](https://www.mdpi.com/2076-3417/15/19/10739)
+- [The Evolution of the Kitchen Brigade System — Paxika](https://paxika.com/break-shift/the-evolution-of-the-kitchen-brigade-system-7AulC)
+- [The gesture enigma: Reconciling the prominence and insignificance of choral conductor gestures](https://journals.sagepub.com/doi/full/10.1177/1321103X211031778)
+- [The hierarchy of voice framework](https://www.sciencedirect.com/science/article/abs/pii/S0191308522000259)
+- [The influence of a conductor and co-performer on auditory-motor synchronisation, temporal prediction, and ancillary entrainment in a musical drumming task](https://www.sciencedirect.com/science/article/abs/pii/S0167945719303173)
+- [The Influence of Individualized Consideration Leadership](https://ijbss.thebrpi.org/journals/Vol_8_No_2_February_2017/19.pdf)
+- [The Influence of Intellectual Stimulation Leadership Behaviour](https://ijbss.thebrpi.org/journals/Vol_8_No_3_March_2017/9.pdf)
+- [The influence of visual cues on temporal anticipation and movement synchronization with musical sequences](https://www.sciencedirect.com/science/article/abs/pii/S0001691818300921)
+- [The next AI revolution could start with world models](https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/)
+- [The One Thirds Two Thirds Rule - Citizen Soldier Resource Center](https://www.part-time-commander.com/the-one-thirds-two-thirds-13-23-rule-for-military-leaders/)
+- [The Orchestra Conductor](https://grokipedia.com/page/the_orchestra_conductor)
+- [The origin and setup of the kitchen brigade — Radiant Hospitality](https://www.radianthospitalityco.com/fieldnotes/the-origin-and-setup-of-the-kitchen-brigade)
+- [The Politics of Conducting](https://www.musicandpractice.org/the-politics-of-conducting/)
+- [The Power of PDCA, Jidoka, Kaizen & Standard Work](https://www.orcalean.com/article/the-power-of-integrating-all-four:-pdca-jidoka-kaizen-and-standard-work)
+- [The Problem of Mission Command](https://thestrategybridge.org/the-bridge/2016/9/1/the-problem-of-mission-command)
+- [The Role of Body Language in Orchestra Conducting](https://www.atlantis-press.com/article/125993268.pdf)
+- [The Role of Conductors: Guiding the Symphony to Perfection](https://tutanentertainment.com/the-role-of-conductors-guiding-the-symphony-to-perfection/)
+- [The role of shared mental models in human-AI teams: a theoretical review](https://www.tandfonline.com/doi/full/10.1080/1463922X.2022.2061080)
+- [The Role of the More Knowledgeable Other (MKO)](https://www.psychologynoteshq.com/more-knowledgeable-other/)
+- [The Role of the Second Unit Director in Film - Assemble](https://www.onassemble.com/blog/the-role-of-the-second-unit-director-in-film)
+- [The Rules of Improvisation](https://booksandideas.net/The-Rules-of-Improvisation)
+- [The Scrum@Scale Guide Online](https://www.scrumatscale.com/scrum-at-scale-guide-online/)
+- [The Secret To Play A Great Jazz Drum Solo](https://vonbaronmusic.com/trading-fours-and-eights/)
+- [The State of AI Hallucinations in 2025](https://www.getmaxim.ai/articles/the-state-of-ai-hallucinations-in-2025-challenges-solutions-and-the-maxim-ai-advantage/)
+- [The Story of Elaine Bromiley](https://www.futurelearn.com/info/courses/airway-matters/0/steps/68647)
+- [The Strategy Bridge: The Institutional Level of War](https://thestrategybridge.org/the-bridge/2016/5/5/the-institutional-level-of-war)
+- [The Structure Of A Jazz Standard](https://jazznewbie.com/the-structure-of-a-jazz-standard/)
+- [The Swiss Cheese Model - Psych Safety](https://psychsafety.com/the-swiss-cheese-model/)
+- [The Trouble With Transformational Leadership](https://smallbusiness.chron.com/trouble-transformational-leadership-21793.html)
+- [The true power of the left hand in conducting technique](https://gianmariagriglio.com/left-hand-conducting-technique/)
+- [The Ultimate Guide to Bebop Tunes](https://www.jazzadvice.com/lessons/the-ultimate-guide-to-bebop-tunes-30-essential-songs/)
+- [The Ultimate Guide to Production Coordinator](https://www.numberanalytics.com/blog/ultimate-guide-production-coordinator-film-production)
+- [The Uncomfortable Truth About Scaling Agile](https://age-of-product.com/truth-scaling-agile/)
+- [The Weaknesses of Transformational Leadership](https://www.leadershipiq.com/blogs/leadershipiq/the-weaknesses-of-transformational-leadership)
+- [Theatre Template: Master Cue Sheet - Theaterish](https://theaterish.com/blogs/news/theatre-template-master-cue-sheet)
+- [Theatre Template: Master Cue Sheet – Theaterish](https://www.theaterish.com/blog/master-cue-sheet)
+- [Theatrecrafts - Followspotting Tips and Tricks](https://theatrecrafts.com/pages/home/topics/lighting/followspotting-tips-tricks/)
+- [Theatrecrafts - LX Cues](https://theatrecrafts.com/pages/home/topics/lighting/lx-cues/)
+- [Theatrecrafts - Stage Management - Prompt Book](https://theatrecrafts.com/pages/home/topics/stage-management/the-prompt-book/)
+- [TheatreCrafts - Stage Management: Calls and Cans and Comms](https://www.theatrecrafts.com/pages/home/topics/stage-management/calls-and-cans/)
+- [Theatrical cue lights – part 1 - Stompville](https://stompville.co.uk/?p=913)
+- [Theory and implementation of path planning by negotiation for decentralized agents](https://www.sciencedirect.com/science/article/abs/pii/S092188900700142X)
+- [Theory of collective mind](https://www.sciencedirect.com/science/article/abs/pii/S1364661323001687)
+- [Theory of Constraints](https://www.tocinstitute.org/theory-of-constraints.html)
+- [Theory of Constraints 102: The Illusion of Local Optima | Medium](https://medium.com/praxis-blog/theory-of-constraints-102-local-optima-3ca8d348f146)
+- [Thinking of Swiss Cheese: Reason's Theory of Active and Latent Failures](https://investigationsquality.com/2022/07/29/thinking-of-swiss-cheese-reasons-theory-of-active-and-latent-failures/)
+- [Thompson's Three Types of Interdependence](https://smallbusiness.chron.com/three-types-interdependence-organizational-structure-1764.html)
+- [Three Adoption Principles](https://less.works/less/adoption/three-principles)
+- [Three Indicators Your Daily Stand-Up is Ineffective](https://medium.com/@mark_21747/three-indicators-your-daily-stand-up-is-ineffective-and-how-to-solve-it-b62eaca37a6a)
+- [Ticket Fairy - Festival Communication Failure Backup Plans](https://www.ticketfairy.com/blog/2025/07/09/festival-communication-failure-backup-plans/)
+- [Ticket Fairy - Mastering Simulcast Festival Premieres](https://www.ticketfairy.com/blog/2025/08/24/mastering-simulcast-festival-premieres-timing-redundancy-and-backup-plans/)
+- [Time between paper and dry tech? | ControlBooth](https://www.controlbooth.com/threads/time-between-paper-and-dry-tech.39956/)
+- [Time to burn: Flight delay, terminal efficiency, and fuel consumption | ScienceDirect](https://ideas.repec.org/a/eee/transa/v69y2014icp286-298.html)
+- [TIMWOOD: The 7 Wastes](https://safetyculture.com/topics/timwood)
+- [Tips for Determining Damages - American Bar Association](https://www.americanbar.org/groups/litigation/resources/newsletters/business-torts-unfair-competition/tips-determining-damages-breach-fiduciary-duty/)
+- [Too Big to Scale: A Guide to Optimal Scrum Team Size](https://www.toptal.com/product-managers/agile/scrum-team-size)
+- [Tool-Based Agents for Calling Functions - AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/tool-based-agents-for-calling-functions.html)
+- [Toward Computational Motivation for Multi-Agent Systems and Swarms](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2018.00134/full)
+- [Toyota Andon Cord: Lets Any Worker Stop Production](https://nkdagility.com/resources/signals/toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects/)
+- [Toyota Production System](https://www.toyota-europe.com/about-us/toyota-vision-and-philosophy/toyota-production-system)
+- [Toyota Production System: The Blueprint for Lean Success](https://www.learnleansigma.com/lean-manufacturing/discover-the-toyota-production-system-tps-the-foundation-of-lean-learn-how-jit-jidoka-and-kaizen-drive-efficiency-eliminate-waste-and-transform-industries-beyond-automotive/)
+- [Toyota Production System: Vision & Philosophy](https://global.toyota/en/company/vision-and-philosophy/production-system/)
+- [Toyota's Six Rules for Kanban](https://www.allaboutlean.com/toyotas-six-rules/)
+- [Training for a Line Cook - Chron](https://work.chron.com/training-line-cook-21922.html)
+- [Traits and Skills of a Music Director](https://americanorchestras.org/traits-and-skills-of-a-music-director/)
+- [Trajectory Based Operations (TBO) | EUROCONTROL](https://www.eurocontrol.int/sites/default/files/2023-03/eurocontrol-airspace-world-2023-03-09-nunez-tbo.pdf)
+- [Trajectory Predictor and Conflict Detection Figures of Merit](https://www.mdpi.com/2226-4310/11/2/155)
+- [Transactive Memory Systems and Hospital Trauma Team Performance](https://pubsonline.informs.org/doi/10.1287/orsc.2024.19022)
+- [Transformational and transactional leadership styles in German nonprofit orchestras](https://onlinelibrary.wiley.com/doi/abs/10.1002/nml.240)
+- [Transformational Leadership Theory: Inspire & Motivate](https://www.simplypsychology.org/what-is-transformational-leadership.html)
+- [Transformational Leadership | Quality Improvement Center for Workforce Development](https://www.qic-wd.org/umbrella-summary/transformational-leadership)
+- [Transformational Leadership: Benefits, Weaknesses & More](https://pumble.com/blog/transformational-leadership/)
+- [Transformational Leadership: Individualized Consideration](https://www.michelleray.com/transformational-leadership-individualized-consideration/)
+- [Transformational Leadership: Inspiring Change and Innovation](https://www.ijsr.net/getabstract.php?paperid=MR25206180024)
+- [Transformational Leadership: Intellectual Stimulation](https://www.michelleray.com/transformational-leadership-intellectual-stimulation/)
+- [True Difference Between Push and Pull](https://www.allaboutlean.com/push-pull/)
+- [Trusting Machine Intelligence: AI and Human-Autonomy Teaming - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/14751798.2023.2264070)
+- [Trying not to try: The paradox of intentionality in jazz improvisation](https://discovery.ucl.ac.uk/id/eprint/10130123/)
+- [Tutorial and simulations with ADAM: an adaptation and anticipation model of sensorimotor synchronization](https://link.springer.com/article/10.1007/s00422-019-00798-6)
+- [Two Sides of the Same Coin? Joint Perspectives From Shared Mental Models and Interactive Team Cognition Theories on Human-AI Team Cognition](https://journals.sagepub.com/doi/10.1177/10711813251358788)
+- [Uberlingen Accident Macro-Level Safety Lessons | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925753507001567)
+- [Ultimate Jazz Comping 101](https://www.learnjazzstandards.com/blog/what-is-jazz-comping/)
+- [Uncertainty quantification and reduction in aircraft trajectory prediction using Bayesian-Entropy information fusion](https://www.sciencedirect.com/science/article/abs/pii/S0951832021001915)
+- [Understanding AABA Song Form](https://jazzfuel.com/aaba-song-form/)
+- [Understanding authority gradient: tips for speaking up for patient safety](https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1111/tog.12829)
+- [Understanding Brooks Law and Project Team Scaling Impact](https://www.growingscrummasters.com/keywords/brooks-law/)
+- [Understanding Fiduciary Duty - MasterClass](https://www.masterclass.com/articles/how-to-understand-fiduciary-duty)
+- [Understanding Function Calling: The Bridge to Agentic AI](https://fireworks.ai/blog/function-calling)
+- [Understanding the 4 Agile Ceremonies](https://www.geeksforgeeks.org/software-engineering/understanding-the-4-agile-ceremonies/)
+- [Understanding the Brigade System in Modern Commercial Kitchens - École Ducasse](https://www.bangkok-ecoleducasse-studio.com/understanding-the-brigade-system-in-modern-commercial-kitchens/)
+- [Understanding The Brigade System or Brigade de Cuisine](https://casaschools.com/blog/understanding-the-brigade-system-or-brigade-de-cuisine/)
+- [Understanding the Kitchen Brigade System - Biyo POS](https://biyopos.com/blog/understanding-the-kitchen-brigade-system/)
+- [Understanding the Kitchen Brigade: 16 Common Kitchen Roles - MasterClass](https://www.masterclass.com/articles/kitchen-brigade-explained)
+- [unSAFe at any speed](https://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/)
+- [Using Timecode with QLab - QLab 5 Documentation](https://qlab.app/docs/v5/networking/using-timecode/)
+- [Utrecht Law Review - Employer's Vicarious Liability for Damage Caused by an AI Worker](https://utrechtlawreview.org/articles/10.36633/ulr.1063)
+- [Video production workflow: The 4 stages, steps to success, and best practices](https://www.ziflow.com/blog/video-production-workflow)
+- [Visual Search and Conflict Mitigation Strategies Used by Expert en Route Air Traffic Controllers](https://www.mdpi.com/2226-4310/8/7/170)
+- [Vygotsky's Sociocultural Theory of Cognitive Development](https://www.simplypsychology.org/vygotsky.html)
+- [Vygotsky's Zone of Proximal Development (ZPD): Theory, Assessment & Education](https://www.cogn-iq.org/learn/theory/vygotsky-zone-proximal-development/)
+- [Wait Cues - QLab 5 Documentation](https://qlab.app/docs/v5/other-cues/wait-cues/)
+- [Wait For Graph Deadlock Detection](https://www.geeksforgeeks.org/computer-networks/wait-for-graph-deadlock-detection-in-distributed-system/)
+- [What are Scrum Ceremonies - Agile Ceremonies Definition](https://www.goretro.ai/glossary/agile-scrum-ceremonies)
+- [What are the advantages and disadvantages of doing a dry tech vs a cue to cue? - LinkedIn](https://www.linkedin.com/advice/1/what-advantages-disadvantages-doing-dry-tech-vs)
+- [What Does an Orchestra Conductor Actually Do?](https://www.pmi.org/learning/library/what-orchestra-conductor-actually-do-6882)
+- [What is a Chef de Partie? Job Description, Responsibilities and Salary - Menubly](https://www.menubly.com/blog/chef-de-partie/)
+- [What Is a Chef Tournant? - ShiftyChevre](https://shiftychevre.com/what-is-a-chef-tournant/)
+- [What is a Commis Chef: Role, Skills, and Career Path - CLIMB](https://climbtheladder.com/what-is-a-commis-chef-role-skills-and-career-path/)
+- [What is a Cue Sheet? Best Practices & Free Template - StagTimer](https://stagetimer.io/blog/what-is-a-cue-sheet/)
+- [What is a Food Expeditor: The Maestro of the Restaurant Kitchen](https://eatingmeals.com/what-is-food-expeditor/)
+- [What Is a Kitchen Brigade System? Brigade De Cuisine Chart](https://www.chefs-resources.com/kitchen-management-tools/kitchen-management-alley/modern-kitchen-brigade-system/)
+- [What Is a Knowledge Graph?](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
+- [What is a Multi-Agent System?](https://www.ibm.com/think/topics/multiagent-system)
+- [What Is a Pull System](https://businessmap.io/lean-management/pull/what-is-pull-system)
+- [What Is a Saucier and How Can You Become One? - HRC Academy](https://www.hrcacademy.com/en/blog/what-is-a-saucier-and-how-to-become-one/)
+- [What is a Sprint Retrospective & How to Hold an Effective One?](https://krisp.ai/blog/sprint-retrospective/)
+- [What is a Sprint Retrospective? | Scrum.org](https://www.scrum.org/resources/what-is-a-sprint-retrospective)
+- [What is an expeditor?](https://www.joinhomebase.com/glossary/expeditor)
+- [What Is an Expo in a Restaurant: The Key Role of Restaurant Expeditor](https://noshquad.com/blogs/what-is-an-expo-in-a-restaurant-the-key-role-of-restaurant-expeditor-in-food-service)
+- [What is an expo in restaurant? - Chef's Resource](https://www.chefsresource.com/faq/what-is-an-expo-in-restaurant/)
+- [What Is Conducting? Signs, Principles, and Problems](https://journals.openedition.org/signata/1126?lang=en)
+- [What Is Mise en Place? Benefits and Steps - Araven](https://araven.com/en/actualidad/blog/what-is-mise-en-place-benefits-and-steps/)
+- [What Is Modal Jazz?](https://newyorkjazzworkshop.com/what-is-modal-jazz/)
+- [What is Multi-Agent Collaboration?](https://www.ibm.com/think/topics/multi-agent-collaboration)
+- [What is the Hierarchy of Chefs](https://casaschools.com/reference-library/what-is-the-hierarchy-of-chefs/)
+- [What is Timecode? A beginner's guide - Pladia](https://www.pladia.io/blog/what-is-timecode)
+- [What's a Chord Substitution?](https://www.learnjazzstandards.com/blog/learning-jazz/jazz-theory/what-is-a-chord-substitution/)
+- [Who Leads an Orchestra | Colorado Symphony](https://coloradosymphony.org/who-leads-an-orchestra/)
+- [Why AI Systems Can't Catch Their Own Mistakes](https://www.novaspivack.com/technology/ai-technology/why-ai-systems-cant-catch-their-own-mistakes-and-what-to-do-about-it)
+- [Why do orchestras have leaders and what do they do? - Classic FM](https://www.classicfm.com/discover-music/why-orchestras-have-leaders-and-what-they-do/)
+- [Why do so many orchestras lag behind the beat?](https://www.thestrad.com/debate/why-do-so-many-orchestras-lag-behind-the-beat/6589.article)
+- [Why I'm going to stop saying agile ceremonies](https://emilywebber.co.uk/why-im-going-to-stop-saying-agile-ceremonies/)
+- [Why is Holding Production Meetings Important in the Film Industry?](https://howtofilmschool.com/why-are-production-meetings-necessary/)
+- [Why Is Loose Coupling Between Services So Important?](https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/)
+- [Why Restaurants Fail: The 10 Biggest Mistakes in Operations - MenuSifu](https://www.menusifu.com/bolg-en/why-restaurants-fail-10-biggest-mistakes)
+- [Why Retrospectives Fail: Fixing Action Item Follow-Through](https://www.easyagile.com/blog/improve-sprint-retrospective-action-items)
+- [Why Spotify Squads Are a Popular Failure](https://www.chameleon.io/blog/spotify-squads)
+- [Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
+- [Why Your Sprint Retrospectives Fail](https://matthiasorgler.com/2024/04/18/avoid-the-pitfalls-guide-to-effective-and-efficient-sprint-retrospectives/)
+- [World Models: an Old Idea in AI Mount a Comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
+- [World Models: The Next Frontier in Artificial Intelligence](https://medium.com/@adeelmukhtar051/world-models-the-next-frontier-in-artificial-intelligence-70074c095327)
+- [You're Wasting Your Time With Your Daily Standup](https://www.stepsize.com/blog/youre-wasting-time-with-your-daily-standup)
+- [Your daily standup meetings are broken (and how Team Sync can fix them)](https://aqtos.com/your-daily-standup-meetings-are-broken-and-how-team-sync-can-fix-them/)
+- [Your Guide to Agile Ceremonies and Why They Matter](https://thinklouder.com/your-guide-to-agile-ceremonies/)
+
+## Other
+
+- "Battle Rhythms: Challenges, Considerations, and Recommendations from Warfighter Exercises" - MCTP
+- "Building Scalable Event-Driven Architectures" - Martin Fowler
+- "Commander's Critical Information Requirements: Crucial for Decisionmaking and Joint Synchronization" - Joint Force Quarterly
+- "Control Tower Technology in Supply Chain Management" - MIT Center for Transportation & Logistics
+- "Decision-Support Planning and Tools: Planning to Support Decision-Making" - Armor Magazine
+- "Defining and Measuring Shared Situational Awareness" - CNA
+- "Hierarchical Aggregation in Time-Series Databases" - InfluxData Technical Papers
+- "Human-AI Teaming: State-of-the-Art and Research Needs" - National Academies
+- "Initial Commander's Critical Information Requirements" - Armor Magazine
+- "Monitoring and Observability in Distributed Systems" - Cindy Sridharan
+- "The Power of Real-Time Visibility in Supply Chain Management" - Supply Chain Management Review
+- "The Role of Shared Mental Models in Developing Team Situational Awareness" - DTIC
+- **Balance pre-computation against real-time replanning based on time criticality**
+- **Distinguish branches (mid-task adaptations) from sequels (post-task continuations)**
+- **Monitor for trigger conditions during execution**
+- **Plan for success, failure, and the gray zones between**
+- **Pre-position resources for contingencies worth preparing**
+- **Use explicit decision points with clear triggers**
+- --
+- A comprehensive study of Convergent and Commutative Replicated Data Types (Shapiro et al., 2011)
+- AAAI research on contingent planning and replanning
+- Abadi, D. (2012). "Consistency Tradeoffs in Modern Distributed Database System Design."
+- Added implementation roadmap
+- Added systematic failure mode analysis
+- ADP 5-0 (The Operations Process)
+- ADP 6-0 (Mission Command)
+- ADRP 5-0, The Operations Process
+- Agent management framework for autonomy levels (trust implementation)
+- Ahuja, R.K., Magnanti, T.L., and Orlin, J.B. (1993). *Network Flows: Theory, Algorithms, and Applications*. Prentice Hall.
+- Apply this template to remaining Priority 1 models
+- Arrow, K. J. (1951). Social Choice and Individual Values. Wiley.
+- ATP 5-19 (Risk Management)
+- ATP 6-0.5, Command Post Organization and Operations
+- ATP 6-0.5, Command Post Organization and Operations (March 2017)
+- Autonomy levels defined (0-4)
+- Bainbridge, L. (1983). "Ironies of automation." *Automatica*, 19(6), 775-779.
+- Bainbridge, L. (1983). Ironies of Automation. Automatica.
+- Bansal, G., et al. (2021). Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance. CHI.
+- Barabasi, A.L. and Albert, R. (1999). "Emergence of scaling in random networks." *Science*, 286(5439), 509-512.
+- Battle Rhythm Management
+- Bengio, Y., Louradour, J., Collobert, R., & Weston, J. (2009). Curriculum learning. *ICML*.
+- Bernstein, E.S. (2012). "The Transparency Paradox: A Role for Privacy in Organizational Learning and Operational Control." *Administrative Science Quarterly.*
+- Beyerchen, Alan. "Clausewitz, Nonlinearity and the Unpredictability of War." *International Security* 17:3 (1992).
+- Birge, J.R. and Louveaux, F. (2011). *Introduction to Stochastic Programming*. Springer.
+- Bjork, E.L. & Bjork, R.A. (2011). Making things hard on yourself, but in a good way
+- Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings
+- Boyd, John R. "Destruction and Creation." Unpublished paper, September 3, 1976. Available at Defense and the National Interest (d-n-i.net). The epistemological foundation for OODA, drawing on Godel, Heisenberg, and thermodynamics.
+- Boyd, John R. "Organic Design for Command and Control." Briefing, May 1987. Introduces the four organizational qualities (Fingerspitzengefuhl, Einheit, Schwerpunkt, Auftragstaktik) and their relationship to OODA cycle time.
+- Boyd, John R. "Patterns of Conflict." Briefing, December 1986. Boyd's most comprehensive presentation of OODA in strategic context, including the theory of maneuver warfare and the importance of tempo.
+- Boyd, John R. "The Strategic Game of ? and ?" Briefing, June 1987. The mature OODA diagram with multiple feedback loops and the Orient-Act (IG&C) pathway.
+- Boyd, John. "Destruction and Creation" (1976) - Epistemological foundation
+- Boyd, John. "Organic Design for Command and Control" (1987) - Four organizational qualities
+- Boyd, John. "Organic Design for Command and Control" (1987) - Four organizational qualities including Auftragstaktik
+- Boyd, John. "Patterns of Conflict" (1986) - OODA loop presentation
+- Boyd, John. "The Strategic Game of ? and ?" (1987) - Competition and tempo
+- Boyd, John. *Patterns of Conflict*. For tempo and OODA loops.
+- Boyd, John. OODA Loop and inducing friction for adversaries
+- Bransford, J. D., & Schwartz, D. L. (1999). Rethinking transfer: A simple proposal with multiple implications. *Review of Research in Education*, 24, 61-100.
+- Brewer, E. (2012). "CAP twelve years later: How the 'rules' have changed." IEEE Computer.
+- Brunswik, E. (1955). Representative Design and Probabilistic Theory in a Functional Psychology. Psychological Review.
+- Cannon-Bowers, J. A., Salas, E., & Converse, S. (1993). Shared mental models in expert team decision making. *Individual and group decision making: Current issues*, 221, 221-46.
+- CAP Theorem (Eric Brewer, 2000)
+- Centralized-decentralized execution: Authority gradients determine whether decentralized information can reach centralized decisions
+- Chandler, P. & Sweller, J. (1991). Cognitive load theory and the format of instruction. *Cognition and Instruction*
+- Chi, M. T. H. (2013). Two kinds and four sub-types of misconceived knowledge, ways to change it, and the learning outcomes. In S. Vosniadou (Ed.), *International Handbook of Research on Conceptual Change* (pp. 49-70). Routledge.
+- Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5(2), 121-152.
+- Chopra, S. and Meindl, P. (2016). *Supply Chain Management: Strategy, Planning, and Operation*. Pearson.
+- Cichonski, P., et al. (2012). *Computer Security Incident Handling Guide*. NIST Special Publication 800-61.
+- CJCSI 3152.01 Global Command and Control System
+- Clark, H.H. & Brennan, S.E. (1991). "Grounding in Communication." *Perspectives on Socially Shared Cognition.*
+- Clausewitz, Carl von. *On War* (1832)
+- Clausewitz, Carl von. *On War* (1832). Book I, Chapters 3, 5, 7 particularly relevant.
+- Clausewitz, Carl von. *On War* (Vom Kriege)
+- Clausewitz, Carl von. *On War*. Particularly Book III on Strategy.
+- Clemen, R. T., & Winkler, R. L. (1999). "Combining Probability Distributions from Experts in Risk Analysis." *Risk Analysis*, 19(2), 187-203.
+- Comfort, L. K. (2007). Crisis Management in Hindsight: Cognition, Communication, Coordination, and Control. Public Administration Review.
+- Condorcet, M. (1785). *Essay on the Application of Analysis to the Probability of Majority Decisions*.
+- Control Theory and feedback loops
+- Cooke, N. J., Gorman, J. C., Myers, C. W., & Duran, J. L. (2013). Interactive team cognition. *Cognitive Science*, 37(2), 255-285.
+- Coram, Robert. "Boyd: The Fighter Pilot Who Changed the Art of War" (2002)
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*
+- Created actionable implementation patterns
+- Cross-model synthesis with Separation Assurance, Jidoka, Shared Mental Models
+- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+- Cummings, M. L. (2004). Automation Bias in Intelligent Time Critical Decision Support Systems. AIAA.
+- Cyert, Richard M., and James G. March. *A Behavioral Theory of the Firm*. 1963.
+- Cynefin - Clear domain aligns with RPD; Complex domain requires different approach
+- Daskin, M.S. (1995). *Network and Discrete Location: Models, Algorithms, and Applications*. Wiley.
+- DCSA Track & Trace Standards - container shipping visibility standards
+- de Groot, A. D. (1965). *Thought and Choice in Chess*. Mouton.
+- DeCandia, G., et al. (2007). Dynamo: Amazon's Highly Available Key-value Store. *ACM SIGOPS Operating Systems Review*, 41(6), 205-220.
+- Decision Support Matrices and Templates (CALL publications)
+- Degani, A., & Heymann, M. (2002). "Formal verification of human-automation interaction." *Human Factors*, 44(1), 28-43.
+- Developed concrete measurement framework
+- diSessa, A. A. (1993). Toward an epistemology of physics. *Cognition and Instruction*, 10(2-3), 105-225.
+- Distributed Systems Observability (metrics, logs, traces)
+- Dreyfus, Hubert & Dreyfus, Stuart. "Mind Over Machine" (1986) - Skill acquisition model
+- Dynamo: Amazon's Highly Available Key-value Store (DeCandia et al., 2007)
+- Eisenhardt, K. M. (1989). "Agency Theory: An Assessment and Review." *Academy of Management Review*, 14(1), 57-74.
+- Endsley, M. R. (1995). "Toward a Theory of Situation Awareness in Dynamic Systems." *Human Factors*, 37(1), 32-64.
+- Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. *Human Factors*, 37(1), 32-64.
+- Endsley, M. R. (1995). Toward a Theory of Situation Awareness in Dynamic Systems. Human Factors.
+- Endsley, M. R. (2017). "From Here to Autonomy: Lessons Learned from Human-Automation Research." *Human Factors*, 59(1), 5-27.
+- Endsley, M.R. (1995). "Toward a Theory of Situation Awareness in Dynamic Systems." *Human Factors Journal.*
+- Evans, Jonathan St. B. T. & Stanovich, Keith. "Dual-Process Theories of Higher Cognition" (2013) - Critical theoretical update
+- Event Sourcing and CQRS
+- Expanded theoretical foundations with Boyd's actual framework
+- Failure modes and anti-patterns documented
+- FM 101-5 (Staff Organization and Operations)
+- FM 3-0, Operations (October 2022)
+- FM 3-31/MCWP 3-40.7, Joint Force Land Component Commander Handbook
+- FM 5-0, Planning and Orders Production (May 2022)
+- FM 6-0, Commander and Staff Organization and Operations
+- FM 6-0, Commander and Staff Organization and Operations (May 2022)
+- Four Manager Tools principles mapped
+- Galbraith, J. R. (1977). *Organization Design*. Addison-Wesley.
+- Garey, M.R. and Johnson, D.S. (1979). *Computers and Intractability: A Guide to the Theory of NP-Completeness*. Freeman.
+- Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science*, 7(2), 155-170.
+- Geoffrion, A.M. and Powers, R.F. (1995). "Twenty years of strategic distribution system design: an evolutionary perspective." *Interfaces*, 25(5), 105-127.
+- Gibbard, A. (1973). Manipulation of Voting Schemes: A General Result. Econometrica.
+- Gigerenzer, G., & Goldstein, D. G. (1996). Reasoning the Fast and Frugal Way. Psychological Review.
+- Gilbert, S., & Lynch, N. (2002). "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services." ACM SIGACT News.
+- Gilbert, S., & Lynch, N. (2002). Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-tolerant Web Services. SIGACT News.
+- Golden, B., Raghavan, S., and Wasil, E. (eds.) (2008). *The Vehicle Routing Problem: Latest Advances and New Challenges*. Springer.
+- Google (2017). "Spanner, TrueTime and the CAP Theorem."
+- GS1 EPCIS (Electronic Product Code Information Services) - event-based visibility standard
+- Hammond, Grant. "The Mind of War: John Boyd and American Security" (2001)
+- Hancock, P. A., et al. (2011). "A meta-analysis of factors affecting trust in human-robot interaction." *Human Factors*, 53(5), 517-527.
+- Hoff, K. A., & Bashir, M. (2015). Trust in Automation: Integrating Empirical Evidence on Factors That Influence Trust. Human Factors.
+- Holland, J. H. (1995). *Hidden Order: How Adaptation Builds Complexity*. Addison-Wesley.
+- IBM documentation on AI agent planning frameworks
+- Initial document creation
+- Internal research documents in this repository
+- ISO 28000:2022 - Security management systems for the supply chain
+- Isserson, Georgii. *The Evolution of Operational Art* (1936)
+- JCS Focus Paper on Authorities
+- JCS Focus Paper on JTF and C2
+- Johnson, S. (2001). *Emergence: The Connected Lives of Ants, Brains, Cities, and Software*. Scribner.
+- Joint Publication 3-0 Joint Operations
+- Joint Publication 3-0, Joint Operations
+- Joint Publication 3-0, Joint Operations (US Joint Chiefs of Staff)
+- Joint Publication 3-16, Multinational Operations
+- Joint Publication 5-0, *Joint Planning*
+- Joint Publication JP 5-0: Joint Planning
+- Joint Publication, Joint Headquarters Organization, Staff Integration, and Battle Rhythm
+- Jomini, Antoine-Henri. *The Art of War* (1838)
+- Jomini, Antoine-Henri. *The Art of War*. For the geometric perspective.
+- JP 3-04, Information in Joint Forces
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+- Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica.
+- Kahneman, Daniel & Frederick, Shane. "Representativeness Revisited: Attribute Substitution in Intuitive Judgment" (2002)
+- Kahneman, Daniel & Klein, Gary. "Conditions for Intuitive Expertise: A Failure to Disagree" (2009) - When intuition can be trusted
+- Kahneman, Daniel & Klein, Gary. "Conditions for Intuitive Expertise: A Failure to Disagree" (2009) - When to trust intuition
+- Kahneman, Daniel. *Thinking, Fast and Slow* (2011) - Definitive popular exposition
+- Kalyuga, S., et al. (2003). The expertise reversal effect. *Educational Psychologist*
+- Klein, Gary. "Seeing What Others Don't" (2013) - Insight and pattern recognition
+- Klein, Gary. "Sources of Power: How People Make Decisions" (1998) - Primary RPD exposition
+- Klein, Gary. "The Power of Intuition" (2003) - Practical applications
+- Klein, Orasanu, et al. "Decision Making in Action" (1993) - Naturalistic decision research
+- Kleppmann, M. (2015). "Please stop calling databases CP or AP."
+- Kranz, G. (2000). *Failure Is Not an Option*. Simon & Schuster.
+- Lai, V., & Tan, C. (2019). On Human Predictions with Explanations and Predictions of Machine Learning Models. FAT*.
+- Lamport, L. (1978). Time, Clocks, and the Ordering of Events in a Distributed System. *Communications of the ACM*, 21(7), 558-565.
+- Lamport, L., Shostak, R., & Pease, M. (1982). The Byzantine Generals Problem. ACM Transactions on Programming Languages and Systems.
+- Lee, J. D., & See, K. A. (2004). "Trust in automation: Designing for appropriate reliance." *Human Factors*, 46(1), 50-80.
+- Lee, J. D., & See, K. A. (2004). Trust in Automation: Designing for Appropriate Reliance. Human Factors.
+- Leveson, N. G. (2004). "A New Accident Model for Engineering Safer Systems." *Safety Science.*
+- Loftus, R., & Stein, J. (2020). Machine Learning in Emergency Medical Services. Prehospital Emergency Care.
+- Luttwak, Edward. *Strategy: The Logic of War and Peace*. For paradoxical logic of strategy.
+- MCDP 1-2 Campaigning (US Marine Corps)
+- McNeese, N. J., et al. (2018). Teaming with a Synthetic Teammate: Insights into Human-Autonomy Teaming. Human Factors.
+- McRaven, William. Special operations and the principle of simplicity
+- Miller, G. A. (1956). "The Magical Number Seven, Plus or Minus Two." *Psychological Review*, 63(2), 81-97.
+- Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*
+- Miller, T. (2019). Explanation in Artificial Intelligence: Insights from the Social Sciences. Artificial Intelligence.
+- Mintzberg, H. (1979). *The Structuring of Organizations*. Prentice-Hall.
+- Mintzberg, H. (1979). The Structuring of Organizations. Prentice-Hall.
+- Mission Command - Einheit enables shared patterns; expertise enables delegation
+- Mission Command philosophy
+- Moltke, Helmuth von. "On the Art of War" - Original Auftragstaktik formulation
+- Moltke, Helmuth von. *Kriegsgechichtliche Einzelschriften* (1880).
+- Mosier, K. L., & Skitka, L. J. (1996). Human Decision Makers and Automated Decision Aids: Made for Each Other? In R. Parasuraman & M. Mouloua (Eds.), Automation and Human Performance.
+- Murray, C., & Cox, C. B. (1989). *Apollo: The Race to the Moon*. Simon & Schuster.
+- Myerson, R. B. (1981). Optimal Auction Design. Mathematics of Operations Research.
+- NASA. (2016). *Mission Operations Directorate: MOD History*. Johnson Space Center.
+- National Emergency Number Association. (2020). Computer-Aided Dispatch (CAD) Systems: Functional and Technical Requirements.
+- National Wildfire Coordinating Group. (2020). Incident Response Pocket Guide.
+- NATO Command and Control documentation
+- Normal accidents: Hierarchical filtering of concerns can enable cascade failures
+- O'Neill, T., et al. (2022). Human-Autonomy Teaming: A Review and Analysis of the Empirical Literature. Human Factors.
+- Observer Pattern in software architecture
+- OODA Loop (Boyd) - RPD maps to Orient and the IG&C fast path
+- OODA Loop (Observe-Orient-Decide-Act) - John Boyd's decision cycle framework
+- Osinga, Frans. "Science, Strategy and War: The Strategic Theory of John Boyd" (2007)
+- Osinga, Frans. "Science, Strategy and War: The Strategic Theory of John Boyd" (2007) - Academic analysis of Boyd's work
+- Paas, F. & van Merriënboer, J.J.G. (2020). Cognitive-load theory: Methods to manage working memory load in the learning of complex tasks. *Current Directions in Psychological Science*
+- PACELC Theorem (Daniel Abadi, 2010)
+- Papadimitriou, C.H. and Steiglitz, K. (1998). *Combinatorial Optimization: Algorithms and Complexity*. Dover.
+- Parasuraman, R., & Riley, V. (1997). "Humans and automation: Use, misuse, disuse, abuse." *Human Factors*, 39(2), 230-253.
+- Parasuraman, R., & Riley, V. (1997). Humans and Automation: Use, Misuse, Disuse, Abuse. Human Factors.
+- Parasuraman, R., & Wickens, C. D. (2008). "Humans: Still vital after all these years of automation." *Human Factors*, 50(3), 511-520.
+- Parasuraman, R., Sheridan, T. B., & Wickens, C. D. (2000). "A Model for Types and Levels of Human Interaction with Automation." *IEEE Transactions on Systems, Man, and Cybernetics*, 30(3), 286-297.
+- Parasuraman, R., Sheridan, T. B., & Wickens, C. D. (2000). A Model for Types and Levels of Human Interaction with Automation. IEEE Transactions on Systems, Man, and Cybernetics.
+- Perrow, Charles. *Normal Accidents: Living with High-Risk Technologies* (1984). Framework for understanding tight coupling.
+- Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education*, 66(2), 211-227.
+- Reason, J. (1997). *Managing the Risks of Organizational Accidents*. Ashgate.
+- Richards, Chet. "Certain to Win" (2004) - Boyd's ideas applied to business
+- Richards, Chet. "Certain to Win: The Strategy of John Boyd Applied to Business" (2004)
+- Rico, R., S\u00e1nchez-Manzanares, M., Gil, F., & Gibson, C. (2008). Team implicit coordination processes: A team knowledge-based approach. *Academy of Management Review*, 33(1), 163-184.
+- Sarter, N. B., & Woods, D. D. (1995). "How in the world did we ever get into that mode? Mode error and awareness in supervisory control." *Human Factors*, 37(1), 5-19.
+- Scharnhorst and the Prussian reform movement
+- Schrijver, A. (2003). *Combinatorial Optimization: Polyhedra and Efficiency*. Springer.
+- Schwartz, Barry. *The Paradox of Choice: Why More Is Less*. Harper Perennial, 2004.
+- See OODA loop document for initial Auftragstaktik mapping
+- Seeber, I., et al. (2020). Machines as Teammates: A Research Agenda on AI in Team Collaboration. Information & Management.
+- Session Guarantees for Weakly Consistent Replicated Data (Terry et al., 1994)
+- Shamir, Eitan. "Transforming Command" (2011) - History of mission command adoption
+- Shannon, C. E. (1948). "A Mathematical Theory of Communication." *Bell System Technical Journal*, 27(3), 379-423.
+- Shapiro, A., Dentcheva, D., and Ruszczynski, A. (2014). *Lectures on Stochastic Programming*. SIAM.
+- Shared mental models (companion document): Hierarchical barriers prevent the communication needed to maintain shared understanding
+- Sheridan, T. B., & Parasuraman, R. (2005). "Human-automation interaction." *Reviews of Human Factors and Ergonomics*, 1(1), 89-129.
+- Simchi-Levi, D., Kaminsky, P., and Simchi-Levi, E. (2008). *Designing and Managing the Supply Chain*. McGraw-Hill.
+- Simon, H. A. (1947). *Administrative Behavior*. Macmillan.
+- Simon, Herbert A. *Administrative Behavior*. 1947.
+- Simon, Herbert A. Nobel Prize Lecture: "Rational Decision-Making in Business Organizations." 1978.
+- Simon, Herbert. "Models of Bounded Rationality" (1982) - Satisficing concept
+- Slovic, Paul et al. "The Affect Heuristic" (2002)
+- Snyder, L.V. and Shen, Z.J.M. (2019). *Fundamentals of Supply Chain Theory*. Wiley.
+- Stanovich, Keith. "Who Is Rational?" (1999) - Original System 1/System 2 terminology
+- Stanton, N. A., Stewart, R., Harris, D., Houghton, R. J., Baber, C., McMaster, R., ... & Green, D. (2006). Distributed situation awareness in dynamic systems: theoretical development and application of an ergonomics methodology. *Ergonomics*, 49(12-13), 1288-1311.
+- Stone, P. and Veloso, M. (2000). "Multiagent systems: A survey from a machine learning perspective." *Autonomous Robots*, 8(3), 345-383.
+- Stone, P., & Veloso, M. (2000). Multiagent Systems: A Survey from a Machine Learning Perspective. *Autonomous Robots*, 8(3), 345-383.
+- Stone, P., & Veloso, M. (2000). Multiagent Systems: A Survey from a Machine Learning Perspective. Autonomous Robots.
+- STPA Handbook (MIT)
+- Structured for cross-model synthesis
+- Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.
+- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*
+- Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. *Educational Psychology Review*
+- Thompson, J. D. (1967). *Organizations in Action*. McGraw-Hill.
+- Thompson, J. D. (1967). Organizations in Action: Social Science Bases of Administrative Theory. McGraw-Hill.
+- Thorndike, E. L., & Woodworth, R. S. (1901). The influence of improvement in one mental function upon the efficiency of other functions. *Psychological Review*, 8, 247-261.
+- Title 10, U.S. Code, Section 164 (Commanders of combatant commands)
+- Toth, P. and Vigo, D. (eds.) (2014). *Vehicle Routing: Problems, Methods, and Applications*. SIAM.
+- Trust progression criteria
+- Tversky, Amos & Kahneman, Daniel. "Judgment Under Uncertainty: Heuristics and Biases" (1974)
+- U.S. Cyber Command Battle Rhythm Paper
+- US Marine Corps MCWP 5-10: Marine Corps Planning Process
+- Use for cross-model synthesis in Phase 2
+- Validate patterns through implementation
+- Van Creveld, Martin. *Command in War*. For historical examples of coordination and its failures.
+- Van Merriënboer, J.J.G. & Sweller, J. (2005). Cognitive load theory and complex learning. *Educational Psychology Review*
+- Various research on System 2 reasoning in LLMs (2024-2025)
+- Vatanpour, H., Khorramnia, A., & Forutan, N. (2013). "Silo Effect: A Prominent Cause of Failure in Organizations." *Management Science Letters.*
+- Vespignani, A. (2010). "Complex networks: The fragility of interdependency." *Nature*, 464(7291), 984-985.
+- Vietnam War strategic assessment failures documented in the Pentagon Papers and subsequent historical analyses, particularly H.R. McMaster's "Dereliction of Duty" (1997).
+- Vosniadou, S. (2013). Conceptual change in learning and instruction: The framework theory approach. In S. Vosniadou (Ed.), *International Handbook of Research on Conceptual Change* (pp. 11-30). Routledge.
+- Watts, Barry D. *Clausewitzian Friction and Future War* (1996, revised 2004). Essential modern treatment.
+- Wegner, D.M. (1985). "Transactive Memory: A Contemporary Analysis of the Group Mind." In *Theories of Group Behavior.*
+- Wei et al. "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022)
+- Weick, K. E. (1993). The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster. Administrative Science Quarterly.
+- Wickens, C. D. (2008). "Multiple Resources and Mental Workload." *Human Factors*, 50(3), 449-455.
+- Woods, D. D. (1996). Decomposing Automation: Apparent Simplicity, Real Complexity. In R. Parasuraman & M. Mouloua (Eds.), Automation and Human Performance.
+- Wooldridge, M. (2009). *An Introduction to MultiAgent Systems* (2nd ed.). Wiley.
+- Wooldridge, M. (2009). *An Introduction to MultiAgent Systems*. Wiley.
+- Wooldridge, M. (2009). An Introduction to MultiAgent Systems (2nd ed.). Wiley.
+- Yao et al. "Tree of Thoughts: Deliberate Problem Solving with Large Language Models" (2023)

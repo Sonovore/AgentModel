@@ -1,0 +1,187 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "https://sonovore.com/schemas/acknowledgment/v1"
+version: "1.0.0"
+title: "Acknowledgment Message Schema"
+description: "Schema for confirming message receipt, understanding, completion, or refusal"
+
+type: object
+required:
+  - message_id
+  - timestamp
+  - sender
+  - recipient
+  - message_type
+  - acknowledging_message_id
+
+properties:
+  message_id:
+    type: string
+    format: uuid
+    description: "Unique identifier for this acknowledgment message (UUID v4)"
+
+  timestamp:
+    type: string
+    format: date-time
+    description: "ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ)"
+
+  sender:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Sender agent ID in kebab-case"
+
+  recipient:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Recipient agent ID (original message sender)"
+
+  message_type:
+    type: string
+    enum:
+      - "ack.received"
+      - "ack.understood"
+      - "ack.completed"
+      - "ack.refused"
+    description: "Type of acknowledgment"
+
+  acknowledging_message_id:
+    type: string
+    format: uuid
+    description: "Message ID being acknowledged"
+
+  # Additional context
+  ack_level:
+    type: string
+    enum: ["received", "understood", "completed", "refused"]
+    description: "Level of acknowledgment"
+
+  # For ack.received
+  received_details:
+    type: object
+    properties:
+      processing_status:
+        type: string
+        enum: ["queued", "validating", "processing"]
+        description: "Current processing status"
+
+      estimated_processing_time:
+        type: integer
+        minimum: 0
+        description: "Estimated seconds until understanding/completion"
+
+  # For ack.understood
+  understood_details:
+    type: object
+    properties:
+      will_comply:
+        type: boolean
+        description: "Whether agent will comply with request"
+
+      estimated_completion_time:
+        type: string
+        format: date-time
+        description: "When agent expects to complete the request"
+
+      understood_requirements:
+        type: array
+        items:
+          type: string
+        description: "List of requirements agent understood from message"
+
+      clarifications_needed:
+        type: array
+        items:
+          type: string
+        description: "Any clarifications needed (if any)"
+
+  # For ack.completed
+  completed_details:
+    type: object
+    properties:
+      completion_time:
+        type: string
+        format: date-time
+        description: "When the requested action was completed"
+
+      result:
+        type: string
+        enum: ["success", "partial", "failed"]
+        description: "Result of the completed action"
+
+      result_details:
+        type: object
+        additionalProperties: true
+        description: "Details about the result"
+
+      artifacts:
+        type: array
+        items:
+          type: object
+          properties:
+            path:
+              type: string
+            hash:
+              type: string
+            description:
+              type: string
+        description: "Artifacts produced (if any)"
+
+  # For ack.refused
+  refused_details:
+    type: object
+    required: [reason]
+    properties:
+      reason:
+        type: string
+        minLength: 1
+        description: "Why the request was refused"
+
+      reason_category:
+        type: string
+        enum:
+          - "capability"
+          - "resource"
+          - "priority"
+          - "conflict"
+          - "invalid"
+          - "policy"
+        description: "Category of refusal reason"
+
+      alternative_suggestion:
+        type: string
+        description: "Alternative approach or agent to handle request"
+
+      can_reconsider:
+        type: boolean
+        description: "Whether request could be accepted later"
+
+      reconsider_conditions:
+        type: array
+        items:
+          type: string
+        description: "What would need to change for reconsideration"
+
+  # Coordination-specific acknowledgments
+  coordination_ack:
+    type: object
+    properties:
+      cue_id:
+        type: string
+        pattern: "^CUE-[0-9]+(\\.[0-9]+)?$"
+        description: "If acknowledging a coordination cue"
+
+      ready_status:
+        type: string
+        enum: ["ready", "not_ready", "preparing"]
+        description: "Readiness for GO (for STANDBY acks)"
+
+      preparation_complete:
+        type: boolean
+        description: "Whether all preparation steps are complete"
+
+      blockers:
+        type: array
+        items:
+          type: string
+        description: "Any blockers preventing readiness"
+
+additionalProperties: false

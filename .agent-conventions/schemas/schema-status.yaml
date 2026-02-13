@@ -1,0 +1,112 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "https://sonovore.com/schemas/status/v1"
+version: "1.0.0"
+title: "Status Message Schema"
+description: "Schema for agent state change notifications"
+
+type: object
+required:
+  - message_id
+  - timestamp
+  - sender
+  - recipient
+  - message_type
+  - status
+
+properties:
+  message_id:
+    type: string
+    format: uuid
+    description: "Unique identifier for this message (UUID v4)"
+
+  timestamp:
+    type: string
+    format: date-time
+    description: "ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ)"
+
+  sender:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Sender agent ID in kebab-case"
+
+  recipient:
+    type: string
+    pattern: "^([a-z0-9]+(-[a-z0-9]+)*|broadcast)$"
+    description: "Recipient agent ID in kebab-case (usually orchestrator or hub)"
+
+  message_type:
+    type: string
+    enum:
+      - "status.ready"
+      - "status.busy"
+      - "status.blocked"
+      - "status.idle"
+    description: "Type of status message"
+
+  status:
+    type: string
+    enum: ["ready", "busy", "blocked", "idle"]
+    description: "Current agent status"
+
+  # Additional context for status
+  context:
+    type: object
+    properties:
+      previous_status:
+        type: string
+        enum: ["ready", "busy", "blocked", "idle"]
+        description: "Previous status before this transition"
+
+      current_task:
+        type: string
+        pattern: "^[A-Z]{3,4}-[0-9]+(\\.[0-9]+)?$"
+        description: "Task ID currently being executed (if busy)"
+
+      blocked_reason:
+        type: string
+        description: "Why agent is blocked (if status is blocked)"
+
+      blocked_by:
+        type: object
+        properties:
+          type:
+            type: string
+            enum: ["resource", "dependency", "conflict", "external"]
+          details:
+            type: string
+          resolution_eta:
+            type: string
+            format: date-time
+        description: "What is blocking the agent"
+
+      capacity:
+        type: object
+        properties:
+          current_load:
+            type: number
+            minimum: 0
+            maximum: 100
+            description: "Current workload percentage"
+          available_capacity:
+            type: number
+            minimum: 0
+            maximum: 100
+            description: "Available capacity percentage"
+          queued_tasks:
+            type: integer
+            minimum: 0
+            description: "Number of tasks in queue"
+        description: "Agent capacity information"
+
+      capabilities:
+        type: array
+        items:
+          type: string
+        description: "List of agent capabilities/specializations"
+
+      metadata:
+        type: object
+        additionalProperties: true
+        description: "Additional status metadata"
+
+additionalProperties: false

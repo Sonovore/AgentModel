@@ -1,0 +1,240 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "https://sonovore.com/schemas/task/v1"
+version: "1.0.0"
+title: "Task Message Schema"
+description: "Schema for task assignment, update, completion, failure, and handoff messages"
+
+type: object
+required:
+  - message_id
+  - timestamp
+  - sender
+  - recipient
+  - message_type
+  - task_id
+
+properties:
+  message_id:
+    type: string
+    format: uuid
+    description: "Unique identifier for this message (UUID v4)"
+
+  timestamp:
+    type: string
+    format: date-time
+    description: "ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ)"
+
+  sender:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Sender agent ID in kebab-case"
+
+  recipient:
+    type: string
+    pattern: "^([a-z0-9]+(-[a-z0-9]+)*|broadcast)$"
+    description: "Recipient agent ID in kebab-case or 'broadcast'"
+
+  message_type:
+    type: string
+    enum:
+      - "task.assignment"
+      - "task.update"
+      - "task.complete"
+      - "task.failed"
+      - "task.handoff"
+    description: "Type of task message"
+
+  task_id:
+    type: string
+    pattern: "^[A-Z]{3,4}-[0-9]+(\\.[0-9]+)?$"
+    description: "Task identifier (e.g., CODE-100, TEST-200.5)"
+
+  # Task-specific fields (only for task.assignment and task.update)
+  task:
+    type: object
+    properties:
+      description:
+        type: string
+        minLength: 1
+        description: "Human-readable task description"
+
+      priority:
+        type: string
+        enum: ["critical", "high", "medium", "low"]
+        description: "Task priority level"
+
+      deadline:
+        type: string
+        format: date-time
+        description: "ISO 8601 UTC deadline"
+
+      dependencies:
+        type: array
+        items:
+          type: string
+          pattern: "^[A-Z]{3,4}-[0-9]+(\\.[0-9]+)?$"
+        description: "List of task IDs that must complete before this task"
+
+      context:
+        type: object
+        description: "Additional context for task execution"
+        additionalProperties: true
+
+      resources:
+        type: array
+        items:
+          type: object
+          required: [type, path]
+          properties:
+            type:
+              type: string
+              enum: ["file", "api", "database", "service"]
+            path:
+              type: string
+            metadata:
+              type: object
+              additionalProperties: true
+        description: "Resources required for task execution"
+
+      acceptance_criteria:
+        type: array
+        items:
+          type: string
+        description: "List of conditions that define task completion"
+
+  # Progress update (only for task.update)
+  progress:
+    type: object
+    properties:
+      percent_complete:
+        type: number
+        minimum: 0
+        maximum: 100
+        description: "Percentage of task completion"
+
+      status:
+        type: string
+        enum: ["on_track", "at_risk", "blocked", "delayed"]
+        description: "Current task status"
+
+      message:
+        type: string
+        description: "Human-readable progress update"
+
+      next_steps:
+        type: array
+        items:
+          type: string
+        description: "Planned next actions"
+
+  # Completion details (only for task.complete)
+  completion:
+    type: object
+    properties:
+      artifacts:
+        type: array
+        items:
+          type: object
+          required: [path, hash]
+          properties:
+            path:
+              type: string
+            hash:
+              type: string
+            description:
+              type: string
+        description: "Artifacts produced during task execution"
+
+      summary:
+        type: string
+        description: "Summary of what was accomplished"
+
+      verification:
+        type: object
+        properties:
+          tests_passed:
+            type: boolean
+          validation_passed:
+            type: boolean
+          notes:
+            type: string
+
+  # Failure details (only for task.failed)
+  failure:
+    type: object
+    required: [reason, can_retry]
+    properties:
+      reason:
+        type: string
+        minLength: 1
+        description: "Why the task failed"
+
+      error_type:
+        type: string
+        enum: ["resource", "validation", "timeout", "conflict", "invariant", "external"]
+        description: "Category of error"
+
+      can_retry:
+        type: boolean
+        description: "Whether task can be retried"
+
+      suggested_action:
+        type: string
+        description: "Recommended action to resolve failure"
+
+      requires_human:
+        type: boolean
+        description: "Whether human intervention is needed"
+
+  # Handoff details (only for task.handoff)
+  handoff:
+    type: object
+    required: [from_agent, to_agent]
+    properties:
+      from_agent:
+        type: string
+        pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+        description: "Agent handing off the task"
+
+      to_agent:
+        type: string
+        pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+        description: "Agent receiving the task"
+
+      work_completed:
+        type: array
+        items:
+          type: string
+        description: "What has been completed so far"
+
+      artifacts_produced:
+        type: array
+        items:
+          type: object
+          required: [path, hash]
+          properties:
+            path:
+              type: string
+            hash:
+              type: string
+            description:
+              type: string
+
+      next_steps:
+        type: array
+        items:
+          type: string
+        description: "What needs to be done next"
+
+      constraints:
+        type: array
+        items:
+          type: string
+        description: "Constraints or limitations"
+
+      context:
+        type: object
+        additionalProperties: true
+        description: "Additional context for receiving agent"
+
+additionalProperties: false

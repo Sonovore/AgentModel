@@ -4,6 +4,7 @@
 
 - [ ] Create Task Breakdown skill - decompose goals into context-window-sized tasks
 - [ ] Define "fits in one context window" heuristics
+- [ ] Context window usage logging - track tasks using >80% context, by model/version
 - [ ] Create `/assign` command - assign task to agent
 - [ ] Create `/status` command - check agent status
 - [ ] Create `/orchestrate` command - high-level orchestration

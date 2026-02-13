@@ -1,0 +1,220 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "https://sonovore.com/schemas/escalation/v1"
+version: "1.0.0"
+title: "Escalation Message Schema"
+description: "Schema for error, timeout, conflict, and abnormality escalations (Jidoka)"
+
+type: object
+required:
+  - message_id
+  - timestamp
+  - sender
+  - recipient
+  - message_type
+  - severity
+  - category
+
+properties:
+  message_id:
+    type: string
+    format: uuid
+    description: "Unique identifier for this message (UUID v4)"
+
+  timestamp:
+    type: string
+    format: date-time
+    description: "ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ)"
+
+  sender:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Sender agent ID in kebab-case"
+
+  recipient:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: "Recipient agent ID in kebab-case (usually orchestrator or tournant)"
+
+  message_type:
+    type: string
+    enum:
+      - "escalation.error"
+      - "escalation.timeout"
+      - "escalation.conflict"
+      - "escalation.abnormality"
+    description: "Type of escalation message"
+
+  severity:
+    type: string
+    enum: ["CRITICAL", "HIGH", "MEDIUM", "LOW"]
+    description: "Severity level of the escalation"
+
+  category:
+    type: string
+    enum:
+      - "validation"
+      - "resource"
+      - "timeout"
+      - "conflict"
+      - "invariant"
+      - "external"
+      - "performance"
+    description: "Category of error or abnormality"
+
+  # Error/abnormality details
+  description:
+    type: string
+    minLength: 1
+    description: "Clear, actionable description of what went wrong"
+
+  context:
+    type: object
+    required: [operation]
+    properties:
+      task_id:
+        type: string
+        pattern: "^[A-Z]{3,4}-[0-9]+(\\.[0-9]+)?$"
+        description: "Task being executed when error occurred"
+
+      operation:
+        type: string
+        description: "Specific operation that failed"
+
+      expected:
+        type: string
+        description: "What was expected to happen"
+
+      actual:
+        type: string
+        description: "What actually happened"
+
+      location:
+        type: object
+        properties:
+          file:
+            type: string
+          line:
+            type: integer
+          function:
+            type: string
+        description: "Location in code where error occurred"
+
+      metadata:
+        type: object
+        additionalProperties: true
+        description: "Additional context information"
+
+  # Recovery and resolution
+  suggested_action:
+    type: string
+    description: "Recommended action to resolve the issue"
+
+  can_retry:
+    type: boolean
+    description: "Whether the operation can be retried"
+
+  retry_after:
+    type: string
+    format: date-time
+    description: "Earliest time to retry (if can_retry is true)"
+
+  retry_count:
+    type: integer
+    minimum: 0
+    description: "Number of retry attempts already made"
+
+  max_retries:
+    type: integer
+    minimum: 0
+    description: "Maximum allowed retry attempts"
+
+  requires_human:
+    type: boolean
+    description: "Whether human intervention is required"
+
+  # Escalation tier tracking
+  escalation_tier:
+    type: integer
+    minimum: 1
+    maximum: 4
+    description: "Current escalation tier (1=self, 2=orchestrator, 3=tournant, 4=human)"
+
+  previous_attempts:
+    type: array
+    items:
+      type: object
+      required: [tier, action, result]
+      properties:
+        tier:
+          type: integer
+          minimum: 1
+          maximum: 4
+        action:
+          type: string
+        result:
+          type: string
+        timestamp:
+          type: string
+          format: date-time
+    description: "History of previous resolution attempts"
+
+  # Conflict-specific fields
+  conflict_details:
+    type: object
+    properties:
+      conflict_type:
+        type: string
+        enum: ["resource", "timing", "output"]
+        description: "Type of conflict"
+
+      agents_involved:
+        type: array
+        items:
+          type: string
+          pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+        minItems: 2
+        description: "Agents involved in the conflict"
+
+      resource_in_question:
+        type: string
+        description: "Resource being contested"
+
+      proposed_resolution:
+        type: string
+        enum: ["priority-based", "first-come-first-served", "orchestrator-arbitration"]
+        description: "Proposed conflict resolution strategy"
+
+      suggested_winner:
+        type: string
+        pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+        description: "Agent suggested to proceed (if priority-based)"
+
+  # Timeout-specific fields
+  timeout_details:
+    type: object
+    properties:
+      operation_started:
+        type: string
+        format: date-time
+        description: "When the operation started"
+
+      timeout_limit:
+        type: integer
+        minimum: 0
+        description: "Timeout limit in seconds"
+
+      elapsed_time:
+        type: integer
+        minimum: 0
+        description: "Time elapsed in seconds"
+
+      can_extend:
+        type: boolean
+        description: "Whether timeout can be extended"
+
+      partial_progress:
+        type: object
+        additionalProperties: true
+        description: "Progress made before timeout"
+
+additionalProperties: false

@@ -87,3 +87,73 @@ Research and development of agent orchestration patterns for Claude Code.
 - `docs/` - Design documents and research notes
 - `scripts/` - Prototype scripts and tools
 - `tasks/` - Task definitions and templates
+
+
+# Agent Conventions (MANDATORY)
+
+All agents operating in this system MUST follow conventions in `.agent-conventions/`.
+
+**These are NOT guidelines - they are requirements.** Convention violations are defects.
+
+## Convention Documents
+
+1. **Naming Conventions** - `.agent-conventions/naming.md`
+   - File naming: `*.test.ts`, `agent-*.yaml`, `schema-*.json`
+   - Variable naming: Booleans (`is*`, `has*`), Collections (plural), Constants (SCREAMING_SNAKE_CASE)
+   - Task IDs: `DOMAIN-NNN` format (CODE-100, TEST-200)
+   - Message types: Dot notation (`task.assignment`, `status.progress`)
+   - Reserved terms: GO, STOP, WARNING, STANDBY, ACKNOWLEDGED, BLOCKED, ESCALATE, CRITICAL
+
+2. **File Structure** - `.agent-conventions/file-structure.md`
+   - Directory organization and file placement rules
+   - Import/dependency patterns
+   - Configuration reference conventions
+
+3. **Message Schemas** - `.agent-conventions/message-schemas.md`
+   - All messages MUST be structured (YAML/JSON, not prose)
+   - All messages MUST include metadata (sender, timestamp, message_id)
+   - All messages MUST validate against schema before sending and upon receiving
+   - Schema files in `.agent-conventions/schemas/`
+
+4. **Coordination Protocols** - `.agent-conventions/coordination-protocols.md`
+   - **Cue-Based Coordination:** WARNING/STANDBY/GO protocol for multi-agent actions
+   - **Hub-and-Spoke:** Central communication routing
+   - **Exception-Based Reporting:** Only report state changes, not steady state
+   - **Dependency Sequencing:** Tasks execute in dependency order
+
+5. **Error Handling** - `.agent-conventions/error-handling.md`
+   - **Jidoka Philosophy:** Detect abnormalities immediately, stop before defects propagate
+   - **4-Tier Escalation:** Self-recovery → Orchestrator → Tournant → Human
+   - **Stop Conditions:** Schema validation fails, invariant violated, resource unavailable, timeout exceeded
+   - **Recovery Strategies:** Retry with backoff, fallback, graceful degradation, escalation
+
+## Message Validation
+
+Before sending ANY message, agents MUST:
+1. Validate against schema in `.agent-conventions/schemas/`
+2. Add required metadata (message_id, timestamp) if missing
+3. Route via hub according to message type
+
+Upon receiving ANY message, agents MUST:
+1. Validate structure against schema
+2. Check message is addressed to them
+3. Send error response if validation fails
+
+## Schema Files
+
+All message types have schemas:
+- `schema-task.yaml` - Task assignment, update, complete, failed, handoff
+- `schema-status.yaml` - Agent state changes (ready, busy, blocked, idle)
+- `schema-coordination.yaml` - WARNING/STANDBY/GO/STOP coordination
+- `schema-escalation.yaml` - Error, timeout, conflict, abnormality escalations
+- `schema-acknowledgment.yaml` - Receipt, understanding, completion, refusal
+
+## Enforcement
+
+Convention violations will be:
+1. Detected by validation tools
+2. Escalated as errors
+3. Blocked from entering the system
+4. Logged for analysis
+
+**Read all convention documents before implementing agent behavior.**

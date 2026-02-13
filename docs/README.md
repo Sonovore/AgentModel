@@ -12,14 +12,34 @@ For each model, we aim for 2-3 layers of depth beyond the Wikipedia summary.
 
 | Directory | Focus | Status |
 |-----------|-------|--------|
-| [management/](management/) | Org behavior, decision science, supervision | Active |
-| [control-theory/](control-theory/) | Feedback, stability, observability | Identified |
-| [safety-engineering/](safety-engineering/) | Failure, resilience, human factors | Identified |
-| [legal-agency/](legal-agency/) | Authority, liability, fiduciary duty | Identified |
-| [distributed-systems/](distributed-systems/) | Consensus, consistency, coordination | Identified |
-| [mechanism-design/](mechanism-design/) | Incentives, information asymmetry | Identified |
+| [management/](management/) | Org behavior, decision science, supervision | Researched |
+| [control-theory/](control-theory/) | Feedback, stability, observability | Researched |
+| [safety-engineering/](safety-engineering/) | Failure, resilience, human factors | Researched |
+| [legal-agency/](legal-agency/) | Authority, liability, fiduciary duty | Researched |
+| [distributed-systems/](distributed-systems/) | Consensus, consistency, coordination | Researched |
+| [mechanism-design/](mechanism-design/) | Incentives, information asymmetry | Researched |
+| [cognitive-science/](cognitive-science/) | Bounded rationality, attention, expertise | Researched |
 | [biology-cas/](biology-cas/) | Emergence, swarms, adaptation | Identified |
-| [cognitive-science/](cognitive-science/) | Bounded rationality, attention, expertise | Identified |
+| [military-command/](military-command/) | Commander's intent, decision authority, CCIRs | Researched |
+| [military-communication/](military-communication/) | Orders, reports, information flow | Researched |
+| [military-coordination/](military-coordination/) | Combined arms, synchronization, control measures | Researched |
+| [military-doctrine/](military-doctrine/) | Principles of war, operational art, strategy | Researched |
+| [military-hierarchy/](military-hierarchy/) | Command relationships, echelons, authority types | Researched |
+| [military-planning/](military-planning/) | MDMP, mission analysis, COA development | Researched |
+| [orchestral-conducting/](orchestral-conducting/) | Ensemble coordination, transformational leadership | Identified |
+| [theater-stage-management/](theater-stage-management/) | Cue-based coordination, central communication hub | Identified |
+| [air-traffic-control/](air-traffic-control/) | Deconfliction, flow management, safety-critical | Identified |
+| [emergency-dispatch/](emergency-dispatch/) | Triage, multi-agency coordination, protocols | Identified |
+| [mission-control/](mission-control/) | Specialized teams, CAPCOM, autonomous transitions | Identified |
+| [incident-response/](incident-response/) | SOC operations, incident command, AI-augmented | Identified |
+| [lean-manufacturing/](lean-manufacturing/) | Toyota system, JIT, kaizen, pull systems | Identified |
+| [kitchen-brigade/](kitchen-brigade/) | Station specialization, service coordination | Identified |
+| [jazz-improvisation/](jazz-improvisation/) | Emergent coordination, shared grammar | Identified |
+| [logistics-supply-chain/](logistics-supply-chain/) | Network optimization, flow, multi-objective | Identified |
+| [agile-scrum/](agile-scrum/) | Sprint cycles, ceremonies, scaling frameworks | Identified |
+| [surgical-teams/](surgical-teams/) | Safety-critical hierarchies, non-verbal coordination | Identified |
+| [film-production/](film-production/) | Phase-based workflows, hierarchical delegation | Identified |
+| [pedagogy/](pedagogy/) | Scaffolding, zone of proximal development | Identified |
 
 ## Models Requiring Deep Dives
 
@@ -70,6 +90,23 @@ Some models are actually straightforward once you understand them. Don't over-co
 | **Ashby's Law** | management | Variety must match variety. Controllers need as many states as controlled. |
 | **Heartbeats/Timeouts** | distributed-systems | Ping and wait. The tradeoffs are in timeout values. |
 | **Chunking** | cognitive-science | Group related things. 7±2 chunks, or 4 for working memory. |
+
+### Military Theory (Newly Added)
+
+Military command and control theory offers centuries of accumulated wisdom on operating under uncertainty with distributed execution.
+
+| Model | Directory | Surface Understanding | What's Actually Important |
+|-------|-----------|----------------------|---------------------------|
+| **Commander's Intent** | military-command | "Tell people what you want" | Two-levels-up context, end state vs purpose, enabling autonomous adaptation |
+| **CCIR** | military-command | "What the boss needs to know" | PIRs vs FFIRs, triggers for decision points, information filtering |
+| **Friction/Fog of War** | military-doctrine | "War is hard" | Gap between plan and reality as a systemic property, not just randomness |
+| **OPCON/TACON/ADCON** | military-hierarchy | "Different types of control" | When each applies, transfer of authority, joint operations complexity |
+| **Mission Analysis** | military-planning | "Understand the mission" | Specified vs implied vs essential tasks, constraints vs limitations |
+| **Branches and Sequels** | military-planning | "Contingency plans" | Decision points that trigger branches, pre-planned adaptations |
+| **5-Paragraph Order (SMEAC)** | military-communication | "Standardized order format" | Why each paragraph exists, progressive elaboration, orders as coordination |
+| **Combined Arms** | military-coordination | "Use different units together" | Complementary capabilities creating dilemmas, synchronization requirements |
+| **Ends-Ways-Means** | military-doctrine | "Goals, methods, resources" | Strategy as alignment, risk as mismatch, resource constraints as design input |
+| **Schwerpunkt** | military-doctrine | "Main effort" | Concentration at decisive point, economy of force elsewhere, focal point for coordination |
 
 ## Models Requiring Careful Translation
 
